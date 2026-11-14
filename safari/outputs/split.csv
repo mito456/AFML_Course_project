@@ -1,0 +1,2312 @@
+video_name,species,location_id,split
+sa_fari_002011,agouti,AGJ#1_sorted,source
+sa_fari_004423,agouti,AGJ#2_sorted,source
+sa_fari_007235,agouti,AGJ#3_sorted,source
+sa_fari_007533,agouti,AGJ#5_sorted,source
+sa_fari_010111,agouti,DIAMANTE_10_Terrestrial,source
+sa_fari_003842,agouti,DIAMANTE_13_Terrestrial,source
+sa_fari_000929,agouti,DIAMANTE_18_Terrestrial,source
+sa_fari_003367,agouti,DIAMANTE_20_Terrestrial,source
+sa_fari_008826,agouti,DIAMANTE_3_Terrestrial,source
+sa_fari_008236,agouti,DIAMANTE_5_Terrestrial,source
+sa_fari_009787,agouti,DIAMANTE_8_Terrestrial,source
+sa_fari_007884,agouti,MLC_4_Terrestrial,source
+sa_fari_011064,agouti,MS#101_sorted,source
+sa_fari_006819,agouti,MS#103_sorted,source
+sa_fari_002431,agouti,MS#104_sorted,source
+sa_fari_009418,agouti,MS#108_sorted,source
+sa_fari_002225,agouti,MS#10_sorted,source
+sa_fari_001890,agouti,MS#110_sorted,source
+sa_fari_007868,agouti,MS#111_sorted,source
+sa_fari_002827,agouti,MS#112_sorted,source
+sa_fari_000966,agouti,MS#113_sorted,source
+sa_fari_006896,agouti,MS#119_sorted,source
+sa_fari_003130,agouti,MS#122_sorted,source
+sa_fari_001949,agouti,MS#12_sorted,source
+sa_fari_001160,agouti,MS#137_sorted,source
+sa_fari_009737,agouti,MS#138_sorted,source
+sa_fari_011368,agouti,MS#13_sorted,source
+sa_fari_005633,agouti,MS#143_sorted,source
+sa_fari_006420,agouti,MS#144_sorted,source
+sa_fari_006193,agouti,MS#15_sorted,source
+sa_fari_002609,agouti,MS#16_sorted,source
+sa_fari_009435,agouti,MS#177_sorted,source
+sa_fari_002673,agouti,MS#18_first_collection_sorted,source
+sa_fari_001397,agouti,MS#3_sorted,source
+sa_fari_011736,agouti,MS#5_sorted,source
+sa_fari_003454,agouti,MS#6_sorted,source
+sa_fari_005972,agouti,MS#72_sorted,source
+sa_fari_001837,agouti,MS#73_sorted,source
+sa_fari_011060,agouti,MS#74_sorted,source
+sa_fari_010803,agouti,MS#7_sorted,source
+sa_fari_010572,agouti,MS#80_sorted,source
+sa_fari_008734,agouti,MS#84_sorted,source
+sa_fari_002486,agouti,MS#87_sorted,source
+sa_fari_001240,agouti,MS#8_sorted,source
+sa_fari_005893,agouti,MS#90_sorted,source
+sa_fari_011521,agouti,MS#92_sorted,source
+sa_fari_006788,agouti,MS#93_sorted,source
+sa_fari_008965,agouti,MS#96_sorted,source
+sa_fari_004852,agouti,NL#1_revised,source
+sa_fari_009517,agouti,ROMERO_10_Terrestrial,source
+sa_fari_006329,agouti,ROMERO_13_Terrestrial,source
+sa_fari_005375,agouti,ROMERO_16_Terrestrial,source
+sa_fari_002058,agouti,ROMERO_18_Terrestrial,source
+sa_fari_008710,agouti,ROMERO_1_Terrestrial,source
+sa_fari_007664,agouti,ROMERO_20_Terrestrial,source
+sa_fari_001688,agouti,ROMERO_3_Terrestrial,source
+sa_fari_008312,agouti,ROMERO_7_Terrestrial,source
+sa_fari_008466,agouti,SALED#2_B_sorted,source
+sa_fari_002062,agouti,AGJ#1_sorted,source
+sa_fari_006461,agouti,AGJ#2_sorted,source
+sa_fari_004488,agouti,AGJ#5_sorted,source
+sa_fari_009813,agouti,DIAMANTE_10_Terrestrial,source
+sa_fari_001318,agouti,DIAMANTE_13_Terrestrial,source
+sa_fari_005940,agouti,DIAMANTE_18_Terrestrial,source
+sa_fari_008087,agouti,DIAMANTE_20_Terrestrial,source
+sa_fari_009451,agouti,DIAMANTE_3_Terrestrial,source
+sa_fari_006147,agouti,DIAMANTE_5_Terrestrial,source
+sa_fari_007495,agouti,DIAMANTE_8_Terrestrial,source
+sa_fari_010222,agouti,MS#101_sorted,source
+sa_fari_004583,agouti,MS#103_sorted,source
+sa_fari_001039,agouti,MS#104_sorted,source
+sa_fari_011539,agouti,MS#108_sorted,source
+sa_fari_004259,agouti,MS#10_sorted,source
+sa_fari_010144,agouti,MS#110_sorted,source
+sa_fari_005943,agouti,MS#111_sorted,source
+sa_fari_001090,agouti,MS#112_sorted,source
+sa_fari_001296,agouti,MS#113_sorted,source
+sa_fari_009141,agouti,MS#119_sorted,source
+sa_fari_007307,agouti,MS#12_sorted,source
+sa_fari_005862,agouti,MS#137_sorted,source
+sa_fari_005481,baird's tapir,AGJ#1_sorted,source
+sa_fari_005322,baird's tapir,AGJ#3_sorted,source
+sa_fari_002983,baird's tapir,DIAMANTE_10_Terrestrial,source
+sa_fari_001817,baird's tapir,DIAMANTE_13_Terrestrial,source
+sa_fari_001223,baird's tapir,DIAMANTE_18_Terrestrial,source
+sa_fari_003750,baird's tapir,DIAMANTE_20_Terrestrial,source
+sa_fari_006405,baird's tapir,DIAMANTE_3_Terrestrial,source
+sa_fari_004833,baird's tapir,DIAMANTE_5_Terrestrial,source
+sa_fari_009974,baird's tapir,DIAMANTE_8_Terrestrial,source
+sa_fari_008085,baird's tapir,MLC_14_Terrestrial,source
+sa_fari_010637,baird's tapir,MLC_20_Terrestrial,source
+sa_fari_009786,baird's tapir,MLC_4_Terrestrial,source
+sa_fari_001092,baird's tapir,MS#13_sorted,source
+sa_fari_002109,baird's tapir,MS#15_sorted,source
+sa_fari_001234,baird's tapir,MS#175_sorted,source
+sa_fari_004164,baird's tapir,MS#2_revised,source
+sa_fari_010484,baird's tapir,MS#3_sorted,source
+sa_fari_008998,baird's tapir,MS#73_sorted,source
+sa_fari_002270,baird's tapir,MS#7_sorted,source
+sa_fari_003802,baird's tapir,MS#82_sorted,source
+sa_fari_006404,baird's tapir,ROMERO_10_Terrestrial,source
+sa_fari_004812,baird's tapir,ROMERO_13_Terrestrial,source
+sa_fari_009802,baird's tapir,ROMERO_15_Terrestrial,source
+sa_fari_004022,baird's tapir,ROMERO_18_Terrestrial,source
+sa_fari_006761,baird's tapir,ROMERO_1_Terrestrial,source
+sa_fari_006505,baird's tapir,ROMERO_3_Terrestrial,source
+sa_fari_001601,baird's tapir,ROMERO_7_Terrestrial,source
+sa_fari_009754,baird's tapir,SHINTUYA_14_Terrestrial,source
+sa_fari_002036,baird's tapir,SHINTUYA_17_Terrestrial,source
+sa_fari_001723,baird's tapir,SHINTUYA_18_Terrestrial,source
+sa_fari_002988,baird's tapir,SHINTUYA_7_Terrestrial,source
+sa_fari_000902,baird's tapir,AGJ#3_sorted,source
+sa_fari_007212,baird's tapir,DIAMANTE_10_Terrestrial,source
+sa_fari_006044,baird's tapir,DIAMANTE_18_Terrestrial,source
+sa_fari_002622,baird's tapir,DIAMANTE_20_Terrestrial,source
+sa_fari_001690,baird's tapir,DIAMANTE_3_Terrestrial,source
+sa_fari_004039,baird's tapir,DIAMANTE_5_Terrestrial,source
+sa_fari_008589,baird's tapir,DIAMANTE_8_Terrestrial,source
+sa_fari_001559,baird's tapir,MLC_14_Terrestrial,source
+sa_fari_002772,baird's tapir,MLC_20_Terrestrial,source
+sa_fari_001288,baird's tapir,MLC_4_Terrestrial,source
+sa_fari_008676,baird's tapir,MS#13_sorted,source
+sa_fari_001922,baird's tapir,MS#15_sorted,source
+sa_fari_004689,baird's tapir,MS#3_sorted,source
+sa_fari_007521,baird's tapir,MS#73_sorted,source
+sa_fari_009348,baird's tapir,MS#7_sorted,source
+sa_fari_010605,baird's tapir,MS#82_sorted,source
+sa_fari_007673,baird's tapir,ROMERO_10_Terrestrial,source
+sa_fari_006372,baird's tapir,ROMERO_13_Terrestrial,source
+sa_fari_002774,baird's tapir,ROMERO_15_Terrestrial,source
+sa_fari_004065,baird's tapir,ROMERO_18_Terrestrial,source
+sa_fari_002244,baird's tapir,ROMERO_1_Terrestrial,source
+sa_fari_010609,baird's tapir,ROMERO_3_Terrestrial,source
+sa_fari_006708,baird's tapir,ROMERO_7_Terrestrial,source
+sa_fari_001340,baird's tapir,SHINTUYA_14_Terrestrial,source
+sa_fari_008005,baird's tapir,SHINTUYA_17_Terrestrial,source
+sa_fari_008531,baird's tapir,SHINTUYA_18_Terrestrial,source
+sa_fari_004083,baird's tapir,SHINTUYA_7_Terrestrial,source
+sa_fari_011465,baird's tapir,AGJ#3_sorted,source
+sa_fari_003964,baird's tapir,DIAMANTE_10_Terrestrial,source
+sa_fari_010233,baird's tapir,DIAMANTE_18_Terrestrial,source
+sa_fari_005640,baird's tapir,DIAMANTE_20_Terrestrial,source
+sa_fari_010028,baird's tapir,DIAMANTE_3_Terrestrial,source
+sa_fari_004103,baird's tapir,DIAMANTE_5_Terrestrial,source
+sa_fari_007023,baird's tapir,DIAMANTE_8_Terrestrial,source
+sa_fari_006300,baird's tapir,MLC_14_Terrestrial,source
+sa_fari_010162,baird's tapir,MLC_20_Terrestrial,source
+sa_fari_005484,baird's tapir,MS#13_sorted,source
+sa_fari_009607,baird's tapir,MS#15_sorted,source
+sa_fari_005593,baird's tapir,MS#3_sorted,source
+sa_fari_010194,baird's tapir,MS#7_sorted,source
+sa_fari_006047,baird's tapir,MS#82_sorted,source
+sa_fari_003671,baird's tapir,ROMERO_10_Terrestrial,source
+sa_fari_008832,baird's tapir,ROMERO_13_Terrestrial,source
+sa_fari_011423,baird's tapir,ROMERO_15_Terrestrial,source
+sa_fari_005515,baird's tapir,ROMERO_18_Terrestrial,source
+sa_fari_002290,baird's tapir,ROMERO_1_Terrestrial,source
+sa_fari_005071,baird's tapir,ROMERO_3_Terrestrial,source
+sa_fari_005141,baird's tapir,ROMERO_7_Terrestrial,source
+sa_fari_005767,baird's tapir,SHINTUYA_14_Terrestrial,source
+sa_fari_004273,capuchin monkey,DIAMANTE_15_Arboreal,source
+sa_fari_007209,capuchin monkey,DIAMANTE_16_Arboreal,source
+sa_fari_001640,capuchin monkey,MLC_11_Arboreal,source
+sa_fari_011164,capuchin monkey,MLC_2_Arboreal,source
+sa_fari_001247,capuchin monkey,MS#111_sorted,source
+sa_fari_008120,capuchin monkey,MS#151_sorted,source
+sa_fari_011314,capuchin monkey,MS#2_revised,source
+sa_fari_001798,capuchin monkey,MS#80_sorted,source
+sa_fari_009978,capuchin monkey,MS#87_sorted,source
+sa_fari_002125,capuchin monkey,ROMERO_12_Arboreal,source
+sa_fari_007349,capuchin monkey,ROMERO_14_Arboreal,source
+sa_fari_011606,capuchin monkey,ROMERO_1_Terrestrial,source
+sa_fari_001794,capuchin monkey,ROMERO_7_Arboreal,source
+sa_fari_002958,capuchin monkey,ROMERO_7_Terrestrial,source
+sa_fari_007900,capuchin monkey,SHINTUYA_2_Arboreal,source
+sa_fari_002050,capuchin monkey,SHINTUYA_7_Arboreal,source
+sa_fari_002129,capuchin monkey,arb_001,source
+sa_fari_003174,capuchin monkey,arb_002,source
+sa_fari_002144,capuchin monkey,arb_003,source
+sa_fari_008771,capuchin monkey,arb_004,source
+sa_fari_006713,capuchin monkey,arb_005,source
+sa_fari_008409,capuchin monkey,arb_006,source
+sa_fari_002855,capuchin monkey,arb_007,source
+sa_fari_005000,capuchin monkey,arb_008,source
+sa_fari_001022,capuchin monkey,arb_009,source
+sa_fari_006917,capuchin monkey,arb_010,source
+sa_fari_011222,capuchin monkey,arb_011,source
+sa_fari_003843,capuchin monkey,arb_012,source
+sa_fari_010638,capuchin monkey,arb_013,source
+sa_fari_001370,capuchin monkey,arb_014,source
+sa_fari_001285,capuchin monkey,arb_015,source
+sa_fari_003050,capuchin monkey,arb_017,source
+sa_fari_001781,capuchin monkey,arb_018,source
+sa_fari_011687,capuchin monkey,arb_019,source
+sa_fari_004849,capuchin monkey,arb_020,source
+sa_fari_004413,capuchin monkey,arb_021,source
+sa_fari_003877,capuchin monkey,arb_022,source
+sa_fari_004450,capuchin monkey,arb_023,source
+sa_fari_011152,capuchin monkey,arb_024,source
+sa_fari_005834,capuchin monkey,arb_025,source
+sa_fari_001958,capuchin monkey,arb_026,source
+sa_fari_001921,capuchin monkey,arb_028,source
+sa_fari_008189,capuchin monkey,arb_029,source
+sa_fari_010102,capuchin monkey,arb_030,source
+sa_fari_005553,capuchin monkey,arb_031,source
+sa_fari_002759,capuchin monkey,arb_033,source
+sa_fari_003075,capuchin monkey,arb_035,source
+sa_fari_007989,capuchin monkey,arb_038,source
+sa_fari_011265,capuchin monkey,arb_039,source
+sa_fari_005013,capuchin monkey,arb_040,source
+sa_fari_005724,capuchin monkey,arb_041,source
+sa_fari_002193,capuchin monkey,arb_042,source
+sa_fari_004375,capuchin monkey,arb_047,source
+sa_fari_011224,capuchin monkey,arb_048,source
+sa_fari_004460,capuchin monkey,arb_049,source
+sa_fari_003660,capuchin monkey,arb_050,source
+sa_fari_007458,capuchin monkey,arb_051,source
+sa_fari_007254,capuchin monkey,arb_34,source
+sa_fari_011640,capuchin monkey,arb_36,source
+sa_fari_008176,capuchin monkey,MLC_2_Arboreal,source
+sa_fari_004271,capuchin monkey,MS#151_sorted,source
+sa_fari_008596,capuchin monkey,ROMERO_12_Arboreal,source
+sa_fari_000949,capuchin monkey,ROMERO_14_Arboreal,source
+sa_fari_002151,capuchin monkey,ROMERO_7_Arboreal,source
+sa_fari_007515,capuchin monkey,ROMERO_7_Terrestrial,source
+sa_fari_004734,capuchin monkey,SHINTUYA_2_Arboreal,source
+sa_fari_004563,capuchin monkey,SHINTUYA_7_Arboreal,source
+sa_fari_002751,capuchin monkey,arb_001,source
+sa_fari_007399,capuchin monkey,arb_002,source
+sa_fari_009919,capuchin monkey,arb_003,source
+sa_fari_007995,capuchin monkey,arb_004,source
+sa_fari_004216,capuchin monkey,arb_005,source
+sa_fari_005221,capuchin monkey,arb_006,source
+sa_fari_007329,capuchin monkey,arb_007,source
+sa_fari_005185,capuchin monkey,arb_008,source
+sa_fari_002220,capuchin monkey,arb_009,source
+sa_fari_004631,capuchin monkey,arb_010,source
+sa_fari_010930,capuchin monkey,arb_011,source
+sa_fari_006482,capuchin monkey,arb_012,source
+sa_fari_002403,capuchin monkey,arb_013,source
+sa_fari_011422,collared peccary,DIAMANTE_13_Terrestrial,source
+sa_fari_005996,collared peccary,DIAMANTE_18_Terrestrial,source
+sa_fari_001472,collared peccary,DIAMANTE_3_Terrestrial,source
+sa_fari_005994,collared peccary,MLC_14_Terrestrial,source
+sa_fari_005226,collared peccary,MLC_20_Terrestrial,source
+sa_fari_001895,collared peccary,MLC_4_Terrestrial,source
+sa_fari_010898,collared peccary,MS#101_sorted,source
+sa_fari_004114,collared peccary,MS#103_sorted,source
+sa_fari_002378,collared peccary,MS#104_sorted,source
+sa_fari_005364,collared peccary,MS#108_sorted,source
+sa_fari_002940,collared peccary,MS#10_sorted,source
+sa_fari_004731,collared peccary,MS#110_sorted,source
+sa_fari_005543,collared peccary,MS#111_sorted,source
+sa_fari_006842,collared peccary,MS#112_sorted,source
+sa_fari_003849,collared peccary,MS#114_sorted,source
+sa_fari_011708,collared peccary,MS#116_sorted,source
+sa_fari_011604,collared peccary,MS#119_sorted,source
+sa_fari_003225,collared peccary,MS#12_sorted,source
+sa_fari_008647,collared peccary,MS#130_sorted,source
+sa_fari_003494,collared peccary,MS#131_sorted,source
+sa_fari_005391,collared peccary,MS#135_sorted,source
+sa_fari_008182,collared peccary,MS#15_sorted,source
+sa_fari_004898,collared peccary,MS#2_revised,source
+sa_fari_003343,collared peccary,MS#3_sorted,source
+sa_fari_005585,collared peccary,MS#69_sorted,source
+sa_fari_008792,collared peccary,MS#6_sorted,source
+sa_fari_002575,collared peccary,MS#73_sorted,source
+sa_fari_008124,collared peccary,MS#7_sorted,source
+sa_fari_008198,collared peccary,MS#80_sorted,source
+sa_fari_002705,collared peccary,MS#82_sorted,source
+sa_fari_002817,collared peccary,MS#84_sorted,source
+sa_fari_001104,collared peccary,MS#87_sorted,source
+sa_fari_009383,collared peccary,MS#88_sorted,source
+sa_fari_006909,collared peccary,MS#93_sorted,source
+sa_fari_009028,collared peccary,ROMERO_10_Terrestrial,source
+sa_fari_002749,collared peccary,ROMERO_13_Terrestrial,source
+sa_fari_001150,collared peccary,ROMERO_15_Terrestrial,source
+sa_fari_010709,collared peccary,ROMERO_16_Terrestrial,source
+sa_fari_010255,collared peccary,ROMERO_18_Terrestrial,source
+sa_fari_003605,collared peccary,ROMERO_1_Terrestrial,source
+sa_fari_001660,collared peccary,ROMERO_20_Terrestrial,source
+sa_fari_004006,collared peccary,ROMERO_7_Terrestrial,source
+sa_fari_009290,collared peccary,SALED#2_B_sorted,source
+sa_fari_005977,collared peccary,SHINTUYA_14_Terrestrial,source
+sa_fari_007627,collared peccary,SHINTUYA_7_Terrestrial,source
+sa_fari_002826,collared peccary,colpa_006,source
+sa_fari_003995,collared peccary,colpa_c03,source
+sa_fari_007947,collared peccary,DIAMANTE_13_Terrestrial,source
+sa_fari_011372,collared peccary,DIAMANTE_18_Terrestrial,source
+sa_fari_008056,collared peccary,DIAMANTE_3_Terrestrial,source
+sa_fari_003899,collared peccary,MLC_20_Terrestrial,source
+sa_fari_007450,collared peccary,MLC_4_Terrestrial,source
+sa_fari_011677,collared peccary,MS#101_sorted,source
+sa_fari_002156,collared peccary,MS#103_sorted,source
+sa_fari_007262,collared peccary,MS#104_sorted,source
+sa_fari_008212,collared peccary,MS#108_sorted,source
+sa_fari_010057,collared peccary,MS#110_sorted,source
+sa_fari_009220,collared peccary,MS#111_sorted,source
+sa_fari_005186,collared peccary,MS#112_sorted,source
+sa_fari_001576,collared peccary,MS#114_sorted,source
+sa_fari_006884,collared peccary,MS#116_sorted,source
+sa_fari_007101,collared peccary,MS#12_sorted,source
+sa_fari_010595,collared peccary,MS#131_sorted,source
+sa_fari_008315,collared peccary,MS#135_sorted,source
+sa_fari_010540,collared peccary,MS#15_sorted,source
+sa_fari_009704,collared peccary,MS#3_sorted,source
+sa_fari_001047,collared peccary,MS#6_sorted,source
+sa_fari_004146,collared peccary,MS#7_sorted,source
+sa_fari_006559,collared peccary,MS#80_sorted,source
+sa_fari_004828,collared peccary,MS#82_sorted,source
+sa_fari_001583,collared peccary,MS#87_sorted,source
+sa_fari_005486,collared peccary,MS#93_sorted,source
+sa_fari_001359,collared peccary,ROMERO_10_Terrestrial,source
+sa_fari_011305,collared peccary,ROMERO_13_Terrestrial,source
+sa_fari_002191,collared peccary,ROMERO_15_Terrestrial,source
+sa_fari_002574,collared peccary,ROMERO_16_Terrestrial,source
+sa_fari_003418,collared peccary,ROMERO_18_Terrestrial,source
+sa_fari_011627,collared peccary,ROMERO_1_Terrestrial,source
+sa_fari_004044,collared peccary,ROMERO_20_Terrestrial,source
+sa_fari_009863,collared peccary,ROMERO_7_Terrestrial,source
+sa_fari_002645,common opossum,AGJ#1_sorted,source
+sa_fari_002490,common opossum,AGJ#2_sorted,source
+sa_fari_010355,common opossum,AGJ#5_sorted,source
+sa_fari_008865,common opossum,DIAMANTE_10_Terrestrial,source
+sa_fari_005222,common opossum,DIAMANTE_18_Terrestrial,source
+sa_fari_006642,common opossum,DIAMANTE_3_Terrestrial,source
+sa_fari_007481,common opossum,DIAMANTE_5_Terrestrial,source
+sa_fari_006384,common opossum,MLC_11_Arboreal,source
+sa_fari_001634,common opossum,MLC_2_Arboreal,source
+sa_fari_010060,common opossum,MLC_7_Arboreal,source
+sa_fari_001251,common opossum,MS#103_sorted,source
+sa_fari_007582,common opossum,MS#108_sorted,source
+sa_fari_005488,common opossum,MS#110_sorted,source
+sa_fari_003018,common opossum,MS#112_sorted,source
+sa_fari_008167,common opossum,MS#114_sorted,source
+sa_fari_008177,common opossum,MS#118_sorted,source
+sa_fari_006209,common opossum,MS#119_sorted,source
+sa_fari_011409,common opossum,MS#123_sorted,source
+sa_fari_006101,common opossum,MS#130_sorted,source
+sa_fari_009527,common opossum,MS#13_sorted,source
+sa_fari_002551,common opossum,MS#143_sorted,source
+sa_fari_006560,common opossum,MS#144_sorted,source
+sa_fari_001459,common opossum,MS#148_sorted,source
+sa_fari_003356,common opossum,MS#151_sorted,source
+sa_fari_003006,common opossum,MS#152_sorted,source
+sa_fari_011389,common opossum,MS#154_sorted,source
+sa_fari_007301,common opossum,MS#155_sorted,source
+sa_fari_009815,common opossum,MS#164_sorted,source
+sa_fari_002933,common opossum,MS#16_sorted,source
+sa_fari_005083,common opossum,MS#175_sorted,source
+sa_fari_001127,common opossum,MS#3_sorted,source
+sa_fari_008350,common opossum,MS#5_sorted,source
+sa_fari_010436,common opossum,MS#7_sorted,source
+sa_fari_011211,common opossum,ROMERO_10_Terrestrial,source
+sa_fari_008972,common opossum,ROMERO_12_Arboreal,source
+sa_fari_003577,common opossum,ROMERO_13_Terrestrial,source
+sa_fari_006301,common opossum,ROMERO_15_Terrestrial,source
+sa_fari_005989,common opossum,ROMERO_18_Terrestrial,source
+sa_fari_005417,common opossum,ROMERO_2_Arboreal,source
+sa_fari_001267,common opossum,ROMERO_7_Arboreal,source
+sa_fari_006534,common opossum,SHINTUYA_7_Terrestrial,source
+sa_fari_000870,common opossum,AGJ#1_sorted,source
+sa_fari_007864,common opossum,AGJ#2_sorted,source
+sa_fari_007955,common opossum,AGJ#5_sorted,source
+sa_fari_010775,common opossum,DIAMANTE_10_Terrestrial,source
+sa_fari_010551,common opossum,DIAMANTE_18_Terrestrial,source
+sa_fari_007983,common opossum,DIAMANTE_3_Terrestrial,source
+sa_fari_003796,common opossum,DIAMANTE_5_Terrestrial,source
+sa_fari_004634,common opossum,MLC_11_Arboreal,source
+sa_fari_003820,common opossum,MLC_2_Arboreal,source
+sa_fari_002332,common opossum,MS#103_sorted,source
+sa_fari_008544,common opossum,MS#108_sorted,source
+sa_fari_008682,common opossum,MS#118_sorted,source
+sa_fari_010215,common opossum,MS#123_sorted,source
+sa_fari_006900,common opossum,MS#130_sorted,source
+sa_fari_003014,common opossum,MS#13_sorted,source
+sa_fari_010926,common opossum,MS#143_sorted,source
+sa_fari_008104,common opossum,MS#148_sorted,source
+sa_fari_002328,common opossum,MS#151_sorted,source
+sa_fari_002464,common opossum,MS#154_sorted,source
+sa_fari_002837,common opossum,MS#155_sorted,source
+sa_fari_010900,common opossum,MS#164_sorted,source
+sa_fari_009291,common opossum,MS#3_sorted,source
+sa_fari_004643,common opossum,MS#5_sorted,source
+sa_fari_002429,common opossum,ROMERO_10_Terrestrial,source
+sa_fari_009627,common opossum,ROMERO_12_Arboreal,source
+sa_fari_011051,common opossum,ROMERO_13_Terrestrial,source
+sa_fari_007208,common opossum,ROMERO_2_Arboreal,source
+sa_fari_011076,common opossum,ROMERO_7_Arboreal,source
+sa_fari_008475,common opossum,AGJ#1_sorted,source
+sa_fari_005818,common opossum,AGJ#2_sorted,source
+sa_fari_010586,common opossum,DIAMANTE_10_Terrestrial,source
+sa_fari_011404,common opossum,DIAMANTE_18_Terrestrial,source
+sa_fari_003357,common opossum,DIAMANTE_3_Terrestrial,source
+sa_fari_002449,common opossum,MLC_11_Arboreal,source
+sa_fari_008939,common opossum,MS#103_sorted,source
+sa_fari_002465,common opossum,MS#108_sorted,source
+sa_fari_011623,common opossum,MS#118_sorted,source
+sa_fari_005070,common opossum,MS#123_sorted,source
+sa_fari_003917,common opossum,MS#13_sorted,source
+sa_fari_007409,crab-eating raccoon,AGJ#1_sorted,source
+sa_fari_004881,crab-eating raccoon,AGJ#3_sorted,source
+sa_fari_005635,crab-eating raccoon,AGJ#5_sorted,source
+sa_fari_006214,crab-eating raccoon,MLC_14_Terrestrial,source
+sa_fari_004211,crab-eating raccoon,MLC_20_Terrestrial,source
+sa_fari_002602,crab-eating raccoon,MS#101_sorted,source
+sa_fari_006828,crab-eating raccoon,MS#113_sorted,source
+sa_fari_005054,crab-eating raccoon,MS#114_sorted,source
+sa_fari_008747,crab-eating raccoon,MS#116_sorted,source
+sa_fari_002416,crab-eating raccoon,MS#118_sorted,source
+sa_fari_003438,crab-eating raccoon,MS#121_sorted,source
+sa_fari_003691,crab-eating raccoon,MS#143_sorted,source
+sa_fari_004269,crab-eating raccoon,MS#144_sorted,source
+sa_fari_002755,crab-eating raccoon,MS#154_sorted,source
+sa_fari_007448,crab-eating raccoon,MS#155_sorted,source
+sa_fari_001774,crab-eating raccoon,MS#175_sorted,source
+sa_fari_011365,crab-eating raccoon,MS#84_sorted,source
+sa_fari_011670,crab-eating raccoon,ROMERO_1_Terrestrial,source
+sa_fari_009047,crab-eating raccoon,AGJ#1_sorted,source
+sa_fari_005361,crab-eating raccoon,AGJ#3_sorted,source
+sa_fari_011428,crab-eating raccoon,MLC_14_Terrestrial,source
+sa_fari_006776,crab-eating raccoon,MLC_20_Terrestrial,source
+sa_fari_002434,crab-eating raccoon,MS#101_sorted,source
+sa_fari_001312,crab-eating raccoon,MS#114_sorted,source
+sa_fari_006478,crab-eating raccoon,MS#116_sorted,source
+sa_fari_003500,crab-eating raccoon,MS#118_sorted,source
+sa_fari_002879,crab-eating raccoon,MS#121_sorted,source
+sa_fari_007207,crab-eating raccoon,MS#154_sorted,source
+sa_fari_005884,crab-eating raccoon,MS#155_sorted,source
+sa_fari_004724,crab-eating raccoon,MS#175_sorted,source
+sa_fari_004015,crab-eating raccoon,AGJ#1_sorted,source
+sa_fari_006238,crab-eating raccoon,MLC_20_Terrestrial,source
+sa_fari_008271,crab-eating raccoon,MS#101_sorted,source
+sa_fari_009785,crab-eating raccoon,MS#114_sorted,source
+sa_fari_000908,crab-eating raccoon,MS#116_sorted,source
+sa_fari_002568,crab-eating raccoon,MS#118_sorted,source
+sa_fari_011645,crab-eating raccoon,MS#121_sorted,source
+sa_fari_009384,crab-eating raccoon,MS#155_sorted,source
+sa_fari_010470,crab-eating raccoon,MS#175_sorted,source
+sa_fari_009320,crab-eating raccoon,AGJ#1_sorted,source
+sa_fari_010175,crab-eating raccoon,MLC_20_Terrestrial,source
+sa_fari_005521,crab-eating raccoon,MS#114_sorted,source
+sa_fari_004038,crab-eating raccoon,MS#116_sorted,source
+sa_fari_004431,crab-eating raccoon,MS#118_sorted,source
+sa_fari_000952,crab-eating raccoon,MS#121_sorted,source
+sa_fari_008654,crab-eating raccoon,MS#155_sorted,source
+sa_fari_006791,crab-eating raccoon,MS#175_sorted,source
+sa_fari_002513,crab-eating raccoon,AGJ#1_sorted,source
+sa_fari_001654,crab-eating raccoon,MS#114_sorted,source
+sa_fari_009036,crab-eating raccoon,MS#116_sorted,source
+sa_fari_001946,crab-eating raccoon,MS#118_sorted,source
+sa_fari_004072,crab-eating raccoon,MS#175_sorted,source
+sa_fari_008508,crab-eating raccoon,AGJ#1_sorted,source
+sa_fari_009117,crab-eating raccoon,MS#114_sorted,source
+sa_fari_002252,crab-eating raccoon,MS#116_sorted,source
+sa_fari_002545,crab-eating raccoon,MS#118_sorted,source
+sa_fari_007712,crab-eating raccoon,MS#175_sorted,source
+sa_fari_011480,crab-eating raccoon,MS#114_sorted,source
+sa_fari_011520,crab-eating raccoon,MS#116_sorted,source
+sa_fari_002919,crab-eating raccoon,MS#118_sorted,source
+sa_fari_001983,crab-eating raccoon,MS#175_sorted,source
+sa_fari_011587,crab-eating raccoon,MS#114_sorted,source
+sa_fari_011658,crab-eating raccoon,MS#116_sorted,source
+sa_fari_009805,crab-eating raccoon,MS#118_sorted,source
+sa_fari_001038,crab-eating raccoon,MS#175_sorted,source
+sa_fari_009264,crab-eating raccoon,MS#114_sorted,source
+sa_fari_008107,crab-eating raccoon,MS#116_sorted,source
+sa_fari_002315,crab-eating raccoon,MS#118_sorted,source
+sa_fari_004056,crab-eating raccoon,MS#175_sorted,source
+sa_fari_007295,crab-eating raccoon,MS#114_sorted,source
+sa_fari_007540,crab-eating raccoon,MS#116_sorted,source
+sa_fari_006978,crab-eating raccoon,MS#118_sorted,source
+sa_fari_005625,crab-eating raccoon,MS#175_sorted,source
+sa_fari_005294,crab-eating raccoon,MS#114_sorted,source
+sa_fari_001552,crab-eating raccoon,MS#116_sorted,source
+sa_fari_001522,crab-eating raccoon,MS#118_sorted,source
+sa_fari_006284,crab-eating raccoon,MS#175_sorted,source
+sa_fari_003929,crab-eating raccoon,MS#114_sorted,source
+sa_fari_007126,crab-eating raccoon,MS#116_sorted,source
+sa_fari_002406,crab-eating raccoon,MS#118_sorted,source
+sa_fari_007951,four-eyed opossum,DIAMANTE_13_Terrestrial,source
+sa_fari_000943,four-eyed opossum,MLC_2_Arboreal,source
+sa_fari_001807,four-eyed opossum,MS#116_sorted,source
+sa_fari_008392,four-eyed opossum,MS#118_sorted,source
+sa_fari_009841,four-eyed opossum,MS#133_sorted,source
+sa_fari_001013,four-eyed opossum,MS#138_sorted,source
+sa_fari_008114,four-eyed opossum,MS#13_sorted,source
+sa_fari_006062,four-eyed opossum,MS#141_sorted,source
+sa_fari_002428,four-eyed opossum,MS#143_sorted,source
+sa_fari_005831,four-eyed opossum,MS#144_sorted,source
+sa_fari_002473,four-eyed opossum,MS#151_sorted,source
+sa_fari_006290,four-eyed opossum,MS#152_sorted,source
+sa_fari_002013,four-eyed opossum,MS#154_sorted,source
+sa_fari_009381,four-eyed opossum,MS#155_sorted,source
+sa_fari_002521,four-eyed opossum,MS#156_sorted,source
+sa_fari_002529,four-eyed opossum,MS#175_sorted,source
+sa_fari_009745,four-eyed opossum,MS#177_sorted,source
+sa_fari_011238,four-eyed opossum,ROMERO_12_Arboreal,source
+sa_fari_004172,four-eyed opossum,ROMERO_14_Arboreal,source
+sa_fari_004225,four-eyed opossum,ROMERO_3_Arboreal,source
+sa_fari_004927,four-eyed opossum,ROMERO_7_Arboreal,source
+sa_fari_001620,four-eyed opossum,SHINTUYA_16_Arboreal,source
+sa_fari_005776,four-eyed opossum,SHINTUYA_7_Arboreal,source
+sa_fari_004920,four-eyed opossum,SHINTUYA_8_Arboreal,source
+sa_fari_010721,four-eyed opossum,MLC_2_Arboreal,source
+sa_fari_002360,four-eyed opossum,MS#116_sorted,source
+sa_fari_007527,four-eyed opossum,MS#138_sorted,source
+sa_fari_002283,four-eyed opossum,MS#143_sorted,source
+sa_fari_011398,four-eyed opossum,MS#151_sorted,source
+sa_fari_007096,four-eyed opossum,MS#152_sorted,source
+sa_fari_000845,four-eyed opossum,MS#154_sorted,source
+sa_fari_011146,four-eyed opossum,MS#155_sorted,source
+sa_fari_008430,four-eyed opossum,MS#156_sorted,source
+sa_fari_004422,four-eyed opossum,MS#175_sorted,source
+sa_fari_003647,four-eyed opossum,ROMERO_12_Arboreal,source
+sa_fari_007407,four-eyed opossum,ROMERO_14_Arboreal,source
+sa_fari_007219,four-eyed opossum,ROMERO_3_Arboreal,source
+sa_fari_007806,four-eyed opossum,ROMERO_7_Arboreal,source
+sa_fari_001385,four-eyed opossum,SHINTUYA_16_Arboreal,source
+sa_fari_006034,four-eyed opossum,SHINTUYA_7_Arboreal,source
+sa_fari_010577,four-eyed opossum,SHINTUYA_8_Arboreal,source
+sa_fari_002430,four-eyed opossum,MS#138_sorted,source
+sa_fari_011585,four-eyed opossum,MS#143_sorted,source
+sa_fari_002590,four-eyed opossum,MS#151_sorted,source
+sa_fari_006916,four-eyed opossum,MS#152_sorted,source
+sa_fari_006022,four-eyed opossum,MS#154_sorted,source
+sa_fari_002849,four-eyed opossum,MS#155_sorted,source
+sa_fari_006920,four-eyed opossum,MS#156_sorted,source
+sa_fari_008325,four-eyed opossum,ROMERO_12_Arboreal,source
+sa_fari_003706,four-eyed opossum,ROMERO_14_Arboreal,source
+sa_fari_005047,four-eyed opossum,ROMERO_3_Arboreal,source
+sa_fari_001845,four-eyed opossum,SHINTUYA_16_Arboreal,source
+sa_fari_007430,four-eyed opossum,SHINTUYA_7_Arboreal,source
+sa_fari_011311,four-eyed opossum,SHINTUYA_8_Arboreal,source
+sa_fari_009536,four-eyed opossum,MS#138_sorted,source
+sa_fari_007609,four-eyed opossum,MS#143_sorted,source
+sa_fari_004000,four-eyed opossum,MS#151_sorted,source
+sa_fari_003027,four-eyed opossum,MS#152_sorted,source
+sa_fari_001242,four-eyed opossum,MS#154_sorted,source
+sa_fari_007710,four-eyed opossum,MS#155_sorted,source
+sa_fari_008310,four-eyed opossum,MS#156_sorted,source
+sa_fari_004841,four-eyed opossum,ROMERO_12_Arboreal,source
+sa_fari_008099,four-eyed opossum,ROMERO_14_Arboreal,source
+sa_fari_003430,four-eyed opossum,ROMERO_3_Arboreal,source
+sa_fari_009883,four-eyed opossum,SHINTUYA_16_Arboreal,source
+sa_fari_008830,four-eyed opossum,SHINTUYA_7_Arboreal,source
+sa_fari_001587,four-eyed opossum,SHINTUYA_8_Arboreal,source
+sa_fari_001622,four-eyed opossum,MS#138_sorted,source
+sa_fari_000916,four-eyed opossum,MS#151_sorted,source
+sa_fari_010360,four-eyed opossum,MS#152_sorted,source
+sa_fari_008915,four-eyed opossum,MS#154_sorted,source
+sa_fari_005033,four-eyed opossum,MS#155_sorted,source
+sa_fari_004462,four-eyed opossum,ROMERO_12_Arboreal,source
+sa_fari_010631,four-eyed opossum,ROMERO_14_Arboreal,source
+sa_fari_009895,four-eyed opossum,SHINTUYA_16_Arboreal,source
+sa_fari_002373,four-eyed opossum,SHINTUYA_7_Arboreal,source
+sa_fari_001700,four-eyed opossum,SHINTUYA_8_Arboreal,source
+sa_fari_010159,four-eyed opossum,MS#138_sorted,source
+sa_fari_005167,four-eyed opossum,MS#151_sorted,source
+sa_fari_008759,four-eyed opossum,MS#152_sorted,source
+sa_fari_001209,great tinamou,AGJ#1_sorted,source
+sa_fari_011491,great tinamou,AGJ#2_sorted,source
+sa_fari_003713,great tinamou,MLC_20_Terrestrial,source
+sa_fari_009080,great tinamou,MS#101_sorted,source
+sa_fari_009472,great tinamou,MS#103_sorted,source
+sa_fari_010203,great tinamou,MS#104_sorted,source
+sa_fari_010353,great tinamou,MS#108_sorted,source
+sa_fari_010276,great tinamou,MS#10_sorted,source
+sa_fari_008932,great tinamou,MS#110_sorted,source
+sa_fari_009309,great tinamou,MS#112_sorted,source
+sa_fari_010611,great tinamou,MS#119_sorted,source
+sa_fari_007302,great tinamou,MS#12_sorted,source
+sa_fari_008305,great tinamou,MS#133_sorted,source
+sa_fari_003518,great tinamou,MS#13_sorted,source
+sa_fari_003466,great tinamou,MS#152_sorted,source
+sa_fari_002047,great tinamou,MS#154_sorted,source
+sa_fari_008218,great tinamou,MS#155_sorted,source
+sa_fari_005626,great tinamou,MS#16_sorted,source
+sa_fari_003389,great tinamou,MS#177_sorted,source
+sa_fari_010526,great tinamou,MS#18_first_collection_sorted,source
+sa_fari_003799,great tinamou,MS#3_sorted,source
+sa_fari_008866,great tinamou,MS#5_sorted,source
+sa_fari_003724,great tinamou,MS#6_sorted,source
+sa_fari_008228,great tinamou,MS#72_sorted,source
+sa_fari_003798,great tinamou,MS#73_sorted,source
+sa_fari_002206,great tinamou,MS#74_sorted,source
+sa_fari_009021,great tinamou,MS#7_sorted,source
+sa_fari_006863,great tinamou,MS#80_sorted,source
+sa_fari_003776,great tinamou,MS#87_sorted,source
+sa_fari_001713,great tinamou,MS#88_sorted,source
+sa_fari_011443,great tinamou,MS#90_sorted,source
+sa_fari_010875,great tinamou,MS#92_sorted,source
+sa_fari_001205,great tinamou,MS#93_sorted,source
+sa_fari_003248,great tinamou,MS#96_sorted,source
+sa_fari_010189,great tinamou,NL#1_revised,source
+sa_fari_006293,great tinamou,SALED#2_B_sorted,source
+sa_fari_005946,great tinamou,SHINTUYA_14_Terrestrial,source
+sa_fari_003262,great tinamou,AGJ#2_sorted,source
+sa_fari_007060,great tinamou,MLC_20_Terrestrial,source
+sa_fari_002654,great tinamou,MS#103_sorted,source
+sa_fari_002081,great tinamou,MS#104_sorted,source
+sa_fari_008618,great tinamou,MS#108_sorted,source
+sa_fari_008158,great tinamou,MS#10_sorted,source
+sa_fari_004782,great tinamou,MS#110_sorted,source
+sa_fari_001011,great tinamou,MS#119_sorted,source
+sa_fari_007744,great tinamou,MS#12_sorted,source
+sa_fari_004603,great tinamou,MS#13_sorted,source
+sa_fari_008437,great tinamou,MS#152_sorted,source
+sa_fari_004187,great tinamou,MS#154_sorted,source
+sa_fari_010661,great tinamou,MS#177_sorted,source
+sa_fari_006544,great tinamou,MS#18_first_collection_sorted,source
+sa_fari_008323,great tinamou,MS#3_sorted,source
+sa_fari_002765,great tinamou,MS#6_sorted,source
+sa_fari_003532,great tinamou,MS#72_sorted,source
+sa_fari_006432,great tinamou,MS#74_sorted,source
+sa_fari_003166,great tinamou,MS#7_sorted,source
+sa_fari_009020,great tinamou,MS#80_sorted,source
+sa_fari_006882,great tinamou,MS#90_sorted,source
+sa_fari_009296,great tinamou,MS#92_sorted,source
+sa_fari_010202,great tinamou,MS#93_sorted,source
+sa_fari_002957,great tinamou,MS#96_sorted,source
+sa_fari_008852,great tinamou,SALED#2_B_sorted,source
+sa_fari_002820,great tinamou,SHINTUYA_14_Terrestrial,source
+sa_fari_003625,great tinamou,AGJ#2_sorted,source
+sa_fari_002860,great tinamou,MS#103_sorted,source
+sa_fari_005476,great tinamou,MS#104_sorted,source
+sa_fari_004129,great tinamou,MS#108_sorted,source
+sa_fari_006517,great tinamou,MS#10_sorted,source
+sa_fari_001059,great tinamou,MS#12_sorted,source
+sa_fari_010339,great tinamou,MS#13_sorted,source
+sa_fari_009213,great tinamou,MS#154_sorted,source
+sa_fari_005921,great tinamou,MS#177_sorted,source
+sa_fari_005601,great tinamou,MS#18_first_collection_sorted,source
+sa_fari_006499,great tinamou,MS#3_sorted,source
+sa_fari_006886,great tinamou,MS#6_sorted,source
+sa_fari_004587,great tinamou,MS#72_sorted,source
+sa_fari_007839,great tinamou,MS#7_sorted,source
+sa_fari_009453,great tinamou,MS#80_sorted,source
+sa_fari_002001,great tinamou,MS#90_sorted,source
+sa_fari_003083,great tinamou,MS#92_sorted,source
+sa_fari_003269,jaguar,DIAMANTE_10_Terrestrial,source
+sa_fari_008160,jaguar,DIAMANTE_13_Terrestrial,source
+sa_fari_004673,jaguar,DIAMANTE_18_Terrestrial,source
+sa_fari_011090,jaguar,DIAMANTE_20_Terrestrial,source
+sa_fari_008854,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_009119,jaguar,DIAMANTE_5_Terrestrial,source
+sa_fari_002900,jaguar,MLC_14_Terrestrial,source
+sa_fari_002012,jaguar,MLC_4_Terrestrial,source
+sa_fari_006473,jaguar,MS#3_sorted,source
+sa_fari_006745,jaguar,MS#7_sorted,source
+sa_fari_007241,jaguar,ROMERO_10_Terrestrial,source
+sa_fari_002026,jaguar,ROMERO_13_Terrestrial,source
+sa_fari_004154,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_008732,jaguar,ROMERO_16_Terrestrial,source
+sa_fari_006330,jaguar,ROMERO_18_Terrestrial,source
+sa_fari_010829,jaguar,ROMERO_1_Terrestrial,source
+sa_fari_011105,jaguar,ROMERO_3_Terrestrial,source
+sa_fari_008668,jaguar,ROMERO_7_Terrestrial,source
+sa_fari_007270,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_010942,jaguar,SHINTUYA_7_Terrestrial,source
+sa_fari_011192,jaguar,DIAMANTE_13_Terrestrial,source
+sa_fari_011689,jaguar,DIAMANTE_18_Terrestrial,source
+sa_fari_011364,jaguar,DIAMANTE_20_Terrestrial,source
+sa_fari_008137,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_009667,jaguar,DIAMANTE_5_Terrestrial,source
+sa_fari_004283,jaguar,MLC_14_Terrestrial,source
+sa_fari_010618,jaguar,MLC_4_Terrestrial,source
+sa_fari_010957,jaguar,MS#3_sorted,source
+sa_fari_004557,jaguar,ROMERO_10_Terrestrial,source
+sa_fari_010646,jaguar,ROMERO_13_Terrestrial,source
+sa_fari_006904,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_001042,jaguar,ROMERO_16_Terrestrial,source
+sa_fari_005345,jaguar,ROMERO_18_Terrestrial,source
+sa_fari_011696,jaguar,ROMERO_3_Terrestrial,source
+sa_fari_003000,jaguar,ROMERO_7_Terrestrial,source
+sa_fari_000982,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_010727,jaguar,DIAMANTE_18_Terrestrial,source
+sa_fari_005568,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_001780,jaguar,DIAMANTE_5_Terrestrial,source
+sa_fari_007646,jaguar,MLC_14_Terrestrial,source
+sa_fari_002090,jaguar,MLC_4_Terrestrial,source
+sa_fari_006617,jaguar,ROMERO_13_Terrestrial,source
+sa_fari_001865,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_010403,jaguar,ROMERO_18_Terrestrial,source
+sa_fari_002282,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_010434,jaguar,DIAMANTE_18_Terrestrial,source
+sa_fari_005865,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_009019,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_003718,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_004763,jaguar,DIAMANTE_18_Terrestrial,source
+sa_fari_002189,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_005841,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_007443,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_008954,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_005565,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_010669,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_003441,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_003058,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_005560,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_005792,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_008692,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_003712,jaguar,SHINTUYA_14_Terrestrial,source
+sa_fari_009758,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_005255,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_006722,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_010783,jaguar,ROMERO_15_Terrestrial,source
+sa_fari_007826,jaguar,DIAMANTE_3_Terrestrial,source
+sa_fari_002757,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_006168,kinkajou,MLC_11_Arboreal,source
+sa_fari_003105,kinkajou,MLC_2_Arboreal,source
+sa_fari_001017,kinkajou,MLC_4_Arboreal,source
+sa_fari_010773,kinkajou,MLC_7_Arboreal,source
+sa_fari_002572,kinkajou,ROMERO_10_Arboreal,source
+sa_fari_008995,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_007670,kinkajou,ROMERO_14_Arboreal,source
+sa_fari_004432,kinkajou,ROMERO_15_Arboreal,source
+sa_fari_008821,kinkajou,ROMERO_1_Arboreal,source
+sa_fari_007575,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_001220,kinkajou,ROMERO_3_Arboreal,source
+sa_fari_003200,kinkajou,SHINTUYA_11_Arboreal,source
+sa_fari_009010,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_007018,kinkajou,SHINTUYA_6_Arboreal,source
+sa_fari_004891,kinkajou,SHINTUYA_7_Arboreal,source
+sa_fari_002762,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_005087,kinkajou,MLC_11_Arboreal,source
+sa_fari_004873,kinkajou,MLC_2_Arboreal,source
+sa_fari_005247,kinkajou,MLC_4_Arboreal,source
+sa_fari_011217,kinkajou,MLC_7_Arboreal,source
+sa_fari_007700,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_006151,kinkajou,ROMERO_14_Arboreal,source
+sa_fari_008127,kinkajou,ROMERO_15_Arboreal,source
+sa_fari_010848,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_011738,kinkajou,ROMERO_3_Arboreal,source
+sa_fari_011743,kinkajou,SHINTUYA_11_Arboreal,source
+sa_fari_001572,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_002006,kinkajou,SHINTUYA_6_Arboreal,source
+sa_fari_008267,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_001516,kinkajou,MLC_11_Arboreal,source
+sa_fari_001597,kinkajou,MLC_2_Arboreal,source
+sa_fari_011122,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_011253,kinkajou,ROMERO_14_Arboreal,source
+sa_fari_006457,kinkajou,ROMERO_15_Arboreal,source
+sa_fari_009573,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_009152,kinkajou,ROMERO_3_Arboreal,source
+sa_fari_009811,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_001278,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_002132,kinkajou,MLC_11_Arboreal,source
+sa_fari_002210,kinkajou,MLC_2_Arboreal,source
+sa_fari_004697,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_005812,kinkajou,ROMERO_14_Arboreal,source
+sa_fari_001500,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_007748,kinkajou,ROMERO_3_Arboreal,source
+sa_fari_006161,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_010843,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_003883,kinkajou,MLC_11_Arboreal,source
+sa_fari_010460,kinkajou,MLC_2_Arboreal,source
+sa_fari_004256,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_005586,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_008221,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_006569,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_009876,kinkajou,MLC_11_Arboreal,source
+sa_fari_006639,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_001362,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_007046,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_003987,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_006054,kinkajou,MLC_11_Arboreal,source
+sa_fari_007497,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_001712,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_004109,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_010009,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_005020,kinkajou,MLC_11_Arboreal,source
+sa_fari_008293,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_010107,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_009193,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_004306,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_001864,kinkajou,MLC_11_Arboreal,source
+sa_fari_007356,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_011275,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_006755,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_008249,kinkajou,DIAMANTE_16_Arboreal,source
+sa_fari_007093,kinkajou,MLC_11_Arboreal,source
+sa_fari_004191,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_011654,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_008659,kinkajou,SHINTUYA_16_Arboreal,source
+sa_fari_002370,kinkajou,MLC_11_Arboreal,source
+sa_fari_003147,kinkajou,ROMERO_12_Arboreal,source
+sa_fari_004825,kinkajou,ROMERO_2_Arboreal,source
+sa_fari_002268,night monkey,DIAMANTE_15_Arboreal,source
+sa_fari_007562,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_007682,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_007739,night monkey,DIAMANTE_2_Arboreal,source
+sa_fari_003735,night monkey,MLC_10_Arboreal,source
+sa_fari_005869,night monkey,MLC_11_Arboreal,source
+sa_fari_009130,night monkey,MLC_12_Arboreal,source
+sa_fari_001881,night monkey,MLC_13_Arboreal,source
+sa_fari_001961,night monkey,MLC_16_Arboreal,source
+sa_fari_009848,night monkey,MLC_17_Arboreal,source
+sa_fari_009761,night monkey,MLC_3_Arboreal,source
+sa_fari_008156,night monkey,MLC_7_Arboreal,source
+sa_fari_010296,night monkey,ROMERO_12_Arboreal,source
+sa_fari_003673,night monkey,ROMERO_14_Arboreal,source
+sa_fari_007991,night monkey,ROMERO_1_Arboreal,source
+sa_fari_002213,night monkey,ROMERO_2_Arboreal,source
+sa_fari_001856,night monkey,ROMERO_3_Arboreal,source
+sa_fari_005594,night monkey,ROMERO_7_Arboreal,source
+sa_fari_001735,night monkey,SHINTUYA_11_Arboreal,source
+sa_fari_010797,night monkey,SHINTUYA_16_Arboreal,source
+sa_fari_003453,night monkey,SHINTUYA_6_Arboreal,source
+sa_fari_007362,night monkey,DIAMANTE_15_Arboreal,source
+sa_fari_010580,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_006440,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_007218,night monkey,DIAMANTE_2_Arboreal,source
+sa_fari_008139,night monkey,MLC_10_Arboreal,source
+sa_fari_005086,night monkey,MLC_11_Arboreal,source
+sa_fari_003119,night monkey,MLC_12_Arboreal,source
+sa_fari_002325,night monkey,MLC_13_Arboreal,source
+sa_fari_006795,night monkey,MLC_16_Arboreal,source
+sa_fari_001365,night monkey,MLC_17_Arboreal,source
+sa_fari_004455,night monkey,ROMERO_12_Arboreal,source
+sa_fari_010959,night monkey,ROMERO_14_Arboreal,source
+sa_fari_009830,night monkey,ROMERO_2_Arboreal,source
+sa_fari_003566,night monkey,ROMERO_3_Arboreal,source
+sa_fari_000992,night monkey,ROMERO_7_Arboreal,source
+sa_fari_006014,night monkey,SHINTUYA_11_Arboreal,source
+sa_fari_009588,night monkey,SHINTUYA_16_Arboreal,source
+sa_fari_005324,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_001404,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_010603,night monkey,DIAMANTE_2_Arboreal,source
+sa_fari_009157,night monkey,MLC_10_Arboreal,source
+sa_fari_003468,night monkey,MLC_11_Arboreal,source
+sa_fari_003619,night monkey,MLC_12_Arboreal,source
+sa_fari_001549,night monkey,MLC_16_Arboreal,source
+sa_fari_010415,night monkey,MLC_17_Arboreal,source
+sa_fari_006774,night monkey,ROMERO_12_Arboreal,source
+sa_fari_009072,night monkey,ROMERO_14_Arboreal,source
+sa_fari_003519,night monkey,ROMERO_7_Arboreal,source
+sa_fari_005248,night monkey,SHINTUYA_16_Arboreal,source
+sa_fari_001953,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_011045,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_004925,night monkey,MLC_10_Arboreal,source
+sa_fari_009707,night monkey,MLC_11_Arboreal,source
+sa_fari_005901,night monkey,MLC_12_Arboreal,source
+sa_fari_011240,night monkey,MLC_16_Arboreal,source
+sa_fari_007155,night monkey,MLC_17_Arboreal,source
+sa_fari_005478,night monkey,ROMERO_12_Arboreal,source
+sa_fari_007894,night monkey,ROMERO_14_Arboreal,source
+sa_fari_002096,night monkey,ROMERO_7_Arboreal,source
+sa_fari_011128,night monkey,SHINTUYA_16_Arboreal,source
+sa_fari_011369,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_009134,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_003800,night monkey,MLC_10_Arboreal,source
+sa_fari_006726,night monkey,MLC_11_Arboreal,source
+sa_fari_010153,night monkey,MLC_12_Arboreal,source
+sa_fari_008364,night monkey,MLC_17_Arboreal,source
+sa_fari_005425,night monkey,ROMERO_12_Arboreal,source
+sa_fari_005287,night monkey,ROMERO_14_Arboreal,source
+sa_fari_009871,night monkey,ROMERO_7_Arboreal,source
+sa_fari_004768,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_001419,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_006318,night monkey,MLC_10_Arboreal,source
+sa_fari_004905,night monkey,MLC_11_Arboreal,source
+sa_fari_007720,night monkey,ROMERO_12_Arboreal,source
+sa_fari_001108,night monkey,ROMERO_14_Arboreal,source
+sa_fari_001977,night monkey,ROMERO_7_Arboreal,source
+sa_fari_007701,night monkey,DIAMANTE_16_Arboreal,source
+sa_fari_004566,night monkey,DIAMANTE_1_Arboreal,source
+sa_fari_003023,night monkey,MLC_10_Arboreal,source
+sa_fari_007622,ninebanded armadillo,AGJ#1_sorted,source
+sa_fari_008134,ninebanded armadillo,AGJ#2_sorted,source
+sa_fari_005764,ninebanded armadillo,AGJ#5_sorted,source
+sa_fari_010539,ninebanded armadillo,DIAMANTE_10_Terrestrial,source
+sa_fari_007258,ninebanded armadillo,MLC_20_Terrestrial,source
+sa_fari_009781,ninebanded armadillo,MS#104_sorted,source
+sa_fari_004753,ninebanded armadillo,MS#108_sorted,source
+sa_fari_004719,ninebanded armadillo,MS#116_sorted,source
+sa_fari_009229,ninebanded armadillo,MS#118_sorted,source
+sa_fari_010502,ninebanded armadillo,MS#123_sorted,source
+sa_fari_002845,ninebanded armadillo,MS#128_sorted,source
+sa_fari_011615,ninebanded armadillo,MS#135_sorted,source
+sa_fari_010937,ninebanded armadillo,MS#138_sorted,source
+sa_fari_007294,ninebanded armadillo,MS#13_sorted,source
+sa_fari_007718,ninebanded armadillo,MS#143_sorted,source
+sa_fari_003088,ninebanded armadillo,MS#144_sorted,source
+sa_fari_010921,ninebanded armadillo,MS#148_sorted,source
+sa_fari_006185,ninebanded armadillo,MS#149_sorted,source
+sa_fari_008460,ninebanded armadillo,MS#152_sorted,source
+sa_fari_005035,ninebanded armadillo,MS#153_sorted,source
+sa_fari_008187,ninebanded armadillo,MS#154_sorted,source
+sa_fari_003955,ninebanded armadillo,MS#155_sorted,source
+sa_fari_001241,ninebanded armadillo,MS#156_sorted,source
+sa_fari_002632,ninebanded armadillo,MS#164_sorted,source
+sa_fari_010459,ninebanded armadillo,MS#175_sorted,source
+sa_fari_004204,ninebanded armadillo,MS#177_sorted,source
+sa_fari_011303,ninebanded armadillo,MS#5_sorted,source
+sa_fari_004505,ninebanded armadillo,MS#6_sorted,source
+sa_fari_005333,ninebanded armadillo,MS#72_sorted,source
+sa_fari_010035,ninebanded armadillo,MS#74_sorted,source
+sa_fari_006358,ninebanded armadillo,MS#80_sorted,source
+sa_fari_011509,ninebanded armadillo,MS#90_sorted,source
+sa_fari_009570,ninebanded armadillo,MS#92_sorted,source
+sa_fari_004166,ninebanded armadillo,MS#96_sorted,source
+sa_fari_011094,ninebanded armadillo,ROMERO_1_Terrestrial,source
+sa_fari_003094,ninebanded armadillo,SALED#2_B_sorted,source
+sa_fari_008875,ninebanded armadillo,SHINTUYA_14_Terrestrial,source
+sa_fari_009478,ninebanded armadillo,SHINTUYA_17_Terrestrial,source
+sa_fari_001710,ninebanded armadillo,SHINTUYA_18_Terrestrial,source
+sa_fari_008889,ninebanded armadillo,SHINTUYA_7_Terrestrial,source
+sa_fari_006779,ninebanded armadillo,AGJ#1_sorted,source
+sa_fari_010423,ninebanded armadillo,AGJ#5_sorted,source
+sa_fari_008853,ninebanded armadillo,DIAMANTE_10_Terrestrial,source
+sa_fari_004478,ninebanded armadillo,MLC_20_Terrestrial,source
+sa_fari_003323,ninebanded armadillo,MS#104_sorted,source
+sa_fari_007116,ninebanded armadillo,MS#108_sorted,source
+sa_fari_004745,ninebanded armadillo,MS#116_sorted,source
+sa_fari_005637,ninebanded armadillo,MS#118_sorted,source
+sa_fari_007721,ninebanded armadillo,MS#123_sorted,source
+sa_fari_002520,ninebanded armadillo,MS#135_sorted,source
+sa_fari_002460,ninebanded armadillo,MS#13_sorted,source
+sa_fari_004765,ninebanded armadillo,MS#143_sorted,source
+sa_fari_006276,ninebanded armadillo,MS#144_sorted,source
+sa_fari_009975,ninebanded armadillo,MS#148_sorted,source
+sa_fari_008260,ninebanded armadillo,MS#149_sorted,source
+sa_fari_004295,ninebanded armadillo,MS#152_sorted,source
+sa_fari_005647,ninebanded armadillo,MS#153_sorted,source
+sa_fari_007513,ninebanded armadillo,MS#154_sorted,source
+sa_fari_010860,ninebanded armadillo,MS#155_sorted,source
+sa_fari_002997,ninebanded armadillo,MS#156_sorted,source
+sa_fari_010754,ninebanded armadillo,MS#164_sorted,source
+sa_fari_004570,ninebanded armadillo,MS#177_sorted,source
+sa_fari_003572,ninebanded armadillo,MS#5_sorted,source
+sa_fari_009698,ninebanded armadillo,MS#6_sorted,source
+sa_fari_011679,ninebanded armadillo,MS#72_sorted,source
+sa_fari_000849,ninebanded armadillo,MS#80_sorted,source
+sa_fari_007924,ninebanded armadillo,MS#90_sorted,source
+sa_fari_004690,ninebanded armadillo,MS#96_sorted,source
+sa_fari_001908,ninebanded armadillo,ROMERO_1_Terrestrial,source
+sa_fari_010834,ninebanded armadillo,SALED#2_B_sorted,source
+sa_fari_002003,ninebanded armadillo,SHINTUYA_14_Terrestrial,source
+sa_fari_002005,ninebanded armadillo,SHINTUYA_17_Terrestrial,source
+sa_fari_002147,ninebanded armadillo,SHINTUYA_18_Terrestrial,source
+sa_fari_005302,ninebanded armadillo,AGJ#5_sorted,source
+sa_fari_001501,ninebanded armadillo,DIAMANTE_10_Terrestrial,source
+sa_fari_001903,ninebanded armadillo,MLC_20_Terrestrial,source
+sa_fari_009574,ninebanded armadillo,MS#104_sorted,source
+sa_fari_009842,ninebanded armadillo,MS#108_sorted,source
+sa_fari_002279,ninebanded armadillo,MS#118_sorted,source
+sa_fari_006469,ninebanded armadillo,MS#135_sorted,source
+sa_fari_005142,northern tamandua,AGJ#1_sorted,source
+sa_fari_002422,northern tamandua,AGJ#2_sorted,source
+sa_fari_009202,northern tamandua,AGJ#5_sorted,source
+sa_fari_008855,northern tamandua,DIAMANTE_18_Terrestrial,source
+sa_fari_003523,northern tamandua,MS#101_sorted,source
+sa_fari_006967,northern tamandua,MS#103_sorted,source
+sa_fari_007534,northern tamandua,MS#104_sorted,source
+sa_fari_006840,northern tamandua,MS#108_sorted,source
+sa_fari_003978,northern tamandua,MS#111_sorted,source
+sa_fari_003721,northern tamandua,MS#112_sorted,source
+sa_fari_005131,northern tamandua,MS#114_sorted,source
+sa_fari_001850,northern tamandua,MS#118_sorted,source
+sa_fari_002253,northern tamandua,MS#12_sorted,source
+sa_fari_007151,northern tamandua,MS#137_sorted,source
+sa_fari_005591,northern tamandua,MS#13_sorted,source
+sa_fari_005697,northern tamandua,MS#144_sorted,source
+sa_fari_003204,northern tamandua,MS#149_sorted,source
+sa_fari_010641,northern tamandua,MS#69_sorted,source
+sa_fari_000941,northern tamandua,MS#6_sorted,source
+sa_fari_009983,northern tamandua,MS#72_sorted,source
+sa_fari_002701,northern tamandua,MS#7_sorted,source
+sa_fari_004651,northern tamandua,MS#80_sorted,source
+sa_fari_006338,northern tamandua,MS#87_sorted,source
+sa_fari_007990,northern tamandua,MS#92_sorted,source
+sa_fari_007699,northern tamandua,MS#93_sorted,source
+sa_fari_004221,northern tamandua,ROMERO_13_Terrestrial,source
+sa_fari_010071,northern tamandua,SALED#2_B_sorted,source
+sa_fari_004405,northern tamandua,SHINTUYA_8_Arboreal,source
+sa_fari_002555,northern tamandua,AGJ#1_sorted,source
+sa_fari_004494,northern tamandua,AGJ#2_sorted,source
+sa_fari_005009,northern tamandua,MS#103_sorted,source
+sa_fari_002059,northern tamandua,MS#104_sorted,source
+sa_fari_010552,northern tamandua,MS#108_sorted,source
+sa_fari_010390,northern tamandua,MS#112_sorted,source
+sa_fari_010413,northern tamandua,MS#114_sorted,source
+sa_fari_005493,northern tamandua,MS#118_sorted,source
+sa_fari_008716,northern tamandua,MS#144_sorted,source
+sa_fari_003396,northern tamandua,MS#149_sorted,source
+sa_fari_005559,northern tamandua,MS#6_sorted,source
+sa_fari_006236,northern tamandua,MS#72_sorted,source
+sa_fari_003286,northern tamandua,MS#7_sorted,source
+sa_fari_011737,northern tamandua,MS#80_sorted,source
+sa_fari_004595,northern tamandua,MS#87_sorted,source
+sa_fari_001358,northern tamandua,MS#93_sorted,source
+sa_fari_004148,northern tamandua,ROMERO_13_Terrestrial,source
+sa_fari_008604,northern tamandua,SALED#2_B_sorted,source
+sa_fari_007667,northern tamandua,AGJ#2_sorted,source
+sa_fari_007777,northern tamandua,MS#104_sorted,source
+sa_fari_009769,northern tamandua,MS#118_sorted,source
+sa_fari_002699,northern tamandua,MS#6_sorted,source
+sa_fari_005428,northern tamandua,MS#72_sorted,source
+sa_fari_002715,northern tamandua,MS#7_sorted,source
+sa_fari_011685,northern tamandua,MS#80_sorted,source
+sa_fari_006166,northern tamandua,SALED#2_B_sorted,source
+sa_fari_011515,northern tamandua,AGJ#2_sorted,source
+sa_fari_001761,northern tamandua,MS#104_sorted,source
+sa_fari_004546,northern tamandua,MS#118_sorted,source
+sa_fari_011066,northern tamandua,MS#6_sorted,source
+sa_fari_010081,northern tamandua,MS#72_sorted,source
+sa_fari_007723,northern tamandua,MS#80_sorted,source
+sa_fari_008147,northern tamandua,SALED#2_B_sorted,source
+sa_fari_003555,northern tamandua,MS#104_sorted,source
+sa_fari_008886,northern tamandua,MS#6_sorted,source
+sa_fari_008484,northern tamandua,MS#72_sorted,source
+sa_fari_004314,northern tamandua,MS#80_sorted,source
+sa_fari_010463,northern tamandua,MS#104_sorted,source
+sa_fari_009784,northern tamandua,MS#6_sorted,source
+sa_fari_009940,northern tamandua,MS#80_sorted,source
+sa_fari_003508,northern tamandua,MS#104_sorted,source
+sa_fari_006395,northern tamandua,MS#6_sorted,source
+sa_fari_010021,northern tamandua,MS#6_sorted,source
+sa_fari_007084,northern tamandua,MS#6_sorted,source
+sa_fari_001364,northern tamandua,MS#6_sorted,source
+sa_fari_004099,northern tamandua,MS#6_sorted,source
+sa_fari_009832,ocelot,AGJ#1_sorted,source
+sa_fari_008502,ocelot,DIAMANTE_10_Terrestrial,source
+sa_fari_005244,ocelot,DIAMANTE_18_Terrestrial,source
+sa_fari_001105,ocelot,DIAMANTE_20_Terrestrial,source
+sa_fari_002747,ocelot,DIAMANTE_3_Terrestrial,source
+sa_fari_005518,ocelot,DIAMANTE_5_Terrestrial,source
+sa_fari_008299,ocelot,DIAMANTE_8_Terrestrial,source
+sa_fari_004325,ocelot,MLC_20_Terrestrial,source
+sa_fari_001168,ocelot,MLC_4_Terrestrial,source
+sa_fari_005200,ocelot,MS#101_sorted,source
+sa_fari_011588,ocelot,MS#103_sorted,source
+sa_fari_008537,ocelot,MS#104_sorted,source
+sa_fari_009901,ocelot,MS#108_sorted,source
+sa_fari_006477,ocelot,MS#110_sorted,source
+sa_fari_008520,ocelot,MS#113_sorted,source
+sa_fari_008089,ocelot,MS#114_sorted,source
+sa_fari_004182,ocelot,MS#116_sorted,source
+sa_fari_002706,ocelot,MS#118_sorted,source
+sa_fari_005618,ocelot,MS#119_sorted,source
+sa_fari_008543,ocelot,MS#131_sorted,source
+sa_fari_011572,ocelot,MS#135_sorted,source
+sa_fari_004063,ocelot,MS#137_sorted,source
+sa_fari_006441,ocelot,MS#144_sorted,source
+sa_fari_011151,ocelot,MS#148_sorted,source
+sa_fari_003757,ocelot,MS#15_sorted,source
+sa_fari_006100,ocelot,MS#175_sorted,source
+sa_fari_005125,ocelot,MS#2_revised,source
+sa_fari_004190,ocelot,MS#3_sorted,source
+sa_fari_008999,ocelot,MS#80_sorted,source
+sa_fari_005664,ocelot,MS#82_sorted,source
+sa_fari_003538,ocelot,MS#87_sorted,source
+sa_fari_009263,ocelot,MS#90_sorted,source
+sa_fari_009661,ocelot,MS#93_sorted,source
+sa_fari_008402,ocelot,NL#1_revised,source
+sa_fari_010136,ocelot,ROMERO_10_Terrestrial,source
+sa_fari_009905,ocelot,ROMERO_13_Terrestrial,source
+sa_fari_006170,ocelot,ROMERO_15_Terrestrial,source
+sa_fari_005278,ocelot,ROMERO_16_Terrestrial,source
+sa_fari_006706,ocelot,ROMERO_18_Terrestrial,source
+sa_fari_004403,ocelot,ROMERO_1_Terrestrial,source
+sa_fari_005283,ocelot,ROMERO_20_Terrestrial,source
+sa_fari_005342,ocelot,ROMERO_3_Terrestrial,source
+sa_fari_011496,ocelot,ROMERO_7_Terrestrial,source
+sa_fari_007309,ocelot,SALED#2_B_sorted,source
+sa_fari_011575,ocelot,SHINTUYA_18_Terrestrial,source
+sa_fari_004646,ocelot,colpa_016,source
+sa_fari_003596,ocelot,colpa_017,source
+sa_fari_007914,ocelot,AGJ#1_sorted,source
+sa_fari_000995,ocelot,DIAMANTE_10_Terrestrial,source
+sa_fari_010964,ocelot,DIAMANTE_18_Terrestrial,source
+sa_fari_010223,ocelot,DIAMANTE_20_Terrestrial,source
+sa_fari_010971,ocelot,DIAMANTE_3_Terrestrial,source
+sa_fari_003656,ocelot,DIAMANTE_5_Terrestrial,source
+sa_fari_001785,ocelot,DIAMANTE_8_Terrestrial,source
+sa_fari_007526,ocelot,MLC_20_Terrestrial,source
+sa_fari_004047,ocelot,MS#101_sorted,source
+sa_fari_001410,ocelot,MS#103_sorted,source
+sa_fari_004302,ocelot,MS#108_sorted,source
+sa_fari_003831,ocelot,MS#110_sorted,source
+sa_fari_006320,ocelot,MS#113_sorted,source
+sa_fari_005859,ocelot,MS#114_sorted,source
+sa_fari_010788,ocelot,MS#118_sorted,source
+sa_fari_004364,ocelot,MS#131_sorted,source
+sa_fari_001495,ocelot,MS#137_sorted,source
+sa_fari_003177,ocelot,MS#15_sorted,source
+sa_fari_009339,ocelot,MS#3_sorted,source
+sa_fari_009634,ocelot,MS#82_sorted,source
+sa_fari_010809,ocelot,MS#90_sorted,source
+sa_fari_008936,ocelot,NL#1_revised,source
+sa_fari_001696,ocelot,ROMERO_10_Terrestrial,source
+sa_fari_011174,ocelot,ROMERO_13_Terrestrial,source
+sa_fari_003644,ocelot,ROMERO_15_Terrestrial,source
+sa_fari_009747,ocelot,ROMERO_16_Terrestrial,source
+sa_fari_005529,ocelot,ROMERO_18_Terrestrial,source
+sa_fari_011578,ocelot,ROMERO_1_Terrestrial,source
+sa_fari_003946,ocelot,ROMERO_20_Terrestrial,source
+sa_fari_003325,ocelot,ROMERO_3_Terrestrial,source
+sa_fari_001839,ocelot,ROMERO_7_Terrestrial,source
+sa_fari_007172,ocelot,SALED#2_B_sorted,source
+sa_fari_006571,ocelot,colpa_016,source
+sa_fari_004928,paca,DIAMANTE_10_Terrestrial,source
+sa_fari_010744,paca,DIAMANTE_13_Terrestrial,source
+sa_fari_007061,paca,DIAMANTE_18_Terrestrial,source
+sa_fari_009734,paca,DIAMANTE_20_Terrestrial,source
+sa_fari_004767,paca,DIAMANTE_5_Terrestrial,source
+sa_fari_010422,paca,DIAMANTE_8_Terrestrial,source
+sa_fari_002016,paca,MLC_14_Terrestrial,source
+sa_fari_007109,paca,MLC_20_Terrestrial,source
+sa_fari_007569,paca,MS#104_sorted,source
+sa_fari_003152,paca,MS#108_sorted,source
+sa_fari_010868,paca,MS#10_sorted,source
+sa_fari_002371,paca,MS#111_sorted,source
+sa_fari_005602,paca,MS#114_sorted,source
+sa_fari_005409,paca,MS#119_sorted,source
+sa_fari_007004,paca,MS#122_sorted,source
+sa_fari_006108,paca,MS#12_sorted,source
+sa_fari_006016,paca,MS#131_sorted,source
+sa_fari_008362,paca,MS#13_sorted,source
+sa_fari_005416,paca,MS#143_sorted,source
+sa_fari_009218,paca,MS#15_sorted,source
+sa_fari_006996,paca,MS#3_sorted,source
+sa_fari_004266,paca,MS#5_sorted,source
+sa_fari_003097,paca,MS#6_sorted,source
+sa_fari_010787,paca,MS#72_sorted,source
+sa_fari_011668,paca,MS#74_sorted,source
+sa_fari_004214,paca,MS#7_sorted,source
+sa_fari_010499,paca,MS#84_sorted,source
+sa_fari_008781,paca,MS#87_sorted,source
+sa_fari_005312,paca,MS#8_sorted,source
+sa_fari_011661,paca,MS#92_sorted,source
+sa_fari_002157,paca,ROMERO_13_Terrestrial,source
+sa_fari_007757,paca,ROMERO_15_Terrestrial,source
+sa_fari_011007,paca,ROMERO_18_Terrestrial,source
+sa_fari_005791,paca,ROMERO_1_Terrestrial,source
+sa_fari_006169,paca,ROMERO_20_Terrestrial,source
+sa_fari_010686,paca,ROMERO_7_Terrestrial,source
+sa_fari_008594,paca,SHINTUYA_14_Terrestrial,source
+sa_fari_008811,paca,SHINTUYA_18_Terrestrial,source
+sa_fari_002652,paca,SHINTUYA_7_Terrestrial,source
+sa_fari_004437,paca,colpa_003,source
+sa_fari_005930,paca,DIAMANTE_10_Terrestrial,source
+sa_fari_009800,paca,DIAMANTE_13_Terrestrial,source
+sa_fari_003306,paca,DIAMANTE_18_Terrestrial,source
+sa_fari_004241,paca,DIAMANTE_20_Terrestrial,source
+sa_fari_002249,paca,DIAMANTE_5_Terrestrial,source
+sa_fari_011525,paca,MLC_14_Terrestrial,source
+sa_fari_003953,paca,MLC_20_Terrestrial,source
+sa_fari_011358,paca,MS#104_sorted,source
+sa_fari_007768,paca,MS#108_sorted,source
+sa_fari_006785,paca,MS#10_sorted,source
+sa_fari_010347,paca,MS#111_sorted,source
+sa_fari_005158,paca,MS#114_sorted,source
+sa_fari_003331,paca,MS#119_sorted,source
+sa_fari_002888,paca,MS#122_sorted,source
+sa_fari_004228,paca,MS#12_sorted,source
+sa_fari_004133,paca,MS#13_sorted,source
+sa_fari_001816,paca,MS#15_sorted,source
+sa_fari_009029,paca,MS#3_sorted,source
+sa_fari_005729,paca,MS#5_sorted,source
+sa_fari_006135,paca,MS#6_sorted,source
+sa_fari_004126,paca,MS#74_sorted,source
+sa_fari_004193,paca,MS#7_sorted,source
+sa_fari_002219,paca,MS#84_sorted,source
+sa_fari_009807,paca,MS#87_sorted,source
+sa_fari_004019,paca,MS#8_sorted,source
+sa_fari_001271,paca,ROMERO_13_Terrestrial,source
+sa_fari_008210,paca,ROMERO_15_Terrestrial,source
+sa_fari_003609,paca,ROMERO_18_Terrestrial,source
+sa_fari_008735,paca,ROMERO_1_Terrestrial,source
+sa_fari_006999,paca,ROMERO_20_Terrestrial,source
+sa_fari_003645,paca,ROMERO_7_Terrestrial,source
+sa_fari_007523,paca,SHINTUYA_14_Terrestrial,source
+sa_fari_006249,paca,SHINTUYA_18_Terrestrial,source
+sa_fari_009880,paca,SHINTUYA_7_Terrestrial,source
+sa_fari_007551,paca,colpa_003,source
+sa_fari_010544,paca,DIAMANTE_10_Terrestrial,source
+sa_fari_006533,paca,DIAMANTE_13_Terrestrial,source
+sa_fari_007451,paca,DIAMANTE_18_Terrestrial,source
+sa_fari_005330,paca,DIAMANTE_20_Terrestrial,source
+sa_fari_010906,paca,DIAMANTE_5_Terrestrial,source
+sa_fari_005289,porcupine,MLC_10_Arboreal,source
+sa_fari_004872,porcupine,colpa_004,source
+sa_fari_001121,porcupine,colpa_005,source
+sa_fari_003409,porcupine,colpa_009,source
+sa_fari_010559,porcupine,colpa_010,source
+sa_fari_009475,porcupine,colpa_011,source
+sa_fari_010273,porcupine,colpa_004,source
+sa_fari_006574,porcupine,colpa_005,source
+sa_fari_001793,porcupine,colpa_009,source
+sa_fari_004531,porcupine,colpa_010,source
+sa_fari_006512,porcupine,colpa_011,source
+sa_fari_008286,porcupine,colpa_004,source
+sa_fari_002971,porcupine,colpa_005,source
+sa_fari_010979,porcupine,colpa_009,source
+sa_fari_002255,porcupine,colpa_010,source
+sa_fari_007425,porcupine,colpa_011,source
+sa_fari_006912,porcupine,colpa_004,source
+sa_fari_008760,porcupine,colpa_005,source
+sa_fari_003931,porcupine,colpa_009,source
+sa_fari_001470,porcupine,colpa_010,source
+sa_fari_010418,porcupine,colpa_011,source
+sa_fari_008423,porcupine,colpa_004,source
+sa_fari_001849,porcupine,colpa_009,source
+sa_fari_009304,porcupine,colpa_010,source
+sa_fari_001114,porcupine,colpa_011,source
+sa_fari_010888,porcupine,colpa_004,source
+sa_fari_010379,porcupine,colpa_009,source
+sa_fari_008973,porcupine,colpa_010,source
+sa_fari_005532,porcupine,colpa_011,source
+sa_fari_004001,porcupine,colpa_004,source
+sa_fari_008332,porcupine,colpa_009,source
+sa_fari_006971,porcupine,colpa_010,source
+sa_fari_003962,porcupine,colpa_011,source
+sa_fari_002864,porcupine,colpa_004,source
+sa_fari_004293,porcupine,colpa_009,source
+sa_fari_011462,porcupine,colpa_010,source
+sa_fari_011459,porcupine,colpa_011,source
+sa_fari_007454,porcupine,colpa_004,source
+sa_fari_000838,porcupine,colpa_009,source
+sa_fari_009944,porcupine,colpa_010,source
+sa_fari_009464,porcupine,colpa_004,source
+sa_fari_010469,porcupine,colpa_009,source
+sa_fari_007196,porcupine,colpa_010,source
+sa_fari_000907,porcupine,colpa_004,source
+sa_fari_007639,porcupine,colpa_009,source
+sa_fari_005315,porcupine,colpa_004,source
+sa_fari_002167,porcupine,colpa_009,source
+sa_fari_009469,porcupine,colpa_004,source
+sa_fari_009333,porcupine,colpa_009,source
+sa_fari_010861,porcupine,colpa_004,source
+sa_fari_002965,porcupine,colpa_004,source
+sa_fari_005360,porcupine,colpa_004,source
+sa_fari_004717,porcupine,colpa_004,source
+sa_fari_010232,puma,DIAMANTE_10_Terrestrial,source
+sa_fari_011117,puma,DIAMANTE_13_Terrestrial,source
+sa_fari_003233,puma,DIAMANTE_18_Terrestrial,source
+sa_fari_005205,puma,DIAMANTE_20_Terrestrial,source
+sa_fari_007009,puma,DIAMANTE_3_Terrestrial,source
+sa_fari_000865,puma,MLC_14_Terrestrial,source
+sa_fari_004069,puma,MLC_20_Terrestrial,source
+sa_fari_011187,puma,MLC_4_Terrestrial,source
+sa_fari_004555,puma,MS#101_sorted,source
+sa_fari_001225,puma,MS#108_sorted,source
+sa_fari_004357,puma,MS#10_sorted,source
+sa_fari_007199,puma,MS#110_sorted,source
+sa_fari_003161,puma,MS#111_sorted,source
+sa_fari_006254,puma,MS#12_sorted,source
+sa_fari_010205,puma,MS#131_sorted,source
+sa_fari_002136,puma,MS#2_revised,source
+sa_fari_007330,puma,MS#3_sorted,source
+sa_fari_010306,puma,MS#7_sorted,source
+sa_fari_002180,puma,MS#80_sorted,source
+sa_fari_009073,puma,MS#93_sorted,source
+sa_fari_001091,puma,NL#1_revised,source
+sa_fari_009716,puma,ROMERO_10_Terrestrial,source
+sa_fari_002681,puma,ROMERO_13_Terrestrial,source
+sa_fari_008799,puma,ROMERO_15_Terrestrial,source
+sa_fari_006775,puma,ROMERO_16_Terrestrial,source
+sa_fari_001853,puma,ROMERO_18_Terrestrial,source
+sa_fari_007770,puma,ROMERO_1_Terrestrial,source
+sa_fari_003543,puma,ROMERO_20_Terrestrial,source
+sa_fari_006075,puma,ROMERO_3_Terrestrial,source
+sa_fari_002998,puma,SALED#2_B_sorted,source
+sa_fari_009581,puma,SHINTUYA_14_Terrestrial,source
+sa_fari_008964,puma,SHINTUYA_17_Terrestrial,source
+sa_fari_006915,puma,DIAMANTE_10_Terrestrial,source
+sa_fari_003427,puma,DIAMANTE_13_Terrestrial,source
+sa_fari_007883,puma,DIAMANTE_18_Terrestrial,source
+sa_fari_009904,puma,DIAMANTE_20_Terrestrial,source
+sa_fari_011692,puma,DIAMANTE_3_Terrestrial,source
+sa_fari_010584,puma,MLC_14_Terrestrial,source
+sa_fari_007375,puma,MLC_20_Terrestrial,source
+sa_fari_010954,puma,MS#101_sorted,source
+sa_fari_006307,puma,MS#110_sorted,source
+sa_fari_002631,puma,MS#131_sorted,source
+sa_fari_008080,puma,MS#2_revised,source
+sa_fari_002658,puma,MS#3_sorted,source
+sa_fari_009906,puma,MS#7_sorted,source
+sa_fari_003875,puma,MS#80_sorted,source
+sa_fari_007592,puma,NL#1_revised,source
+sa_fari_002190,puma,ROMERO_10_Terrestrial,source
+sa_fari_003167,puma,ROMERO_13_Terrestrial,source
+sa_fari_007566,puma,ROMERO_15_Terrestrial,source
+sa_fari_004540,puma,ROMERO_16_Terrestrial,source
+sa_fari_007082,puma,ROMERO_18_Terrestrial,source
+sa_fari_007978,puma,ROMERO_20_Terrestrial,source
+sa_fari_007405,puma,ROMERO_3_Terrestrial,source
+sa_fari_009823,puma,SALED#2_B_sorted,source
+sa_fari_003908,puma,SHINTUYA_14_Terrestrial,source
+sa_fari_006105,puma,SHINTUYA_17_Terrestrial,source
+sa_fari_004457,puma,DIAMANTE_10_Terrestrial,source
+sa_fari_003890,puma,DIAMANTE_18_Terrestrial,source
+sa_fari_003771,puma,DIAMANTE_20_Terrestrial,source
+sa_fari_007828,puma,DIAMANTE_3_Terrestrial,source
+sa_fari_003617,puma,MLC_14_Terrestrial,source
+sa_fari_001180,puma,MLC_20_Terrestrial,source
+sa_fari_009795,puma,MS#110_sorted,source
+sa_fari_001084,puma,MS#2_revised,source
+sa_fari_005827,puma,MS#3_sorted,source
+sa_fari_004217,puma,MS#7_sorted,source
+sa_fari_002580,puma,MS#80_sorted,source
+sa_fari_011008,puma,ROMERO_10_Terrestrial,source
+sa_fari_010636,puma,ROMERO_13_Terrestrial,source
+sa_fari_004393,puma,ROMERO_18_Terrestrial,source
+sa_fari_005130,puma,ROMERO_20_Terrestrial,source
+sa_fari_006635,puma,ROMERO_3_Terrestrial,source
+sa_fari_011399,puma,SALED#2_B_sorted,source
+sa_fari_001659,puma,SHINTUYA_14_Terrestrial,source
+sa_fari_009039,puma,SHINTUYA_17_Terrestrial,source
+sa_fari_006521,puma,DIAMANTE_10_Terrestrial,source
+sa_fari_010099,puma,DIAMANTE_20_Terrestrial,source
+sa_fari_011024,puma,DIAMANTE_3_Terrestrial,source
+sa_fari_005566,puma,MS#110_sorted,source
+sa_fari_001169,red brocket deer,DIAMANTE_10_Terrestrial,source
+sa_fari_010687,red brocket deer,DIAMANTE_13_Terrestrial,source
+sa_fari_009506,red brocket deer,DIAMANTE_18_Terrestrial,source
+sa_fari_010660,red brocket deer,DIAMANTE_20_Terrestrial,source
+sa_fari_005924,red brocket deer,DIAMANTE_3_Terrestrial,source
+sa_fari_010030,red brocket deer,DIAMANTE_5_Terrestrial,source
+sa_fari_001916,red brocket deer,DIAMANTE_8_Terrestrial,source
+sa_fari_004869,red brocket deer,MLC_14_Terrestrial,source
+sa_fari_004901,red brocket deer,MLC_20_Terrestrial,source
+sa_fari_007672,red brocket deer,MLC_4_Terrestrial,source
+sa_fari_004080,red brocket deer,MS#13_sorted,source
+sa_fari_001585,red brocket deer,MS#16_sorted,source
+sa_fari_001722,red brocket deer,MS#72_sorted,source
+sa_fari_010229,red brocket deer,MS#73_sorted,source
+sa_fari_009281,red brocket deer,MS#80_sorted,source
+sa_fari_001778,red brocket deer,MS#8_sorted,source
+sa_fari_001187,red brocket deer,ROMERO_10_Terrestrial,source
+sa_fari_003553,red brocket deer,ROMERO_15_Terrestrial,source
+sa_fari_010043,red brocket deer,ROMERO_16_Terrestrial,source
+sa_fari_010105,red brocket deer,ROMERO_1_Terrestrial,source
+sa_fari_003642,red brocket deer,ROMERO_20_Terrestrial,source
+sa_fari_006746,red brocket deer,SHINTUYA_14_Terrestrial,source
+sa_fari_004442,red brocket deer,SHINTUYA_18_Terrestrial,source
+sa_fari_002892,red brocket deer,colpa_001,source
+sa_fari_006592,red brocket deer,copla_002,source
+sa_fari_010759,red brocket deer,DIAMANTE_13_Terrestrial,source
+sa_fari_002052,red brocket deer,DIAMANTE_18_Terrestrial,source
+sa_fari_004826,red brocket deer,DIAMANTE_20_Terrestrial,source
+sa_fari_010804,red brocket deer,DIAMANTE_3_Terrestrial,source
+sa_fari_005380,red brocket deer,DIAMANTE_5_Terrestrial,source
+sa_fari_002314,red brocket deer,DIAMANTE_8_Terrestrial,source
+sa_fari_008899,red brocket deer,MLC_14_Terrestrial,source
+sa_fari_009005,red brocket deer,MLC_20_Terrestrial,source
+sa_fari_006248,red brocket deer,MLC_4_Terrestrial,source
+sa_fari_006966,red brocket deer,MS#13_sorted,source
+sa_fari_010384,red brocket deer,MS#16_sorted,source
+sa_fari_011664,red brocket deer,MS#72_sorted,source
+sa_fari_004678,red brocket deer,MS#73_sorted,source
+sa_fari_008527,red brocket deer,MS#80_sorted,source
+sa_fari_006530,red brocket deer,ROMERO_10_Terrestrial,source
+sa_fari_009120,red brocket deer,ROMERO_15_Terrestrial,source
+sa_fari_003276,red brocket deer,ROMERO_16_Terrestrial,source
+sa_fari_001673,red brocket deer,ROMERO_1_Terrestrial,source
+sa_fari_001444,red brocket deer,ROMERO_20_Terrestrial,source
+sa_fari_007958,red brocket deer,SHINTUYA_14_Terrestrial,source
+sa_fari_008820,red brocket deer,SHINTUYA_18_Terrestrial,source
+sa_fari_002838,red brocket deer,colpa_001,source
+sa_fari_007605,red brocket deer,copla_002,source
+sa_fari_001416,red brocket deer,DIAMANTE_20_Terrestrial,source
+sa_fari_010104,red brocket deer,DIAMANTE_3_Terrestrial,source
+sa_fari_004169,red brocket deer,DIAMANTE_5_Terrestrial,source
+sa_fari_001400,red brocket deer,DIAMANTE_8_Terrestrial,source
+sa_fari_009191,red brocket deer,MLC_14_Terrestrial,source
+sa_fari_004267,red brocket deer,MLC_20_Terrestrial,source
+sa_fari_002882,red brocket deer,MLC_4_Terrestrial,source
+sa_fari_005162,red brocket deer,MS#13_sorted,source
+sa_fari_004356,red brocket deer,MS#16_sorted,source
+sa_fari_011478,red brocket deer,MS#72_sorted,source
+sa_fari_006445,red brocket deer,MS#73_sorted,source
+sa_fari_010938,red brocket deer,ROMERO_10_Terrestrial,source
+sa_fari_006122,red brocket deer,ROMERO_15_Terrestrial,source
+sa_fari_007603,red brocket deer,ROMERO_20_Terrestrial,source
+sa_fari_011204,red brocket deer,SHINTUYA_14_Terrestrial,source
+sa_fari_003600,red brocket deer,SHINTUYA_18_Terrestrial,source
+sa_fari_008534,red brocket deer,colpa_001,source
+sa_fari_006110,red brocket deer,copla_002,source
+sa_fari_005256,red brocket deer,DIAMANTE_20_Terrestrial,source
+sa_fari_002358,red brocket deer,DIAMANTE_3_Terrestrial,source
+sa_fari_001914,red brocket deer,DIAMANTE_5_Terrestrial,source
+sa_fari_008136,red brocket deer,DIAMANTE_8_Terrestrial,source
+sa_fari_010002,red brocket deer,MLC_14_Terrestrial,source
+sa_fari_005420,red brocket deer,MLC_20_Terrestrial,source
+sa_fari_003458,red brocket deer,MS#13_sorted,source
+sa_fari_011655,red brocket deer,MS#16_sorted,source
+sa_fari_007390,red brocket deer,MS#73_sorted,source
+sa_fari_005261,red brocket deer,ROMERO_10_Terrestrial,source
+sa_fari_003649,red brocket deer,ROMERO_15_Terrestrial,source
+sa_fari_006342,red brocket deer,ROMERO_20_Terrestrial,source
+sa_fari_003473,red brocket deer,SHINTUYA_14_Terrestrial,source
+sa_fari_010075,red brocket deer,SHINTUYA_18_Terrestrial,source
+sa_fari_003143,red-billed currasow,DIAMANTE_13_Terrestrial,source
+sa_fari_001482,red-billed currasow,MLC_14_Terrestrial,source
+sa_fari_004930,red-billed currasow,MLC_20_Terrestrial,source
+sa_fari_009853,red-billed currasow,MLC_4_Terrestrial,source
+sa_fari_004328,red-billed currasow,ROMERO_12_Arboreal,source
+sa_fari_005856,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_005569,red-billed currasow,ROMERO_15_Terrestrial,source
+sa_fari_008878,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_006612,red-billed currasow,ROMERO_18_Terrestrial,source
+sa_fari_001442,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_000884,red-billed currasow,SHINTUYA_14_Terrestrial,source
+sa_fari_004953,red-billed currasow,SHINTUYA_17_Terrestrial,source
+sa_fari_005539,red-billed currasow,SHINTUYA_18_Terrestrial,source
+sa_fari_002231,red-billed currasow,SHINTUYA_7_Terrestrial,source
+sa_fari_010308,red-billed currasow,MLC_14_Terrestrial,source
+sa_fari_003795,red-billed currasow,MLC_20_Terrestrial,source
+sa_fari_009922,red-billed currasow,MLC_4_Terrestrial,source
+sa_fari_005271,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_004732,red-billed currasow,ROMERO_15_Terrestrial,source
+sa_fari_009873,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_010749,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_008017,red-billed currasow,SHINTUYA_14_Terrestrial,source
+sa_fari_005050,red-billed currasow,SHINTUYA_18_Terrestrial,source
+sa_fari_008224,red-billed currasow,SHINTUYA_7_Terrestrial,source
+sa_fari_010598,red-billed currasow,MLC_14_Terrestrial,source
+sa_fari_010820,red-billed currasow,MLC_4_Terrestrial,source
+sa_fari_003467,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_002423,red-billed currasow,ROMERO_15_Terrestrial,source
+sa_fari_004817,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_003528,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_001594,red-billed currasow,SHINTUYA_14_Terrestrial,source
+sa_fari_002070,red-billed currasow,SHINTUYA_7_Terrestrial,source
+sa_fari_007490,red-billed currasow,MLC_4_Terrestrial,source
+sa_fari_003470,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_002928,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_002665,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_010678,red-billed currasow,SHINTUYA_14_Terrestrial,source
+sa_fari_011338,red-billed currasow,SHINTUYA_7_Terrestrial,source
+sa_fari_007144,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_008275,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_004351,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_006581,red-billed currasow,SHINTUYA_7_Terrestrial,source
+sa_fari_011098,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_011063,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_008649,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_004666,red-billed currasow,SHINTUYA_7_Terrestrial,source
+sa_fari_010813,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_001299,red-billed currasow,ROMERO_16_Terrestrial,source
+sa_fari_006848,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_009144,red-billed currasow,ROMERO_13_Terrestrial,source
+sa_fari_006109,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_007634,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_001812,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_007339,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_005107,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_008222,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_011436,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_003739,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_010064,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_006990,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_001356,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_001825,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_010019,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_006212,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_011032,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_009616,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_011420,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_003180,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_004906,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_011021,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_000971,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_009101,red-billed currasow,ROMERO_7_Terrestrial,source
+sa_fari_009529,squirrel,AGJ#5_sorted,source
+sa_fari_001834,squirrel,DIAMANTE_10_Terrestrial,source
+sa_fari_009356,squirrel,MS#10_sorted,source
+sa_fari_007764,squirrel,MS#113_sorted,source
+sa_fari_004374,squirrel,MS#114_sorted,source
+sa_fari_009872,squirrel,MS#118_sorted,source
+sa_fari_006985,squirrel,MS#128_sorted,source
+sa_fari_001680,squirrel,MS#131_sorted,source
+sa_fari_007501,squirrel,MS#133_sorted,source
+sa_fari_002308,squirrel,MS#144_sorted,source
+sa_fari_005134,squirrel,MS#149_sorted,source
+sa_fari_009057,squirrel,MS#152_sorted,source
+sa_fari_008862,squirrel,MS#154_sorted,source
+sa_fari_010894,squirrel,MS#155_sorted,source
+sa_fari_010656,squirrel,MS#164_sorted,source
+sa_fari_008203,squirrel,MS#16_sorted,source
+sa_fari_009723,squirrel,MS#175_sorted,source
+sa_fari_000961,squirrel,MS#18_first_collection_sorted,source
+sa_fari_011517,squirrel,MS#6_sorted,source
+sa_fari_009593,squirrel,MS#96_sorted,source
+sa_fari_007484,squirrel,NL#1_revised,source
+sa_fari_010973,squirrel,ROMERO_12_Arboreal,source
+sa_fari_004234,squirrel,ROMERO_1_Terrestrial,source
+sa_fari_011560,squirrel,ROMERO_3_Terrestrial,source
+sa_fari_010327,squirrel,SALED#2_B_sorted,source
+sa_fari_004192,squirrel,colpa008,source
+sa_fari_004004,squirrel,MS#113_sorted,source
+sa_fari_009365,squirrel,MS#114_sorted,source
+sa_fari_008764,squirrel,MS#144_sorted,source
+sa_fari_005074,squirrel,MS#149_sorted,source
+sa_fari_004522,squirrel,MS#152_sorted,source
+sa_fari_002199,squirrel,MS#154_sorted,source
+sa_fari_001833,squirrel,MS#155_sorted,source
+sa_fari_006228,squirrel,MS#16_sorted,source
+sa_fari_001206,squirrel,MS#18_first_collection_sorted,source
+sa_fari_000996,squirrel,MS#6_sorted,source
+sa_fari_002209,squirrel,MS#96_sorted,source
+sa_fari_006527,squirrel,ROMERO_12_Arboreal,source
+sa_fari_001591,squirrel,colpa008,source
+sa_fari_007602,squirrel,MS#113_sorted,source
+sa_fari_007666,squirrel,MS#114_sorted,source
+sa_fari_011395,squirrel,MS#144_sorted,source
+sa_fari_007312,squirrel,MS#149_sorted,source
+sa_fari_006943,squirrel,MS#152_sorted,source
+sa_fari_000855,squirrel,MS#155_sorted,source
+sa_fari_008748,squirrel,MS#18_first_collection_sorted,source
+sa_fari_007557,squirrel,MS#6_sorted,source
+sa_fari_009945,squirrel,MS#96_sorted,source
+sa_fari_005396,squirrel,ROMERO_12_Arboreal,source
+sa_fari_004031,squirrel,colpa008,source
+sa_fari_009431,squirrel,MS#144_sorted,source
+sa_fari_006024,squirrel,MS#149_sorted,source
+sa_fari_009694,squirrel,MS#18_first_collection_sorted,source
+sa_fari_004576,squirrel,MS#96_sorted,source
+sa_fari_007786,squirrel,ROMERO_12_Arboreal,source
+sa_fari_005208,squirrel,colpa008,source
+sa_fari_006773,squirrel,MS#144_sorted,source
+sa_fari_010802,squirrel,MS#149_sorted,source
+sa_fari_010929,squirrel,MS#18_first_collection_sorted,source
+sa_fari_005864,squirrel,MS#96_sorted,source
+sa_fari_001957,squirrel,colpa008,source
+sa_fari_001732,squirrel,MS#144_sorted,source
+sa_fari_007827,squirrel,MS#18_first_collection_sorted,source
+sa_fari_002518,squirrel,MS#96_sorted,source
+sa_fari_007988,squirrel,colpa008,source
+sa_fari_001602,squirrel,MS#144_sorted,source
+sa_fari_008683,squirrel,MS#18_first_collection_sorted,source
+sa_fari_001716,squirrel,MS#96_sorted,source
+sa_fari_007918,squirrel,colpa008,source
+sa_fari_001384,squirrel,MS#144_sorted,source
+sa_fari_011680,squirrel,MS#18_first_collection_sorted,source
+sa_fari_009589,squirrel,MS#96_sorted,source
+sa_fari_001156,squirrel,colpa008,source
+sa_fari_004262,squirrel,MS#144_sorted,source
+sa_fari_007282,squirrel,MS#18_first_collection_sorted,source
+sa_fari_002065,squirrel,MS#96_sorted,source
+sa_fari_005979,squirrel,colpa008,source
+sa_fari_010435,squirrel,MS#144_sorted,source
+sa_fari_007632,squirrel,MS#96_sorted,source
+sa_fari_000931,squirrel,colpa008,source
+sa_fari_005970,squirrel monkey,MS#6_sorted,source
+sa_fari_008188,squirrel monkey,ROMERO_12_Arboreal,source
+sa_fari_006606,squirrel monkey,ROMERO_7_Arboreal,source
+sa_fari_004344,squirrel monkey,arb_001,source
+sa_fari_007321,squirrel monkey,arb_002,source
+sa_fari_001791,squirrel monkey,arb_003,source
+sa_fari_004935,squirrel monkey,arb_004,source
+sa_fari_011116,squirrel monkey,arb_005,source
+sa_fari_011656,squirrel monkey,arb_006,source
+sa_fari_008796,squirrel monkey,arb_007,source
+sa_fari_010323,squirrel monkey,arb_009,source
+sa_fari_008755,squirrel monkey,arb_014,source
+sa_fari_001527,squirrel monkey,arb_019,source
+sa_fari_007570,squirrel monkey,arb_021,source
+sa_fari_004321,squirrel monkey,arb_022,source
+sa_fari_008661,squirrel monkey,arb_023,source
+sa_fari_009894,squirrel monkey,arb_024,source
+sa_fari_010933,squirrel monkey,arb_025,source
+sa_fari_005068,squirrel monkey,arb_026,source
+sa_fari_008597,squirrel monkey,arb_028,source
+sa_fari_008075,squirrel monkey,arb_030,source
+sa_fari_007512,squirrel monkey,arb_038,source
+sa_fari_007952,squirrel monkey,arb_040,source
+sa_fari_006000,squirrel monkey,arb_041,source
+sa_fari_008521,squirrel monkey,arb_048,source
+sa_fari_010180,squirrel monkey,arb_049,source
+sa_fari_002028,squirrel monkey,arb_051,source
+sa_fari_003603,squirrel monkey,arb_060,source
+sa_fari_002237,squirrel monkey,arb_061,source
+sa_fari_002616,squirrel monkey,arb_062,source
+sa_fari_007846,squirrel monkey,arb_063,source
+sa_fari_007095,squirrel monkey,arb_064,source
+sa_fari_009066,squirrel monkey,arb_065,source
+sa_fari_007480,squirrel monkey,arb_067,source
+sa_fari_008313,squirrel monkey,arb_068,source
+sa_fari_003100,squirrel monkey,arb_069,source
+sa_fari_011254,squirrel monkey,arb_075,source
+sa_fari_005706,squirrel monkey,arb_001,source
+sa_fari_002547,squirrel monkey,arb_002,source
+sa_fari_006131,squirrel monkey,arb_003,source
+sa_fari_007776,squirrel monkey,arb_007,source
+sa_fari_010307,squirrel monkey,arb_009,source
+sa_fari_008906,squirrel monkey,arb_014,source
+sa_fari_008612,squirrel monkey,arb_019,source
+sa_fari_010795,squirrel monkey,arb_021,source
+sa_fari_006251,squirrel monkey,arb_023,source
+sa_fari_003937,squirrel monkey,arb_024,source
+sa_fari_008953,squirrel monkey,arb_025,source
+sa_fari_006740,squirrel monkey,arb_026,source
+sa_fari_001298,squirrel monkey,arb_028,source
+sa_fari_003052,squirrel monkey,arb_030,source
+sa_fari_005907,squirrel monkey,arb_038,source
+sa_fari_001628,squirrel monkey,arb_040,source
+sa_fari_009135,squirrel monkey,arb_041,source
+sa_fari_006080,squirrel monkey,arb_049,source
+sa_fari_006584,squirrel monkey,arb_060,source
+sa_fari_005116,squirrel monkey,arb_061,source
+sa_fari_010038,squirrel monkey,arb_062,source
+sa_fari_010642,squirrel monkey,arb_064,source
+sa_fari_005905,squirrel monkey,arb_065,source
+sa_fari_003975,squirrel monkey,arb_067,source
+sa_fari_001675,squirrel monkey,arb_068,source
+sa_fari_005045,squirrel monkey,arb_069,source
+sa_fari_010034,squirrel monkey,arb_075,source
+sa_fari_009642,squirrel monkey,arb_001,source
+sa_fari_007224,squirrel monkey,arb_002,source
+sa_fari_004751,squirrel monkey,arb_003,source
+sa_fari_008703,squirrel monkey,arb_007,source
+sa_fari_006374,squirrel monkey,arb_009,source
+sa_fari_010692,squirrel monkey,arb_014,source
+sa_fari_004650,squirrel monkey,arb_019,source
+sa_fari_010100,squirrel monkey,arb_021,source
+sa_fari_006590,squirrel monkey,arb_023,source
+sa_fari_010172,squirrel monkey,arb_024,source
+sa_fari_002137,squirrel monkey,arb_025,source
+sa_fari_006029,squirrel monkey,arb_026,source
+sa_fari_001930,squirrel monkey,arb_028,source
+sa_fari_006442,squirrel monkey,arb_030,source
+sa_fari_000850,squirrel monkey,arb_040,source
+sa_fari_007920,squirrel monkey,arb_041,source
+sa_fari_006002,trumpeter,DIAMANTE_10_Terrestrial,source
+sa_fari_006721,trumpeter,DIAMANTE_13_Terrestrial,source
+sa_fari_006201,trumpeter,DIAMANTE_18_Terrestrial,source
+sa_fari_004543,trumpeter,DIAMANTE_3_Terrestrial,source
+sa_fari_010198,trumpeter,DIAMANTE_5_Terrestrial,source
+sa_fari_008208,trumpeter,DIAMANTE_8_Terrestrial,source
+sa_fari_002763,trumpeter,MLC_14_Terrestrial,source
+sa_fari_002187,trumpeter,MLC_4_Terrestrial,source
+sa_fari_011143,trumpeter,ROMERO_10_Terrestrial,source
+sa_fari_002064,trumpeter,ROMERO_13_Terrestrial,source
+sa_fari_011055,trumpeter,ROMERO_15_Terrestrial,source
+sa_fari_010164,trumpeter,ROMERO_16_Terrestrial,source
+sa_fari_006815,trumpeter,ROMERO_18_Terrestrial,source
+sa_fari_005874,trumpeter,ROMERO_1_Terrestrial,source
+sa_fari_003142,trumpeter,ROMERO_3_Terrestrial,source
+sa_fari_011487,trumpeter,SHINTUYA_14_Terrestrial,source
+sa_fari_004792,trumpeter,SHINTUYA_7_Terrestrial,source
+sa_fari_011726,trumpeter,DIAMANTE_10_Terrestrial,source
+sa_fari_005276,trumpeter,DIAMANTE_18_Terrestrial,source
+sa_fari_000962,trumpeter,DIAMANTE_3_Terrestrial,source
+sa_fari_005915,trumpeter,DIAMANTE_8_Terrestrial,source
+sa_fari_003205,trumpeter,MLC_14_Terrestrial,source
+sa_fari_006462,trumpeter,MLC_4_Terrestrial,source
+sa_fari_003938,trumpeter,ROMERO_10_Terrestrial,source
+sa_fari_005701,trumpeter,ROMERO_13_Terrestrial,source
+sa_fari_002411,trumpeter,ROMERO_15_Terrestrial,source
+sa_fari_005108,trumpeter,ROMERO_16_Terrestrial,source
+sa_fari_005837,trumpeter,ROMERO_18_Terrestrial,source
+sa_fari_011018,trumpeter,ROMERO_1_Terrestrial,source
+sa_fari_007838,trumpeter,ROMERO_3_Terrestrial,source
+sa_fari_002643,trumpeter,SHINTUYA_14_Terrestrial,source
+sa_fari_003633,trumpeter,SHINTUYA_7_Terrestrial,source
+sa_fari_002292,trumpeter,DIAMANTE_10_Terrestrial,source
+sa_fari_007326,trumpeter,DIAMANTE_18_Terrestrial,source
+sa_fari_007222,trumpeter,DIAMANTE_3_Terrestrial,source
+sa_fari_011065,trumpeter,MLC_14_Terrestrial,source
+sa_fari_007822,trumpeter,MLC_4_Terrestrial,source
+sa_fari_007188,trumpeter,ROMERO_10_Terrestrial,source
+sa_fari_010089,trumpeter,ROMERO_13_Terrestrial,source
+sa_fari_002533,trumpeter,ROMERO_15_Terrestrial,source
+sa_fari_006975,trumpeter,ROMERO_16_Terrestrial,source
+sa_fari_003557,trumpeter,ROMERO_18_Terrestrial,source
+sa_fari_004183,trumpeter,ROMERO_1_Terrestrial,source
+sa_fari_004415,trumpeter,ROMERO_3_Terrestrial,source
+sa_fari_009826,trumpeter,SHINTUYA_14_Terrestrial,source
+sa_fari_010388,trumpeter,SHINTUYA_7_Terrestrial,source
+sa_fari_006538,trumpeter,DIAMANTE_10_Terrestrial,source
+sa_fari_003699,trumpeter,DIAMANTE_18_Terrestrial,source
+sa_fari_009097,trumpeter,DIAMANTE_3_Terrestrial,source
+sa_fari_002098,trumpeter,MLC_14_Terrestrial,source
+sa_fari_003601,trumpeter,MLC_4_Terrestrial,source
+sa_fari_007459,trumpeter,ROMERO_10_Terrestrial,source
+sa_fari_009679,trumpeter,ROMERO_13_Terrestrial,source
+sa_fari_002113,trumpeter,ROMERO_16_Terrestrial,source
+sa_fari_008324,trumpeter,ROMERO_18_Terrestrial,source
+sa_fari_007862,trumpeter,ROMERO_1_Terrestrial,source
+sa_fari_011091,trumpeter,ROMERO_3_Terrestrial,source
+sa_fari_001135,trumpeter,SHINTUYA_14_Terrestrial,source
+sa_fari_010916,trumpeter,SHINTUYA_7_Terrestrial,source
+sa_fari_009622,trumpeter,DIAMANTE_10_Terrestrial,source
+sa_fari_002936,trumpeter,DIAMANTE_18_Terrestrial,source
+sa_fari_011315,trumpeter,MLC_14_Terrestrial,source
+sa_fari_010734,trumpeter,MLC_4_Terrestrial,source
+sa_fari_011430,trumpeter,ROMERO_10_Terrestrial,source
+sa_fari_005128,trumpeter,ROMERO_13_Terrestrial,source
+sa_fari_010567,trumpeter,ROMERO_16_Terrestrial,source
+sa_fari_005494,trumpeter,ROMERO_18_Terrestrial,source
+sa_fari_007568,trumpeter,ROMERO_1_Terrestrial,source
+sa_fari_003550,trumpeter,SHINTUYA_14_Terrestrial,source
+sa_fari_001684,trumpeter,SHINTUYA_7_Terrestrial,source
+sa_fari_009722,trumpeter,DIAMANTE_10_Terrestrial,source
+sa_fari_008817,trumpeter,MLC_14_Terrestrial,source
+sa_fari_003378,trumpeter,MLC_4_Terrestrial,source
+sa_fari_003731,trumpeter,ROMERO_10_Terrestrial,source
+sa_fari_004417,trumpeter,ROMERO_13_Terrestrial,source
+sa_fari_004387,trumpeter,ROMERO_16_Terrestrial,source
+sa_fari_004581,trumpeter,ROMERO_18_Terrestrial,source
+sa_fari_004569,trumpeter,ROMERO_1_Terrestrial,source
+sa_fari_007183,trumpeter,SHINTUYA_14_Terrestrial,source
+sa_fari_001065,trumpeter,SHINTUYA_7_Terrestrial,source
+sa_fari_005445,white-nosed coati,AGJ#1_sorted,source
+sa_fari_010097,white-nosed coati,AGJ#2_sorted,source
+sa_fari_002586,white-nosed coati,AGJ#3_sorted,source
+sa_fari_007389,white-nosed coati,AGJ#5_sorted,source
+sa_fari_002587,white-nosed coati,MS#101_sorted,source
+sa_fari_010812,white-nosed coati,MS#103_sorted,source
+sa_fari_007713,white-nosed coati,MS#104_sorted,source
+sa_fari_008993,white-nosed coati,MS#108_sorted,source
+sa_fari_003547,white-nosed coati,MS#10_sorted,source
+sa_fari_002537,white-nosed coati,MS#110_sorted,source
+sa_fari_002426,white-nosed coati,MS#111_sorted,source
+sa_fari_009859,white-nosed coati,MS#112_sorted,source
+sa_fari_001265,white-nosed coati,MS#113_sorted,source
+sa_fari_005990,white-nosed coati,MS#114_sorted,source
+sa_fari_009272,white-nosed coati,MS#116_sorted,source
+sa_fari_002624,white-nosed coati,MS#118_sorted,source
+sa_fari_004985,white-nosed coati,MS#119_sorted,source
+sa_fari_002320,white-nosed coati,MS#121_sorted,source
+sa_fari_007581,white-nosed coati,MS#122_sorted,source
+sa_fari_007719,white-nosed coati,MS#123_sorted,source
+sa_fari_006939,white-nosed coati,MS#128_sorted,source
+sa_fari_009269,white-nosed coati,MS#12_sorted,source
+sa_fari_003079,white-nosed coati,MS#130_sorted,source
+sa_fari_009326,white-nosed coati,MS#131_sorted,source
+sa_fari_009160,white-nosed coati,MS#133_sorted,source
+sa_fari_001250,white-nosed coati,MS#135_sorted,source
+sa_fari_002525,white-nosed coati,MS#137_sorted,source
+sa_fari_007724,white-nosed coati,MS#138_sorted,source
+sa_fari_007904,white-nosed coati,MS#13_sorted,source
+sa_fari_006676,white-nosed coati,MS#143_sorted,source
+sa_fari_009373,white-nosed coati,MS#144_sorted,source
+sa_fari_003860,white-nosed coati,MS#148_sorted,source
+sa_fari_004832,white-nosed coati,MS#149_sorted,source
+sa_fari_003157,white-nosed coati,MS#154_sorted,source
+sa_fari_002300,white-nosed coati,MS#155_sorted,source
+sa_fari_003824,white-nosed coati,MS#15_sorted,source
+sa_fari_002687,white-nosed coati,MS#16_sorted,source
+sa_fari_000897,white-nosed coati,MS#175_sorted,source
+sa_fari_009806,white-nosed coati,MS#18_first_collection_sorted,source
+sa_fari_001437,white-nosed coati,MS#2_revised,source
+sa_fari_010277,white-nosed coati,MS#3_sorted,source
+sa_fari_002484,white-nosed coati,MS#5_sorted,source
+sa_fari_011477,white-nosed coati,MS#69_sorted,source
+sa_fari_005157,white-nosed coati,MS#6_sorted,source
+sa_fari_008464,white-nosed coati,MS#72_sorted,source
+sa_fari_005349,white-nosed coati,MS#73_sorted,source
+sa_fari_001033,white-nosed coati,MS#7_sorted,source
+sa_fari_005173,white-nosed coati,MS#84_sorted,source
+sa_fari_010429,white-nosed coati,MS#87_sorted,source
+sa_fari_011505,white-nosed coati,MS#8_sorted,source
+sa_fari_007741,white-nosed coati,MS#90_sorted,source
+sa_fari_007179,white-nosed coati,MS#92_sorted,source
+sa_fari_007510,white-nosed coati,MS#93_sorted,source
+sa_fari_000861,white-nosed coati,MS#96_sorted,source
+sa_fari_001498,white-nosed coati,NL#1_revised,source
+sa_fari_007588,white-nosed coati,ROMERO_13_Terrestrial,source
+sa_fari_007141,white-nosed coati,SALED#2_B_sorted,source
+sa_fari_003512,white-nosed coati,AGJ#1_sorted,source
+sa_fari_002788,white-nosed coati,AGJ#2_sorted,source
+sa_fari_000953,white-nosed coati,AGJ#3_sorted,source
+sa_fari_006817,white-nosed coati,AGJ#5_sorted,source
+sa_fari_006880,white-nosed coati,MS#101_sorted,source
+sa_fari_002597,white-nosed coati,MS#103_sorted,source
+sa_fari_006437,white-nosed coati,MS#104_sorted,source
+sa_fari_002650,white-nosed coati,MS#108_sorted,source
+sa_fari_003374,white-nosed coati,MS#110_sorted,source
+sa_fari_007888,white-nosed coati,MS#111_sorted,source
+sa_fari_004776,white-nosed coati,MS#112_sorted,source
+sa_fari_002455,white-nosed coati,MS#113_sorted,source
+sa_fari_003222,white-nosed coati,MS#114_sorted,source
+sa_fari_010855,white-nosed coati,MS#118_sorted,source
+sa_fari_001347,white-nosed coati,MS#119_sorted,source
+sa_fari_010439,white-nosed coati,MS#121_sorted,source
+sa_fari_006868,white-nosed coati,MS#122_sorted,source
+sa_fari_009882,white-nosed coati,MS#123_sorted,source
+sa_fari_002852,white-nosed coati,MS#128_sorted,source
+sa_fari_002678,white-nosed coati,MS#12_sorted,source
+sa_fari_003492,white-nosed coati,MS#131_sorted,source
+sa_fari_005880,white-nosed coati,MS#133_sorted,source
+sa_fari_009465,white-nosed coati,MS#135_sorted,source
+sa_fari_000001,white-nosed coati,MS#91_sorted,test
+sa_fari_000002,collared peccary,MS#1_sorted,test
+sa_fari_000004,white-nosed coati,MS#100_sorted,test
+sa_fari_000005,ocelot,SHINTUYA_11_Terrestrial,test
+sa_fari_000006,agouti,MS#62_sorted,adapt
+sa_fari_000007,jaguar,SHINTUYA_3_Terrestrial,test
+sa_fari_000008,capuchin monkey,ROMERO_19_Arboreal,test
+sa_fari_000009,white-nosed coati,MS#127_sorted,test
+sa_fari_000010,kinkajou,DIAMANTE_5_Arboreal,adapt
+sa_fari_000011,white-nosed coati,MS#94_sorted,test
+sa_fari_000013,common opossum,MS#94_sorted,test
+sa_fari_000014,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000015,common opossum,MS#157_sorted,test
+sa_fari_000017,four-eyed opossum,SHINTUYA_5_Arboreal,test
+sa_fari_000018,ocelot,MLC_6_Terrestrial,test
+sa_fari_000020,squirrel monkey,arb_045,test
+sa_fari_000026,collared peccary,MLC_6_Terrestrial,test
+sa_fari_000028,porcupine,colpa_012,test
+sa_fari_000030,puma,DIAMANTE_17_Terrestrial,adapt
+sa_fari_000031,white-nosed coati,MS#132_sorted,test
+sa_fari_000032,puma,MLC_18_Terrestrial,test
+sa_fari_000033,white-nosed coati,MS#94_sorted,test
+sa_fari_000034,ocelot,DIAMANTE_17_Terrestrial,test
+sa_fari_000035,white-nosed coati,MS#100_sorted,test
+sa_fari_000036,ocelot,MS#132_sorted,test
+sa_fari_000041,squirrel,DIAMANTE_20_Arboreal,adapt
+sa_fari_000042,capuchin monkey,SHINTUYA_15_Arboreal,test
+sa_fari_000043,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000044,white-nosed coati,MS#100_sorted,test
+sa_fari_000045,white-nosed coati,MS#91_sorted,test
+sa_fari_000048,agouti,MS#65_sorted,test
+sa_fari_000052,squirrel monkey,MLC_6_Arboreal,adapt
+sa_fari_000053,kinkajou,MLC_8_Arboreal,test
+sa_fari_000057,great tinamou,MS#147_sorted,adapt
+sa_fari_000058,white-nosed coati,MS#91_sorted,test
+sa_fari_000061,common opossum,MS#157_sorted,test
+sa_fari_000062,common opossum,MS#147_sorted,adapt
+sa_fari_000063,red brocket deer,MLC_12_Terrestrial,test
+sa_fari_000064,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000065,trumpeter,MLC_16_Terrestrial,test
+sa_fari_000067,collared peccary,MS#1_sorted,test
+sa_fari_000068,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000071,trumpeter,MLC_16_Terrestrial,test
+sa_fari_000072,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000074,night monkey,SHINTUYA_10_Arboreal,test
+sa_fari_000075,capuchin monkey,ROMERO_19_Arboreal,test
+sa_fari_000076,four-eyed opossum,MS#161_sorted,test
+sa_fari_000077,trumpeter,MLC_7_Terrestrial,test
+sa_fari_000079,trumpeter,MLC_1_Terrestrial,test
+sa_fari_000081,ocelot,MLC_10_Terrestrial,test
+sa_fari_000082,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000083,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000084,capuchin monkey,MS#150_sorted,test
+sa_fari_000085,paca,MLC_16_Terrestrial,adapt
+sa_fari_000086,red brocket deer,MLC_12_Terrestrial,adapt
+sa_fari_000087,paca,DIAMANTE_15_Terrestrial,test
+sa_fari_000093,white-nosed coati,MS#91_sorted,test
+sa_fari_000094,porcupine,colpa_012,test
+sa_fari_000096,capuchin monkey,DIAMANTE_11_Arboreal,test
+sa_fari_000097,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000100,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000102,common opossum,MS#94_sorted,test
+sa_fari_000103,night monkey,DIAMANTE_12_Arboreal,test
+sa_fari_000104,baird's tapir,SHINTUYA_20_Terrestrial,test
+sa_fari_000105,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000106,ocelot,MLC_10_Terrestrial,test
+sa_fari_000107,agouti,MS#91_sorted,test
+sa_fari_000108,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000109,common opossum,MS#94_sorted,test
+sa_fari_000110,northern tamandua,MS#94_sorted,test
+sa_fari_000111,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000114,night monkey,ROMERO_13_Arboreal,test
+sa_fari_000115,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000116,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000117,paca,SHINTUYA_1_Terrestrial,test
+sa_fari_000119,ocelot,MLC_18_Terrestrial,test
+sa_fari_000120,kinkajou,MLC_1_Arboreal,test
+sa_fari_000122,great tinamou,MS#94_sorted,test
+sa_fari_000123,collared peccary,MS#91_sorted,test
+sa_fari_000124,ninebanded armadillo,MLC_10_Terrestrial,adapt
+sa_fari_000125,baird's tapir,SHINTUYA_5_Terrestrial,test
+sa_fari_000126,crab-eating raccoon,MLC_10_Terrestrial,adapt
+sa_fari_000127,great tinamou,MS#147_sorted,test
+sa_fari_000129,common opossum,MS#94_sorted,test
+sa_fari_000130,porcupine,MLC_20_Arboreal,adapt
+sa_fari_000131,white-nosed coati,MS#100_sorted,test
+sa_fari_000132,common opossum,MS#157_sorted,test
+sa_fari_000133,kinkajou,MLC_1_Arboreal,test
+sa_fari_000134,crab-eating raccoon,MS#125_sorted,test
+sa_fari_000135,common opossum,MS#157_sorted,test
+sa_fari_000137,red-billed currasow,SHINTUYA_1_Terrestrial,test
+sa_fari_000138,squirrel,DIAMANTE_11_Arboreal,test
+sa_fari_000139,kinkajou,MLC_1_Arboreal,test
+sa_fari_000140,four-eyed opossum,MS#66_sorted,test
+sa_fari_000141,collared peccary,MS#91_sorted,test
+sa_fari_000142,four-eyed opossum,DIAMANTE_11_Arboreal,adapt
+sa_fari_000144,northern tamandua,MS#94_sorted,test
+sa_fari_000147,ocelot,MS#150_sorted,test
+sa_fari_000148,baird's tapir,MLC_1_Terrestrial,test
+sa_fari_000151,crab-eating raccoon,MLC_12_Terrestrial,adapt
+sa_fari_000152,ocelot,MLC_10_Terrestrial,test
+sa_fari_000154,common opossum,MS#94_sorted,test
+sa_fari_000155,collared peccary,MS#100_sorted,test
+sa_fari_000158,puma,MLC_10_Terrestrial,adapt
+sa_fari_000159,ninebanded armadillo,MS#129_sorted,test
+sa_fari_000160,white-nosed coati,MS#91_sorted,test
+sa_fari_000161,trumpeter,MLC_16_Terrestrial,test
+sa_fari_000162,red brocket deer,MLC_7_Terrestrial,test
+sa_fari_000163,paca,SHINTUYA_3_Terrestrial,test
+sa_fari_000168,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000169,ocelot,DIAMANTE_17_Terrestrial,test
+sa_fari_000170,red brocket deer,DIAMANTE_17_Terrestrial,test
+sa_fari_000172,ocelot,MLC_6_Terrestrial,test
+sa_fari_000175,four-eyed opossum,MS#129_sorted,adapt
+sa_fari_000177,ninebanded armadillo,MLC_1_Terrestrial,test
+sa_fari_000179,kinkajou,MLC_1_Arboreal,adapt
+sa_fari_000181,white-nosed coati,MS#91_sorted,test
+sa_fari_000182,kinkajou,DIAMANTE_5_Arboreal,test
+sa_fari_000183,great tinamou,MS#94_sorted,test
+sa_fari_000184,northern tamandua,MS#100_sorted,adapt
+sa_fari_000185,white-nosed coati,MS#147_sorted,test
+sa_fari_000186,common opossum,DIAMANTE_10_Arboreal,adapt
+sa_fari_000187,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000188,trumpeter,MLC_1_Terrestrial,test
+sa_fari_000189,trumpeter,MLC_1_Terrestrial,test
+sa_fari_000190,baird's tapir,MLC_7_Terrestrial,test
+sa_fari_000191,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000195,squirrel,DIAMANTE_11_Arboreal,adapt
+sa_fari_000196,white-nosed coati,MS#120_sorted,test
+sa_fari_000197,ocelot,MLC_12_Terrestrial,test
+sa_fari_000198,great tinamou,MS#94_sorted,test
+sa_fari_000199,agouti,MS#100_sorted,adapt
+sa_fari_000201,ocelot,MLC_18_Terrestrial,test
+sa_fari_000202,trumpeter,MLC_1_Terrestrial,test
+sa_fari_000203,white-nosed coati,MS#100_sorted,adapt
+sa_fari_000205,ninebanded armadillo,MLC_1_Terrestrial,test
+sa_fari_000207,squirrel monkey,DIAMANTE_10_Arboreal,adapt
+sa_fari_000210,capuchin monkey,ROMERO_19_Arboreal,test
+sa_fari_000211,jaguar,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000213,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000215,jaguar,MS#70_sorted,test
+sa_fari_000216,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000219,white-nosed coati,MS#91_sorted,test
+sa_fari_000221,baird's tapir,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000222,agouti,MS#62_sorted,test
+sa_fari_000223,white-nosed coati,MS#147_sorted,test
+sa_fari_000224,collared peccary,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000225,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000226,common opossum,MS#145_sorted,adapt
+sa_fari_000227,agouti,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000230,ocelot,MLC_18_Terrestrial,test
+sa_fari_000231,puma,MLC_16_Terrestrial,adapt
+sa_fari_000232,capuchin monkey,ROMERO_19_Arboreal,test
+sa_fari_000233,collared peccary,MS#100_sorted,test
+sa_fari_000236,trumpeter,DIAMANTE_11_Arboreal,adapt
+sa_fari_000238,agouti,MS#65_sorted,test
+sa_fari_000240,agouti,MS#91_sorted,test
+sa_fari_000241,capuchin monkey,MS#150_sorted,test
+sa_fari_000242,collared peccary,MLC_18_Terrestrial,test
+sa_fari_000244,ocelot,colpa_015,test
+sa_fari_000245,baird's tapir,MLC_1_Terrestrial,test
+sa_fari_000246,puma,MLC_10_Terrestrial,test
+sa_fari_000247,red brocket deer,MLC_1_Terrestrial,test
+sa_fari_000248,night monkey,ROMERO_13_Arboreal,test
+sa_fari_000250,white-nosed coati,MS#120_sorted,adapt
+sa_fari_000252,white-nosed coati,MS#120_sorted,test
+sa_fari_000253,white-nosed coati,MS#120_sorted,test
+sa_fari_000255,night monkey,SHINTUYA_17_Arboreal,test
+sa_fari_000256,northern tamandua,ROMERO_18_Arboreal,test
+sa_fari_000257,collared peccary,MS#85_sorted,test
+sa_fari_000258,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000259,night monkey,ROMERO_13_Arboreal,test
+sa_fari_000260,ocelot,MLC_6_Terrestrial,test
+sa_fari_000261,baird's tapir,DIAMANTE_17_Terrestrial,adapt
+sa_fari_000262,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000263,ocelot,MLC_12_Terrestrial,test
+sa_fari_000267,kinkajou,MLC_1_Arboreal,test
+sa_fari_000268,red-billed currasow,MLC_7_Terrestrial,adapt
+sa_fari_000269,red-billed currasow,SHINTUYA_1_Terrestrial,test
+sa_fari_000270,night monkey,MLC_1_Arboreal,test
+sa_fari_000271,ocelot,MS#100_sorted,test
+sa_fari_000272,capuchin monkey,DIAMANTE_11_Arboreal,test
+sa_fari_000275,baird's tapir,DIAMANTE_17_Terrestrial,test
+sa_fari_000277,ocelot,MLC_16_Terrestrial,test
+sa_fari_000278,night monkey,DIAMANTE_12_Arboreal,test
+sa_fari_000280,trumpeter,MLC_7_Terrestrial,test
+sa_fari_000281,porcupine,SHINTUYA_5_Arboreal,test
+sa_fari_000282,night monkey,DIAMANTE_13_Arboreal,test
+sa_fari_000283,ninebanded armadillo,MS#147_sorted,test
+sa_fari_000285,puma,MLC_18_Terrestrial,test
+sa_fari_000286,puma,MS#94_sorted,test
+sa_fari_000287,northern tamandua,MS#132_sorted,test
+sa_fari_000288,kinkajou,MLC_1_Arboreal,test
+sa_fari_000289,white-nosed coati,MS#136_sorted,test
+sa_fari_000290,white-nosed coati,MS#91_sorted,test
+sa_fari_000294,squirrel,MS#132_sorted,test
+sa_fari_000295,red brocket deer,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000297,white-nosed coati,MS#120_sorted,test
+sa_fari_000299,jaguar,DIAMANTE_15_Terrestrial,test
+sa_fari_000301,red brocket deer,SHINTUYA_20_Terrestrial,test
+sa_fari_000302,white-nosed coati,MS#136_sorted,test
+sa_fari_000303,trumpeter,MLC_1_Terrestrial,test
+sa_fari_000304,trumpeter,MLC_7_Terrestrial,test
+sa_fari_000305,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000307,paca,MLC_1_Terrestrial,test
+sa_fari_000308,agouti,MS#94_sorted,test
+sa_fari_000311,red brocket deer,MLC_6_Terrestrial,test
+sa_fari_000315,white-nosed coati,MS#100_sorted,test
+sa_fari_000316,ninebanded armadillo,MS#134_sorted,test
+sa_fari_000317,porcupine,SHINTUYA_10_Arboreal,test
+sa_fari_000318,porcupine,SHINTUYA_10_Arboreal,adapt
+sa_fari_000320,ocelot,MLC_1_Terrestrial,test
+sa_fari_000321,four-eyed opossum,SHINTUYA_20_Terrestrial,test
+sa_fari_000325,crab-eating raccoon,MS#125_sorted,test
+sa_fari_000326,puma,MLC_18_Terrestrial,test
+sa_fari_000327,puma,MS#1_sorted,test
+sa_fari_000328,squirrel monkey,ROMERO_9_Arboreal,test
+sa_fari_000329,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000331,crab-eating raccoon,MLC_12_Terrestrial,test
+sa_fari_000334,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000335,paca,SHINTUYA_1_Terrestrial,test
+sa_fari_000337,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000339,white-nosed coati,MS#120_sorted,test
+sa_fari_000341,common opossum,MS#157_sorted,test
+sa_fari_000343,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000346,crab-eating raccoon,MLC_16_Terrestrial,adapt
+sa_fari_000347,white-nosed coati,MS#100_sorted,test
+sa_fari_000350,ocelot,MLC_18_Terrestrial,test
+sa_fari_000351,capuchin monkey,SHINTUYA_10_Arboreal,test
+sa_fari_000352,agouti,MS#100_sorted,test
+sa_fari_000354,white-nosed coati,MS#166_sorted,test
+sa_fari_000356,night monkey,ROMERO_13_Arboreal,test
+sa_fari_000357,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000358,kinkajou,MLC_5_Arboreal,test
+sa_fari_000359,great tinamou,MS#147_sorted,test
+sa_fari_000360,paca,MLC_1_Terrestrial,test
+sa_fari_000363,squirrel monkey,arb_066,test
+sa_fari_000366,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000367,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000368,northern tamandua,MS#94_sorted,test
+sa_fari_000369,white-nosed coati,MS#100_sorted,test
+sa_fari_000370,ocelot,MLC_18_Terrestrial,test
+sa_fari_000371,ocelot,MLC_10_Terrestrial,test
+sa_fari_000372,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000373,capuchin monkey,MLC_6_Arboreal,adapt
+sa_fari_000374,ocelot,MLC_16_Terrestrial,test
+sa_fari_000376,kinkajou,DIAMANTE_12_Arboreal,adapt
+sa_fari_000377,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000380,baird's tapir,MS#70_sorted,test
+sa_fari_000382,squirrel,ROMERO_13_Arboreal,test
+sa_fari_000383,ninebanded armadillo,MLC_1_Terrestrial,adapt
+sa_fari_000384,baird's tapir,MLC_1_Terrestrial,test
+sa_fari_000385,collared peccary,MLC_6_Terrestrial,test
+sa_fari_000387,puma,MS#94_sorted,test
+sa_fari_000388,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000389,ocelot,MLC_18_Terrestrial,test
+sa_fari_000391,four-eyed opossum,ROMERO_19_Arboreal,test
+sa_fari_000393,kinkajou,ROMERO_18_Arboreal,test
+sa_fari_000394,squirrel,MS#147_sorted,test
+sa_fari_000396,night monkey,MLC_5_Arboreal,test
+sa_fari_000397,white-nosed coati,MS#62_sorted,test
+sa_fari_000398,night monkey,DIAMANTE_11_Arboreal,adapt
+sa_fari_000399,puma,MS#1_sorted,test
+sa_fari_000400,white-nosed coati,MS#85_sorted,test
+sa_fari_000402,white-nosed coati,MS#120_sorted,test
+sa_fari_000404,night monkey,DIAMANTE_20_Arboreal,test
+sa_fari_000407,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000408,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000409,agouti,MS#65_sorted,test
+sa_fari_000411,great tinamou,MS#91_sorted,test
+sa_fari_000412,squirrel monkey,arb_066,test
+sa_fari_000413,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000414,white-nosed coati,MS#126_sorted,test
+sa_fari_000418,baird's tapir,MLC_1_Terrestrial,test
+sa_fari_000420,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000421,collared peccary,SHINTUYA_11_Terrestrial,test
+sa_fari_000422,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000425,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000430,ocelot,MLC_18_Terrestrial,test
+sa_fari_000431,night monkey,DIAMANTE_12_Arboreal,test
+sa_fari_000434,squirrel monkey,MLC_6_Arboreal,test
+sa_fari_000435,northern tamandua,ROMERO_13_Arboreal,test
+sa_fari_000436,capuchin monkey,ROMERO_19_Arboreal,test
+sa_fari_000437,agouti,DIAMANTE_15_Terrestrial,test
+sa_fari_000441,ninebanded armadillo,MLC_1_Terrestrial,test
+sa_fari_000443,ninebanded armadillo,MS#94_sorted,test
+sa_fari_000444,night monkey,DIAMANTE_12_Arboreal,test
+sa_fari_000447,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000448,white-nosed coati,MS#166_sorted,test
+sa_fari_000449,four-eyed opossum,ROMERO_19_Arboreal,test
+sa_fari_000450,porcupine,SHINTUYA_15_Arboreal,test
+sa_fari_000451,agouti,DIAMANTE_15_Terrestrial,test
+sa_fari_000453,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000454,porcupine,SHINTUYA_5_Arboreal,test
+sa_fari_000456,ocelot,MLC_10_Terrestrial,test
+sa_fari_000457,porcupine,SHINTUYA_5_Arboreal,test
+sa_fari_000458,squirrel,MS#132_sorted,test
+sa_fari_000459,four-eyed opossum,SHINTUYA_5_Arboreal,test
+sa_fari_000460,white-nosed coati,MS#126_sorted,adapt
+sa_fari_000461,puma,SHINTUYA_5_Terrestrial,test
+sa_fari_000462,white-nosed coati,MS#120_sorted,test
+sa_fari_000464,jaguar,DIAMANTE_17_Terrestrial,test
+sa_fari_000465,squirrel monkey,MLC_20_Arboreal,adapt
+sa_fari_000466,trumpeter,MLC_6_Terrestrial,test
+sa_fari_000467,ocelot,DIAMANTE_15_Terrestrial,test
+sa_fari_000468,white-nosed coati,MS#100_sorted,test
+sa_fari_000469,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000470,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000471,white-nosed coati,MS#120_sorted,test
+sa_fari_000472,white-nosed coati,MS#94_sorted,test
+sa_fari_000474,jaguar,DIAMANTE_17_Terrestrial,test
+sa_fari_000477,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000480,squirrel,MS#132_sorted,test
+sa_fari_000481,ocelot,MLC_18_Terrestrial,test
+sa_fari_000482,kinkajou,MLC_8_Arboreal,test
+sa_fari_000483,porcupine,colpa_012,test
+sa_fari_000486,ninebanded armadillo,MLC_12_Terrestrial,adapt
+sa_fari_000488,agouti,MS#85_sorted,test
+sa_fari_000489,ninebanded armadillo,MS#150_sorted,test
+sa_fari_000490,agouti,MS#91_sorted,test
+sa_fari_000491,capuchin monkey,arb_046,test
+sa_fari_000492,paca,SHINTUYA_5_Terrestrial,test
+sa_fari_000494,white-nosed coati,MS#166_sorted,test
+sa_fari_000495,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000497,ocelot,MLC_18_Terrestrial,test
+sa_fari_000499,capuchin monkey,MLC_20_Arboreal,adapt
+sa_fari_000501,ocelot,MLC_18_Terrestrial,test
+sa_fari_000503,ocelot,DIAMANTE_17_Terrestrial,test
+sa_fari_000505,white-nosed coati,MS#100_sorted,test
+sa_fari_000507,baird's tapir,DIAMANTE_17_Terrestrial,test
+sa_fari_000508,northern tamandua,ROMERO_13_Arboreal,test
+sa_fari_000509,porcupine,SHINTUYA_5_Arboreal,test
+sa_fari_000510,porcupine,SHINTUYA_10_Arboreal,test
+sa_fari_000511,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000513,collared peccary,SHINTUYA_11_Terrestrial,test
+sa_fari_000514,paca,SHINTUYA_5_Terrestrial,test
+sa_fari_000519,ninebanded armadillo,MS#180_sorted,test
+sa_fari_000521,porcupine,SHINTUYA_10_Arboreal,test
+sa_fari_000522,trumpeter,DIAMANTE_15_Terrestrial,test
+sa_fari_000525,baird's tapir,DIAMANTE_17_Terrestrial,test
+sa_fari_000526,northern tamandua,DIAMANTE_11_Arboreal,adapt
+sa_fari_000527,white-nosed coati,MS#120_sorted,test
+sa_fari_000528,northern tamandua,ROMERO_13_Arboreal,test
+sa_fari_000529,baird's tapir,DIAMANTE_17_Terrestrial,test
+sa_fari_000530,squirrel,MS#132_sorted,test
+sa_fari_000532,white-nosed coati,MS#85_sorted,test
+sa_fari_000536,red-billed currasow,MLC_1_Terrestrial,test
+sa_fari_000538,agouti,MS#62_sorted,test
+sa_fari_000540,puma,MLC_18_Terrestrial,test
+sa_fari_000542,ninebanded armadillo,MLC_10_Terrestrial,test
+sa_fari_000543,ocelot,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000545,collared peccary,MLC_18_Terrestrial,test
+sa_fari_000546,crab-eating raccoon,MS#120_sorted,test
+sa_fari_000547,ocelot,MLC_1_Terrestrial,test
+sa_fari_000548,trumpeter,DIAMANTE_17_Terrestrial,adapt
+sa_fari_000550,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000551,ninebanded armadillo,MLC_1_Terrestrial,test
+sa_fari_000552,white-nosed coati,MS#100_sorted,test
+sa_fari_000554,paca,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000557,white-nosed coati,MS#91_sorted,test
+sa_fari_000558,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000559,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000560,jaguar,SHINTUYA_20_Terrestrial,test
+sa_fari_000561,kinkajou,MLC_1_Arboreal,test
+sa_fari_000562,white-nosed coati,MS#100_sorted,test
+sa_fari_000565,paca,MLC_18_Terrestrial,adapt
+sa_fari_000566,agouti,MS#65_sorted,test
+sa_fari_000567,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000570,capuchin monkey,SHINTUYA_3_Terrestrial,test
+sa_fari_000572,collared peccary,MS#91_sorted,test
+sa_fari_000573,common opossum,MS#145_sorted,test
+sa_fari_000574,collared peccary,MLC_10_Terrestrial,adapt
+sa_fari_000575,night monkey,MLC_1_Arboreal,test
+sa_fari_000576,ninebanded armadillo,MS#145_sorted,test
+sa_fari_000577,ocelot,DIAMANTE_17_Terrestrial,adapt
+sa_fari_000579,red brocket deer,MLC_16_Terrestrial,test
+sa_fari_000582,paca,SHINTUYA_5_Terrestrial,test
+sa_fari_000583,crab-eating raccoon,MLC_10_Terrestrial,test
+sa_fari_000584,collared peccary,MS#1_sorted,test
+sa_fari_000585,porcupine,SHINTUYA_10_Arboreal,test
+sa_fari_000587,ninebanded armadillo,MS#147_sorted,test
+sa_fari_000589,trumpeter,MLC_7_Terrestrial,test
+sa_fari_000590,night monkey,DIAMANTE_12_Arboreal,adapt
+sa_fari_000592,white-nosed coati,MS#100_sorted,test
+sa_fari_000596,four-eyed opossum,SHINTUYA_20_Terrestrial,test
+sa_fari_000603,white-nosed coati,MS#166_sorted,test
+sa_fari_000604,baird's tapir,MLC_10_Terrestrial,adapt
+sa_fari_000607,kinkajou,MLC_1_Arboreal,test
+sa_fari_000608,puma,MLC_18_Terrestrial,test
+sa_fari_000609,great tinamou,MS#66_sorted,test
+sa_fari_000610,northern tamandua,MLC_8_Arboreal,adapt
+sa_fari_000612,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000614,crab-eating raccoon,MLC_12_Terrestrial,test
+sa_fari_000615,ocelot,DIAMANTE_17_Terrestrial,test
+sa_fari_000616,ninebanded armadillo,MS#150_sorted,test
+sa_fari_000618,white-nosed coati,MS#85_sorted,test
+sa_fari_000619,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000620,trumpeter,MLC_1_Terrestrial,test
+sa_fari_000622,four-eyed opossum,MLC_15_Arboreal,adapt
+sa_fari_000623,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000626,ocelot,MLC_18_Terrestrial,test
+sa_fari_000629,porcupine,colpa_012,test
+sa_fari_000630,white-nosed coati,MS#94_sorted,test
+sa_fari_000632,agouti,MS#100_sorted,test
+sa_fari_000633,ocelot,colpa_015,test
+sa_fari_000635,agouti,MS#100_sorted,test
+sa_fari_000636,ninebanded armadillo,MLC_12_Terrestrial,test
+sa_fari_000637,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000638,agouti,DIAMANTE_15_Terrestrial,test
+sa_fari_000639,ocelot,DIAMANTE_17_Terrestrial,test
+sa_fari_000641,white-nosed coati,MS#147_sorted,test
+sa_fari_000645,jaguar,MS#70_sorted,test
+sa_fari_000648,white-nosed coati,MS#120_sorted,test
+sa_fari_000650,paca,SHINTUYA_5_Terrestrial,test
+sa_fari_000652,squirrel,MS#132_sorted,test
+sa_fari_000653,porcupine,SHINTUYA_5_Arboreal,test
+sa_fari_000654,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000655,porcupine,SHINTUYA_15_Arboreal,adapt
+sa_fari_000657,trumpeter,DIAMANTE_15_Terrestrial,adapt
+sa_fari_000658,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000660,four-eyed opossum,MS#134_sorted,test
+sa_fari_000661,ninebanded armadillo,MS#161_sorted,test
+sa_fari_000664,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000665,collared peccary,MS#1_sorted,test
+sa_fari_000666,ocelot,MS#100_sorted,test
+sa_fari_000667,red-billed currasow,SHINTUYA_1_Terrestrial,test
+sa_fari_000670,capuchin monkey,ROMERO_19_Arboreal,test
+sa_fari_000671,night monkey,DIAMANTE_10_Arboreal,test
+sa_fari_000674,capuchin monkey,DIAMANTE_11_Arboreal,adapt
+sa_fari_000675,red brocket deer,DIAMANTE_17_Terrestrial,adapt
+sa_fari_000676,trumpeter,MLC_16_Terrestrial,test
+sa_fari_000677,night monkey,ROMERO_6_Arboreal,test
+sa_fari_000678,crab-eating raccoon,MLC_12_Terrestrial,test
+sa_fari_000679,red-billed currasow,MLC_1_Terrestrial,adapt
+sa_fari_000680,great tinamou,MS#1_sorted,adapt
+sa_fari_000681,agouti,MS#65_sorted,test
+sa_fari_000682,jaguar,MS#70_sorted,test
+sa_fari_000683,white-nosed coati,MS#166_sorted,test
+sa_fari_000684,ocelot,MLC_18_Terrestrial,test
+sa_fari_000686,paca,SHINTUYA_20_Terrestrial,test
+sa_fari_000687,ocelot,MLC_16_Terrestrial,test
+sa_fari_000688,jaguar,MLC_6_Terrestrial,test
+sa_fari_000690,ocelot,DIAMANTE_17_Terrestrial,test
+sa_fari_000693,porcupine,colpa_012,test
+sa_fari_000697,ninebanded armadillo,MLC_12_Terrestrial,test
+sa_fari_000698,puma,DIAMANTE_17_Terrestrial,test
+sa_fari_000702,white-nosed coati,MS#91_sorted,test
+sa_fari_000704,ocelot,MLC_10_Terrestrial,adapt
+sa_fari_000705,white-nosed coati,MS#120_sorted,test
+sa_fari_000706,paca,MLC_16_Terrestrial,test
+sa_fari_000708,ocelot,MLC_18_Terrestrial,test
+sa_fari_000709,ocelot,colpa_015,test
+sa_fari_000710,collared peccary,MS#100_sorted,test
+sa_fari_000712,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000714,white-nosed coati,MS#85_sorted,test
+sa_fari_000715,ocelot,MLC_12_Terrestrial,test
+sa_fari_000716,puma,DIAMANTE_17_Terrestrial,test
+sa_fari_000717,squirrel monkey,MS#125_sorted,test
+sa_fari_000719,white-nosed coati,MS#166_sorted,test
+sa_fari_000723,red-billed currasow,MLC_12_Terrestrial,test
+sa_fari_000726,puma,MS#1_sorted,test
+sa_fari_000727,white-nosed coati,MS#136_sorted,test
+sa_fari_000728,porcupine,SHINTUYA_10_Arboreal,test
+sa_fari_000730,squirrel,MS#132_sorted,test
+sa_fari_000731,jaguar,DIAMANTE_17_Terrestrial,adapt
+sa_fari_000732,ocelot,MLC_18_Terrestrial,test
+sa_fari_000734,great tinamou,MS#91_sorted,test
+sa_fari_000735,ninebanded armadillo,MS#147_sorted,test
+sa_fari_000736,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000738,capuchin monkey,ROMERO_5_Arboreal,test
+sa_fari_000739,night monkey,DIAMANTE_10_Arboreal,adapt
+sa_fari_000740,white-nosed coati,MS#120_sorted,test
+sa_fari_000741,four-eyed opossum,SHINTUYA_5_Arboreal,test
+sa_fari_000742,ninebanded armadillo,MLC_7_Terrestrial,test
+sa_fari_000743,red-billed currasow,MLC_1_Terrestrial,test
+sa_fari_000748,collared peccary,MLC_12_Terrestrial,adapt
+sa_fari_000749,white-nosed coati,MS#91_sorted,test
+sa_fari_000750,ocelot,colpa_015,test
+sa_fari_000751,capuchin monkey,SHINTUYA_15_Arboreal,test
+sa_fari_000753,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000755,red-billed currasow,ROMERO_9_Arboreal,test
+sa_fari_000756,northern tamandua,MS#91_sorted,test
+sa_fari_000757,white-nosed coati,MS#127_sorted,test
+sa_fari_000758,collared peccary,MS#91_sorted,test
+sa_fari_000759,ocelot,MLC_18_Terrestrial,test
+sa_fari_000761,red-billed currasow,MLC_12_Terrestrial,adapt
+sa_fari_000764,great tinamou,MS#91_sorted,test
+sa_fari_000765,capuchin monkey,arb_045,test
+sa_fari_000766,crab-eating raccoon,MLC_10_Terrestrial,test
+sa_fari_000767,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000768,four-eyed opossum,SHINTUYA_15_Arboreal,test
+sa_fari_000769,puma,MS#94_sorted,test
+sa_fari_000770,capuchin monkey,MS#85_sorted,test
+sa_fari_000772,white-nosed coati,MS#91_sorted,test
+sa_fari_000773,common opossum,MS#157_sorted,test
+sa_fari_000775,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000777,night monkey,ROMERO_19_Arboreal,test
+sa_fari_000778,baird's tapir,MLC_16_Terrestrial,test
+sa_fari_000780,puma,SHINTUYA_11_Terrestrial,test
+sa_fari_000782,ocelot,MLC_6_Terrestrial,test
+sa_fari_000783,red-billed currasow,MLC_1_Terrestrial,test
+sa_fari_000784,crab-eating raccoon,MLC_18_Terrestrial,test
+sa_fari_000787,capuchin monkey,SHINTUYA_3_Arboreal,test
+sa_fari_000790,squirrel monkey,arb_045,test
+sa_fari_000791,jaguar,MLC_18_Terrestrial,adapt
+sa_fari_000792,white-nosed coati,MS#157_sorted,test
+sa_fari_000793,trumpeter,MLC_12_Terrestrial,test
+sa_fari_000796,baird's tapir,MLC_1_Terrestrial,test
+sa_fari_000798,squirrel,MS#132_sorted,adapt
+sa_fari_000799,puma,DIAMANTE_17_Terrestrial,test
+sa_fari_000800,puma,MS#1_sorted,test
+sa_fari_000801,ocelot,MLC_10_Terrestrial,test
+sa_fari_000802,crab-eating raccoon,MLC_16_Terrestrial,test
+sa_fari_000803,capuchin monkey,MLC_6_Arboreal,test
+sa_fari_000804,great tinamou,MS#66_sorted,adapt
+sa_fari_000809,kinkajou,ROMERO_18_Arboreal,test
+sa_fari_000810,squirrel,MS#132_sorted,test
+sa_fari_000813,ocelot,MLC_16_Terrestrial,test
+sa_fari_000816,white-nosed coati,MS#136_sorted,test
+sa_fari_000817,white-nosed coati,MS#94_sorted,test
+sa_fari_000822,great tinamou,MS#147_sorted,test
+sa_fari_000823,agouti,MS#65_sorted,test
+sa_fari_000824,ninebanded armadillo,MS#157_sorted,test
+sa_fari_000825,night monkey,DIAMANTE_12_Arboreal,test
+sa_fari_000828,four-eyed opossum,MS#161_sorted,test
