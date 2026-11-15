@@ -1,6 +1,9 @@
 # Local task instructions
 /member2/instruction.md
 
+# Local clone used to audit the Member 1 branch; its contents are merged above.
+/member1_audit_source/
+
 # Large media: never commit. Download from source or the Hugging Face dataset.
 data/media/
 *.mp4
