@@ -1,0 +1,56 @@
+# ---------------- SA-FARI raw data: never pushed ----------------
+# Videos and annotations stay with the official source (SA-FARI, CC BY-NC); download from there.
+safari/train_videos/
+safari/test_videos/
+safari/*.json
+safari/train_files.txt
+
+# Old runs / backups
+safari/pipeline_out_*/
+safari/outputs_*/
+
+# ---------------- Pipeline outputs: only the listed files are shared ----------------
+safari/outputs/*
+
+# split and download list
+!safari/outputs/split.csv
+!safari/outputs/train_list.txt
+
+# per-clip metadata (test and source clips)
+!safari/outputs/test_meta.csv
+!safari/outputs/source_meta.csv
+
+# features (row order = feat_index.csv)
+!safari/outputs/feat_index.csv
+!safari/outputs/visual_emb.npy
+!safari/outputs/audio_emb.npy
+!safari/outputs/audioset_probs.npy
+!safari/outputs/audioset_labels.csv
+
+# expert predictions
+!safari/outputs/predictions.csv
+!safari/outputs/predictions.npz
+!safari/outputs/shift_oof.csv
+!safari/outputs/clip_events.csv
+!safari/outputs/clip_probs.npz
+
+# adapted experts
+!safari/outputs/adapt_site_split.csv
+!safari/outputs/adapt_draws.csv
+!safari/outputs/adapted_probs.npz
+
+# final result tables and figures
+!safari/outputs/results/
+
+# ---------------- Not for the repo ----------------
+old_scripts/
+Papers/
+*.zip
+mamber2_version1/
+member2_version2/
+member4/
+*.md
+!README.md
+.vscode/
+__pycache__/
+*.pyc

@@ -1,0 +1,1787 @@
+video_name,species,location_id,has_audio,duration_s,colorfulness,is_ir,placement
+sa_fari_008466,agouti,SALED#2_B_sorted,1,15.033333333333333,117.19878472222223,False,unknown
+sa_fari_007521,baird's tapir,MS#73_sorted,1,13.366666666666667,0.3220486111111111,True,unknown
+sa_fari_002855,capuchin monkey,arb_007,1,20.2,59.70616319444444,False,arboreal
+sa_fari_005543,collared peccary,MS#111_sorted,1,13.0,1.4357638888888888,True,unknown
+sa_fari_000870,common opossum,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_011587,crab-eating raccoon,MS#114_sorted,1,13.2,1.359375,True,unknown
+sa_fari_008114,four-eyed opossum,MS#13_sorted,1,13.197,1.5021701388888888,True,unknown
+sa_fari_003724,great tinamou,MS#6_sorted,1,13.192,15.944010416666666,False,unknown
+sa_fari_002026,jaguar,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004109,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.6041666666666667,True,arboreal
+sa_fari_001881,night monkey,MLC_13_Arboreal,1,14.666666666666666,1.3884548611111112,True,arboreal
+sa_fari_007924,ninebanded armadillo,MS#90_sorted,1,13.466666666666667,0.6822916666666666,True,unknown
+sa_fari_007699,northern tamandua,MS#93_sorted,1,13.2,1.3420138888888888,True,unknown
+sa_fari_004364,ocelot,MS#131_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_007109,paca,MLC_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_003962,porcupine,colpa_011,1,20.0,0.16319444444444445,True,unknown
+sa_fari_001853,puma,ROMERO_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010938,red brocket deer,ROMERO_10_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_011338,red-billed currasow,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_005208,squirrel,colpa008,1,20.0,72.38454861111111,False,unknown
+sa_fari_007512,squirrel monkey,arb_038,1,15.0,25.40060763888889,False,arboreal
+sa_fari_005494,trumpeter,ROMERO_18_Terrestrial,1,12.277777777777779,0.0,True,terrestrial
+sa_fari_002852,white-nosed coati,MS#128_sorted,1,13.0,108.71961805555556,False,unknown
+sa_fari_004583,agouti,MS#103_sorted,1,13.0,114.61154513888889,False,unknown
+sa_fari_002290,baird's tapir,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004413,capuchin monkey,arb_021,1,20.0,28.30251736111111,False,arboreal
+sa_fari_001895,collared peccary,MLC_4_Terrestrial,1,12.7,45.02300347222222,False,terrestrial
+sa_fari_002429,common opossum,ROMERO_10_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_010175,crab-eating raccoon,MLC_20_Terrestrial,1,12.555555555555555,1.3389756944444444,True,terrestrial
+sa_fari_007806,four-eyed opossum,ROMERO_7_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_010526,great tinamou,MS#18_first_collection_sorted,1,13.0,45.981770833333336,False,unknown
+sa_fari_005255,jaguar,ROMERO_15_Terrestrial,1,12.6,19.94487847222222,False,terrestrial
+sa_fari_002132,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3862847222222223,True,arboreal
+sa_fari_009157,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.4535590277777777,True,arboreal
+sa_fari_008260,ninebanded armadillo,MS#149_sorted,1,13.777777777777779,2.064236111111111,True,unknown
+sa_fari_003286,northern tamandua,MS#7_sorted,1,13.157894736842106,31.87847222222222,False,unknown
+sa_fari_003656,ocelot,DIAMANTE_5_Terrestrial,1,12.38888888888889,1.3806423611111112,True,terrestrial
+sa_fari_004019,paca,MS#8_sorted,1,13.0,1.4236111111111112,True,unknown
+sa_fari_006574,porcupine,colpa_005,1,20.0,0.16493055555555555,True,unknown
+sa_fari_003161,puma,MS#111_sorted,1,13.0,1.3068576388888888,True,unknown
+sa_fari_006592,red brocket deer,copla_002,1,15.2,0.006944444444444444,True,unknown
+sa_fari_010064,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3268229166666667,True,terrestrial
+sa_fari_009365,squirrel,MS#114_sorted,1,13.192,19.09982638888889,False,unknown
+sa_fari_007920,squirrel monkey,arb_041,1,15.0,100.84461805555556,False,arboreal
+sa_fari_006975,trumpeter,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002525,white-nosed coati,MS#137_sorted,1,13.366666666666667,0.3237847222222222,True,unknown
+sa_fari_001039,agouti,MS#104_sorted,1,13.0,124.17057291666667,False,unknown
+sa_fari_010609,baird's tapir,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007515,capuchin monkey,ROMERO_7_Terrestrial,1,12.666666666666666,1.3359375,True,terrestrial
+sa_fari_003995,collared peccary,colpa_c03,1,15.3,22.280381944444443,False,unknown
+sa_fari_010355,common opossum,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_005635,crab-eating raccoon,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_010631,four-eyed opossum,ROMERO_14_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_009309,great tinamou,MS#112_sorted,1,13.0,1.3042534722222223,True,unknown
+sa_fari_003000,jaguar,ROMERO_7_Terrestrial,1,12.6,17.59939236111111,False,terrestrial
+sa_fari_011217,kinkajou,MLC_7_Arboreal,1,12.555555555555555,1.4366319444444444,True,arboreal
+sa_fari_005869,night monkey,MLC_11_Arboreal,1,14.555555555555555,1.3967013888888888,True,arboreal
+sa_fari_011509,ninebanded armadillo,MS#90_sorted,1,13.466666666666667,0.6831597222222222,True,unknown
+sa_fari_003508,northern tamandua,MS#104_sorted,1,13.0,97.92230902777777,False,unknown
+sa_fari_004302,ocelot,MS#108_sorted,1,13.2,1.3428819444444444,True,unknown
+sa_fari_007569,paca,MS#104_sorted,1,13.0,1.3962673611111112,True,unknown
+sa_fari_001470,porcupine,colpa_010,1,1.0,0.0646701388888889,True,unknown
+sa_fari_003233,puma,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007605,red brocket deer,copla_002,1,15.2,11.085069444444445,False,unknown
+sa_fari_003528,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3328993055555556,True,terrestrial
+sa_fari_008764,squirrel,MS#144_sorted,1,13.766666666666667,25.44704861111111,False,unknown
+sa_fari_010642,squirrel monkey,arb_064,1,20.2,58.111545138888886,False,arboreal
+sa_fari_002292,trumpeter,DIAMANTE_10_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_011477,white-nosed coati,MS#69_sorted,1,13.2,36.724392361111114,False,unknown
+sa_fari_008710,agouti,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002270,baird's tapir,MS#7_sorted,1,13.192,30.98394097222222,False,unknown
+sa_fari_001640,capuchin monkey,MLC_11_Arboreal,1,14.666666666666666,13.0,False,arboreal
+sa_fari_004731,collared peccary,MS#110_sorted,1,10.0,0.3559027777777778,True,unknown
+sa_fari_002464,common opossum,MS#154_sorted,1,13.777777777777779,1.8172743055555556,True,unknown
+sa_fari_011520,crab-eating raccoon,MS#116_sorted,1,11.166666666666666,0.5542534722222222,True,unknown
+sa_fari_008430,four-eyed opossum,MS#156_sorted,1,13.466666666666667,0.6831597222222222,True,unknown
+sa_fari_003713,great tinamou,MLC_20_Terrestrial,1,12.555555555555555,1.2994791666666667,True,terrestrial
+sa_fari_010829,jaguar,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002762,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007218,night monkey,DIAMANTE_2_Arboreal,1,12.5,1.3823784722222223,True,arboreal
+sa_fari_002520,ninebanded armadillo,MS#135_sorted,1,13.0,0.7664930555555556,True,unknown
+sa_fari_008604,northern tamandua,SALED#2_B_sorted,1,10.166666666666666,1.3289930555555556,True,unknown
+sa_fari_003325,ocelot,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002888,paca,MS#122_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_010273,porcupine,colpa_004,1,20.4,0.2300347222222222,True,unknown
+sa_fari_007592,puma,NL#1_revised,1,13.033333333333333,1.3146701388888888,True,unknown
+sa_fari_002314,red brocket deer,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.3298611111111112,True,terrestrial
+sa_fari_003467,red-billed currasow,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001156,squirrel,colpa008,1,20.0,63.1953125,False,unknown
+sa_fari_011116,squirrel monkey,arb_005,1,15.190999999999999,23.624131944444443,False,arboreal
+sa_fari_008324,trumpeter,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_002788,white-nosed coati,AGJ#2_sorted,1,13.0,19.67404513888889,False,unknown
+sa_fari_009787,agouti,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.33203125,True,terrestrial
+sa_fari_009607,baird's tapir,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_004271,capuchin monkey,MS#151_sorted,1,13.8,20.43532986111111,False,unknown
+sa_fari_001150,collared peccary,ROMERO_15_Terrestrial,1,12.666666666666666,1.3268229166666667,True,terrestrial
+sa_fari_009627,common opossum,ROMERO_12_Arboreal,1,12.666666666666666,1.3094618055555556,True,arboreal
+sa_fari_001522,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4383680555555556,True,unknown
+sa_fari_001620,four-eyed opossum,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5169270833333333,True,arboreal
+sa_fari_010203,great tinamou,MS#104_sorted,1,13.0,1.3138020833333333,True,unknown
+sa_fari_008668,jaguar,ROMERO_7_Terrestrial,1,12.555555555555555,1.37890625,True,terrestrial
+sa_fari_008821,kinkajou,ROMERO_1_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_005324,night monkey,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_002460,ninebanded armadillo,MS#13_sorted,1,13.2,1.359375,True,unknown
+sa_fari_007534,northern tamandua,MS#104_sorted,1,13.0,108.79513888888889,False,unknown
+sa_fari_004047,ocelot,MS#101_sorted,1,13.0,1.3012152777777777,True,unknown
+sa_fari_004266,paca,MS#5_sorted,1,13.0,1.3038194444444444,True,unknown
+sa_fari_010559,porcupine,colpa_010,1,1.0,0.0646701388888889,True,unknown
+sa_fari_003875,puma,MS#80_sorted,1,10.0,45.96050347222222,False,unknown
+sa_fari_006110,red brocket deer,copla_002,1,15.2,11.475694444444445,False,unknown
+sa_fari_004906,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3307291666666667,True,terrestrial
+sa_fari_007602,squirrel,MS#113_sorted,1,11.166666666666666,13.72482638888889,False,unknown
+sa_fari_007952,squirrel monkey,arb_040,1,15.0,20.734375,False,arboreal
+sa_fari_004543,trumpeter,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002484,white-nosed coati,MS#5_sorted,1,13.0,113.74696180555556,False,unknown
+sa_fari_008236,agouti,DIAMANTE_5_Terrestrial,1,12.666666666666666,1.3372395833333333,True,terrestrial
+sa_fari_008005,baird's tapir,SHINTUYA_17_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003050,capuchin monkey,arb_017,1,15.466666666666667,30.630208333333332,False,arboreal
+sa_fari_005585,collared peccary,MS#69_sorted,1,13.466666666666667,53.72743055555556,False,unknown
+sa_fari_011051,common opossum,ROMERO_13_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_010470,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3246527777777777,True,unknown
+sa_fari_010159,four-eyed opossum,MS#138_sorted,1,13.0,0.7569444444444444,True,unknown
+sa_fari_008866,great tinamou,MS#5_sorted,1,13.0,1.3081597222222223,True,unknown
+sa_fari_005345,jaguar,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_008221,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5455729166666667,True,arboreal
+sa_fari_003023,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.4535590277777777,True,arboreal
+sa_fari_008134,ninebanded armadillo,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_010390,northern tamandua,MS#112_sorted,1,13.0,1.3081597222222223,True,unknown
+sa_fari_004063,ocelot,MS#137_sorted,1,13.366666666666667,0.3190104166666667,True,unknown
+sa_fari_003645,paca,ROMERO_7_Terrestrial,1,12.555555555555555,1.4596354166666667,True,terrestrial
+sa_fari_008286,porcupine,colpa_004,1,20.35,0.2309027777777778,True,unknown
+sa_fari_002631,puma,MS#131_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_008820,red brocket deer,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008224,red-billed currasow,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_005074,squirrel,MS#149_sorted,1,13.766666666666667,50.54340277777778,False,unknown
+sa_fari_005068,squirrel monkey,arb_026,1,15.0,32.87543402777778,False,arboreal
+sa_fari_004183,trumpeter,ROMERO_1_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_007719,white-nosed coati,MS#123_sorted,1,13.366666666666667,37.31293402777778,False,unknown
+sa_fari_010803,agouti,MS#7_sorted,1,13.192,43.73350694444444,False,unknown
+sa_fari_009754,baird's tapir,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003075,capuchin monkey,arb_035,1,20.2,46.46006944444444,False,arboreal
+sa_fari_002191,collared peccary,ROMERO_15_Terrestrial,1,12.666666666666666,1.3177083333333333,True,terrestrial
+sa_fari_002645,common opossum,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_003929,crab-eating raccoon,MS#114_sorted,1,13.197,1.4986979166666667,True,unknown
+sa_fari_008392,four-eyed opossum,MS#118_sorted,1,13.555555555555555,1.4318576388888888,True,unknown
+sa_fari_002957,great tinamou,MS#96_sorted,1,13.366666666666667,33.08289930555556,False,unknown
+sa_fari_005865,jaguar,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009152,kinkajou,ROMERO_3_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_009130,night monkey,MLC_12_Arboreal,1,12.38888888888889,1.3285590277777777,True,arboreal
+sa_fari_004745,ninebanded armadillo,MS#116_sorted,1,10.7,0.4431423611111111,True,unknown
+sa_fari_006236,northern tamandua,MS#72_sorted,1,13.2,0.3155381944444444,True,unknown
+sa_fari_008299,ocelot,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.3897569444444444,True,terrestrial
+sa_fari_006785,paca,MS#10_sorted,1,12.987736900780378,3.8763020833333335,True,unknown
+sa_fari_006971,porcupine,colpa_010,1,2.5,0.15711805555555555,True,unknown
+sa_fari_008799,puma,ROMERO_15_Terrestrial,1,12.5,1.3828125,True,terrestrial
+sa_fari_003642,red brocket deer,ROMERO_20_Terrestrial,1,12.5,1.3923611111111112,True,terrestrial
+sa_fari_002423,red-billed currasow,ROMERO_15_Terrestrial,1,12.666666666666666,1.3289930555555556,True,terrestrial
+sa_fari_010929,squirrel,MS#18_first_collection_sorted,1,13.0,45.454427083333336,False,unknown
+sa_fari_001298,squirrel monkey,arb_028,1,15.366666666666667,48.76996527777778,False,arboreal
+sa_fari_010164,trumpeter,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_005445,white-nosed coati,AGJ#1_sorted,1,13.0,18.74565972222222,False,unknown
+sa_fari_005633,agouti,MS#143_sorted,1,13.8,16.59375,False,unknown
+sa_fari_008589,baird's tapir,DIAMANTE_8_Terrestrial,1,12.5,1.3971354166666667,True,terrestrial
+sa_fari_009919,capuchin monkey,arb_003,1,20.0,34.94227430555556,False,arboreal
+sa_fari_008056,collared peccary,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003018,common opossum,MS#112_sorted,1,13.0,1.3719618055555556,True,unknown
+sa_fari_009047,crab-eating raccoon,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_004000,four-eyed opossum,MS#151_sorted,1,13.777777777777779,1.8155381944444444,True,unknown
+sa_fari_002001,great tinamou,MS#90_sorted,1,13.466666666666667,0.6853298611111112,True,unknown
+sa_fari_002282,jaguar,SHINTUYA_14_Terrestrial,1,12.6,17.075520833333332,False,terrestrial
+sa_fari_007700,kinkajou,ROMERO_12_Arboreal,1,12.666666666666666,1.3294270833333333,True,arboreal
+sa_fari_009830,night monkey,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_007294,ninebanded armadillo,MS#13_sorted,1,13.197,1.5021701388888888,True,unknown
+sa_fari_009202,northern tamandua,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_003538,ocelot,MS#87_sorted,1,13.0,0.7677951388888888,True,unknown
+sa_fari_004437,paca,colpa_003,1,10.25,0.23741319444444445,True,unknown
+sa_fari_009469,porcupine,colpa_004,1,20.0,0.16493055555555555,True,unknown
+sa_fari_004069,puma,MLC_20_Terrestrial,1,12.555555555555555,1.3415798611111112,True,terrestrial
+sa_fari_007672,red brocket deer,MLC_4_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001812,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3246527777777777,True,terrestrial
+sa_fari_011395,squirrel,MS#144_sorted,1,13.777777777777779,1.8229166666666667,True,unknown
+sa_fari_008703,squirrel monkey,arb_007,1,20.2,37.31944444444444,False,arboreal
+sa_fari_003205,trumpeter,MLC_14_Terrestrial,1,12.555555555555555,1.3324652777777777,True,terrestrial
+sa_fari_007588,white-nosed coati,ROMERO_13_Terrestrial,1,12.5,16.503038194444443,False,terrestrial
+sa_fari_004423,agouti,AGJ#2_sorted,1,13.0,15.2734375,False,unknown
+sa_fari_006708,baird's tapir,ROMERO_7_Terrestrial,1,12.555555555555555,1.4774305555555556,True,terrestrial
+sa_fari_001958,capuchin monkey,arb_026,1,15.0,40.49262152777778,False,arboreal
+sa_fari_010057,collared peccary,MS#110_sorted,1,10.0,48.044704861111114,False,unknown
+sa_fari_003917,common opossum,MS#13_sorted,1,13.2,1.359375,True,unknown
+sa_fari_007126,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.6184895833333334,True,unknown
+sa_fari_005047,four-eyed opossum,ROMERO_3_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_005946,great tinamou,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003712,jaguar,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002006,kinkajou,SHINTUYA_6_Arboreal,1,12.555555555555555,1.4904513888888888,True,arboreal
+sa_fari_011128,night monkey,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5243055555555556,True,arboreal
+sa_fari_009842,ninebanded armadillo,MS#108_sorted,1,13.197,1.4839409722222223,True,unknown
+sa_fari_004546,northern tamandua,MS#118_sorted,1,13.555555555555555,1.4053819444444444,True,unknown
+sa_fari_003831,ocelot,MS#110_sorted,1,10.0,0.3498263888888889,True,unknown
+sa_fari_003152,paca,MS#108_sorted,1,13.2,1.3459201388888888,True,unknown
+sa_fari_001849,porcupine,colpa_009,1,20.0,0.1566840277777778,True,unknown
+sa_fari_002658,puma,MS#3_sorted,1,13.192,14.651475694444445,False,unknown
+sa_fari_001416,red brocket deer,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_003470,red-billed currasow,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001732,squirrel,MS#144_sorted,1,13.766666666666667,24.700086805555557,False,unknown
+sa_fari_003100,squirrel monkey,arb_069,1,20.2,33.0859375,False,arboreal
+sa_fari_006462,trumpeter,MLC_4_Terrestrial,1,12.7,29.930989583333332,False,terrestrial
+sa_fari_008993,white-nosed coati,MS#108_sorted,1,13.192,33.53862847222222,False,unknown
+sa_fari_001296,agouti,MS#113_sorted,1,10.666666666666666,13.580729166666666,False,unknown
+sa_fari_005071,baird's tapir,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004849,capuchin monkey,arb_020,1,10.877533333333334,54.338541666666664,False,arboreal
+sa_fari_006884,collared peccary,MS#116_sorted,1,10.666666666666666,0.9140625,True,unknown
+sa_fari_010586,common opossum,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011645,crab-eating raccoon,MS#121_sorted,1,13.666666666666666,1.3342013888888888,True,unknown
+sa_fari_001013,four-eyed opossum,MS#138_sorted,1,13.0,0.7543402777777778,True,unknown
+sa_fari_002081,great tinamou,MS#104_sorted,1,13.0,1.3298611111111112,True,unknown
+sa_fari_010727,jaguar,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_010773,kinkajou,MLC_7_Arboreal,1,12.555555555555555,1.4483506944444444,True,arboreal
+sa_fari_010415,night monkey,MLC_17_Arboreal,1,12.555555555555555,1.4453125,True,arboreal
+sa_fari_010921,ninebanded armadillo,MS#148_sorted,1,13.777777777777779,1.8155381944444444,True,unknown
+sa_fari_005009,northern tamandua,MS#103_sorted,1,13.0,1.3016493055555556,True,unknown
+sa_fari_005664,ocelot,MS#82_sorted,1,10.0,0.34375,True,unknown
+sa_fari_006169,paca,ROMERO_20_Terrestrial,1,12.5,1.3858506944444444,True,terrestrial
+sa_fari_002167,porcupine,colpa_009,1,20.0,0.15755208333333334,True,unknown
+sa_fari_002681,puma,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011204,red brocket deer,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010019,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3328993055555556,True,terrestrial
+sa_fari_009723,squirrel,MS#175_sorted,1,13.666666666666666,17.40060763888889,False,unknown
+sa_fari_001930,squirrel monkey,arb_028,1,15.466666666666667,54.02821180555556,False,arboreal
+sa_fari_009679,trumpeter,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_005173,white-nosed coati,MS#84_sorted,1,13.366666666666667,55.08984375,False,unknown
+sa_fari_002431,agouti,MS#104_sorted,1,13.0,107.95963541666667,False,unknown
+sa_fari_006300,baird's tapir,MLC_14_Terrestrial,1,12.5,1.3914930555555556,True,terrestrial
+sa_fari_002050,capuchin monkey,SHINTUYA_7_Arboreal,1,12.666666666666666,1.2955729166666667,True,arboreal
+sa_fari_003494,collared peccary,MS#131_sorted,1,13.666666666666666,26.58420138888889,False,unknown
+sa_fari_011211,common opossum,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009264,crab-eating raccoon,MS#114_sorted,1,13.2,1.3532986111111112,True,unknown
+sa_fari_001622,four-eyed opossum,MS#138_sorted,1,13.0,0.7526041666666666,True,unknown
+sa_fari_008852,great tinamou,SALED#2_B_sorted,1,15.0,124.28038194444444,False,unknown
+sa_fari_006904,jaguar,ROMERO_15_Terrestrial,1,12.555555555555555,1.3233506944444444,True,terrestrial
+sa_fari_011743,kinkajou,SHINTUYA_11_Arboreal,1,12.555555555555555,1.5095486111111112,True,arboreal
+sa_fari_001961,night monkey,MLC_16_Arboreal,1,12.555555555555555,1.44140625,True,arboreal
+sa_fari_001710,ninebanded armadillo,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011515,northern tamandua,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_001168,ocelot,MLC_4_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_005312,paca,MS#8_sorted,1,13.0,1.3125,True,unknown
+sa_fari_001121,porcupine,colpa_005,1,20.0,0.16493055555555555,True,unknown
+sa_fari_006521,puma,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010759,red brocket deer,DIAMANTE_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_011032,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3294270833333333,True,terrestrial
+sa_fari_004192,squirrel,colpa008,1,20.5,61.931423611111114,False,unknown
+sa_fari_007321,squirrel monkey,arb_002,1,15.190999999999999,35.85850694444444,False,arboreal
+sa_fari_007188,trumpeter,ROMERO_10_Terrestrial,1,12.777777777777779,0.0,True,terrestrial
+sa_fari_007713,white-nosed coati,MS#104_sorted,1,13.0,1.3042534722222223,True,unknown
+sa_fari_004852,agouti,NL#1_revised,1,13.033333333333333,1.3090277777777777,True,unknown
+sa_fari_005593,baird's tapir,MS#3_sorted,1,13.197,1.4891493055555556,True,unknown
+sa_fari_007209,capuchin monkey,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_005977,collared peccary,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001459,common opossum,MS#148_sorted,1,13.777777777777779,1.8129340277777777,True,unknown
+sa_fari_002919,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.3880208333333333,True,unknown
+sa_fari_003706,four-eyed opossum,ROMERO_14_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_010661,great tinamou,MS#177_sorted,1,13.466666666666667,48.294704861111114,False,unknown
+sa_fari_006722,jaguar,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001362,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_003735,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.3641493055555556,True,arboreal
+sa_fari_004204,ninebanded armadillo,MS#177_sorted,1,13.466666666666667,0.68359375,True,unknown
+sa_fari_003204,northern tamandua,MS#149_sorted,1,13.777777777777779,2.0655381944444446,True,unknown
+sa_fari_008089,ocelot,MS#114_sorted,1,13.197,1.5034722222222223,True,unknown
+sa_fari_005409,paca,MS#119_sorted,1,13.555555555555555,1.3984375,True,unknown
+sa_fari_002971,porcupine,colpa_005,1,20.0,0.1540798611111111,True,unknown
+sa_fari_000865,puma,MLC_14_Terrestrial,1,12.38888888888889,1.3420138888888888,True,terrestrial
+sa_fari_009120,red brocket deer,ROMERO_15_Terrestrial,1,12.5,1.5659722222222223,True,terrestrial
+sa_fari_005107,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3389756944444444,True,terrestrial
+sa_fari_005134,squirrel,MS#149_sorted,1,13.8,62.36762152777778,False,unknown
+sa_fari_001628,squirrel monkey,arb_040,1,15.0,23.881944444444443,False,arboreal
+sa_fari_005108,trumpeter,ROMERO_16_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_003222,white-nosed coati,MS#114_sorted,1,13.225,21.92144097222222,False,unknown
+sa_fari_007884,agouti,MLC_4_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_005481,baird's tapir,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_003660,capuchin monkey,arb_050,1,20.0,16.921875,False,arboreal
+sa_fari_005364,collared peccary,MS#108_sorted,1,13.197,1.4852430555555556,True,unknown
+sa_fari_005818,common opossum,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_006791,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3224826388888888,True,unknown
+sa_fari_005831,four-eyed opossum,MS#144_sorted,1,13.777777777777779,1.8289930555555556,True,unknown
+sa_fari_006499,great tinamou,MS#3_sorted,1,13.192,15.534288194444445,False,unknown
+sa_fari_010957,jaguar,MS#3_sorted,1,13.2,1.3424479166666667,True,unknown
+sa_fari_008995,kinkajou,ROMERO_12_Arboreal,1,12.666666666666666,1.3155381944444444,True,arboreal
+sa_fari_007682,night monkey,DIAMANTE_1_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_011303,ninebanded armadillo,MS#5_sorted,1,13.0,1.3233506944444444,True,unknown
+sa_fari_008716,northern tamandua,MS#144_sorted,1,13.777777777777779,1.8255208333333333,True,unknown
+sa_fari_002706,ocelot,MS#118_sorted,1,13.555555555555555,1.4205729166666667,True,unknown
+sa_fari_006999,paca,ROMERO_20_Terrestrial,1,12.5,1.4210069444444444,True,terrestrial
+sa_fari_011459,porcupine,colpa_011,1,20.0,0.1597222222222222,True,unknown
+sa_fari_001091,puma,NL#1_revised,1,13.0,1.3411458333333333,True,unknown
+sa_fari_002052,red brocket deer,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002231,red-billed currasow,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_007918,squirrel,colpa008,1,20.0,74.19401041666667,False,unknown
+sa_fari_009642,squirrel monkey,arb_001,1,15.0,1.14453125,True,arboreal
+sa_fari_003699,trumpeter,DIAMANTE_18_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010429,white-nosed coati,MS#87_sorted,1,13.0,21.911458333333332,False,unknown
+sa_fari_007868,agouti,MS#111_sorted,1,13.0,1.3038194444444444,True,unknown
+sa_fari_005640,baird's tapir,DIAMANTE_20_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007329,capuchin monkey,arb_007,1,20.2,76.66753472222223,False,arboreal
+sa_fari_001576,collared peccary,MS#114_sorted,1,13.192,21.868489583333332,False,unknown
+sa_fari_001251,common opossum,MS#103_sorted,1,13.0,1.3650173611111112,True,unknown
+sa_fari_008508,crab-eating raccoon,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_007609,four-eyed opossum,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_003389,great tinamou,MS#177_sorted,1,13.466666666666667,41.95399305555556,False,unknown
+sa_fari_006473,jaguar,MS#3_sorted,1,13.197,1.4040798611111112,True,unknown
+sa_fari_004891,kinkajou,SHINTUYA_7_Arboreal,1,12.555555555555555,1.38671875,True,arboreal
+sa_fari_007720,night monkey,ROMERO_12_Arboreal,1,12.666666666666666,1.3129340277777777,True,arboreal
+sa_fari_008889,ninebanded armadillo,SHINTUYA_7_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003978,northern tamandua,MS#111_sorted,1,13.0,1.3098958333333333,True,unknown
+sa_fari_008999,ocelot,MS#80_sorted,1,10.0,0.3394097222222222,True,unknown
+sa_fari_007551,paca,colpa_003,1,10.2,0.2803819444444444,True,unknown
+sa_fari_008332,porcupine,colpa_009,1,1.0,0.1462673611111111,True,unknown
+sa_fari_003890,puma,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007958,red brocket deer,SHINTUYA_14_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001825,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3268229166666667,True,terrestrial
+sa_fari_001957,squirrel,colpa008,1,20.0,53.12109375,False,unknown
+sa_fari_000850,squirrel monkey,arb_040,1,15.0,25.37282986111111,False,arboreal
+sa_fari_011055,trumpeter,ROMERO_15_Terrestrial,1,12.555555555555555,1.3324652777777777,True,terrestrial
+sa_fari_000953,white-nosed coati,AGJ#3_sorted,1,13.0,0.0,True,unknown
+sa_fari_008965,agouti,MS#96_sorted,1,13.366666666666667,29.258680555555557,False,unknown
+sa_fari_003750,baird's tapir,DIAMANTE_20_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_005221,capuchin monkey,arb_006,1,15.0,29.54861111111111,False,arboreal
+sa_fari_007947,collared peccary,DIAMANTE_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001267,common opossum,ROMERO_7_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_002434,crab-eating raccoon,MS#101_sorted,1,13.0,1.4166666666666667,True,unknown
+sa_fari_002428,four-eyed opossum,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_003262,great tinamou,AGJ#2_sorted,1,13.0,15.481336805555555,False,unknown
+sa_fari_009019,jaguar,ROMERO_15_Terrestrial,1,12.5,18.965711805555557,False,terrestrial
+sa_fari_010848,kinkajou,ROMERO_2_Arboreal,1,12.666666666666666,0.0,True,arboreal
+sa_fari_011240,night monkey,MLC_16_Arboreal,1,12.555555555555555,1.4778645833333333,True,arboreal
+sa_fari_010834,ninebanded armadillo,SALED#2_B_sorted,1,0.7,1.3003472222222223,True,unknown
+sa_fari_010413,northern tamandua,MS#114_sorted,1,13.192,21.315538194444443,False,unknown
+sa_fari_000995,ocelot,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006108,paca,MS#12_sorted,1,13.197,1.484375,True,unknown
+sa_fari_010469,porcupine,colpa_009,1,20.0,0.1540798611111111,True,unknown
+sa_fari_011024,puma,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_009281,red brocket deer,MS#80_sorted,1,10.0,43.28472222222222,False,unknown
+sa_fari_010678,red-billed currasow,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_007501,squirrel,MS#133_sorted,1,13.0,34.083767361111114,False,unknown
+sa_fari_007846,squirrel monkey,arb_063,1,20.2,83.84852430555556,False,arboreal
+sa_fari_001684,trumpeter,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_009859,white-nosed coati,MS#112_sorted,1,13.0,1.3055555555555556,True,unknown
+sa_fari_001890,agouti,MS#110_sorted,1,10.0,43.41319444444444,False,unknown
+sa_fari_001559,baird's tapir,MLC_14_Terrestrial,1,12.38888888888889,1.4045138888888888,True,terrestrial
+sa_fari_008189,capuchin monkey,arb_029,1,15.0,1.30859375,True,arboreal
+sa_fari_003849,collared peccary,MS#114_sorted,1,13.192,20.11371527777778,False,unknown
+sa_fari_003357,common opossum,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002602,crab-eating raccoon,MS#101_sorted,1,13.0,1.2834201388888888,True,unknown
+sa_fari_001385,four-eyed opossum,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4869791666666667,True,arboreal
+sa_fari_008158,great tinamou,MS#10_sorted,1,13.152053274139845,0.59375,True,unknown
+sa_fari_011689,jaguar,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004432,kinkajou,ROMERO_15_Arboreal,1,12.38888888888889,1.5516493055555556,True,arboreal
+sa_fari_010797,night monkey,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4353298611111112,True,arboreal
+sa_fari_007513,ninebanded armadillo,MS#154_sorted,1,13.777777777777779,1.8276909722222223,True,unknown
+sa_fari_006166,northern tamandua,SALED#2_B_sorted,1,15.0,96.85807291666667,False,unknown
+sa_fari_011174,ocelot,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007061,paca,DIAMANTE_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005315,porcupine,colpa_004,1,20.35,0.2322048611111111,True,unknown
+sa_fari_009581,puma,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008136,red brocket deer,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.3142361111111112,True,terrestrial
+sa_fari_008878,red-billed currasow,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_000931,squirrel,colpa008,1,20.0,69.3671875,False,unknown
+sa_fari_008953,squirrel monkey,arb_025,1,20.25,32.893229166666664,False,arboreal
+sa_fari_002064,trumpeter,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009373,white-nosed coati,MS#144_sorted,1,13.7,29.106336805555557,False,unknown
+sa_fari_002609,agouti,MS#16_sorted,1,13.0,18.170572916666668,False,unknown
+sa_fari_007023,baird's tapir,DIAMANTE_8_Terrestrial,1,12.5,1.4370659722222223,True,terrestrial
+sa_fari_003843,capuchin monkey,arb_012,1,10.0,59.79774305555556,False,arboreal
+sa_fari_008315,collared peccary,MS#135_sorted,1,13.0,20.79296875,False,unknown
+sa_fari_010926,common opossum,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_009117,crab-eating raccoon,MS#114_sorted,1,13.2,1.3589409722222223,True,unknown
+sa_fari_004920,four-eyed opossum,SHINTUYA_8_Arboreal,1,12.555555555555555,1.5164930555555556,True,arboreal
+sa_fari_009020,great tinamou,MS#80_sorted,1,10.0,0.3424479166666667,True,unknown
+sa_fari_010618,jaguar,MLC_4_Terrestrial,1,12.555555555555555,1.3411458333333333,True,terrestrial
+sa_fari_001500,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_008139,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.48046875,True,arboreal
+sa_fari_005647,ninebanded armadillo,MS#153_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_010081,northern tamandua,MS#72_sorted,1,13.2,0.3133680555555556,True,unknown
+sa_fari_005859,ocelot,MS#114_sorted,1,13.2,1.359375,True,unknown
+sa_fari_002249,paca,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3450520833333333,True,terrestrial
+sa_fari_004001,porcupine,colpa_004,1,20.0,0.1636284722222222,True,unknown
+sa_fari_004217,puma,MS#7_sorted,1,13.192,29.493055555555557,False,unknown
+sa_fari_010687,red brocket deer,DIAMANTE_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_000971,red-billed currasow,ROMERO_7_Terrestrial,1,12.6,14.420572916666666,False,terrestrial
+sa_fari_001834,squirrel,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006590,squirrel monkey,arb_023,1,15.190999999999999,40.606770833333336,False,arboreal
+sa_fari_011430,trumpeter,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002678,white-nosed coati,MS#12_sorted,1,13.192,34.1484375,False,unknown
+sa_fari_000929,agouti,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003964,baird's tapir,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005185,capuchin monkey,arb_008,1,15.0,24.440538194444443,False,arboreal
+sa_fari_003605,collared peccary,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_008177,common opossum,MS#118_sorted,1,13.555555555555555,1.3893229166666667,True,unknown
+sa_fari_011480,crab-eating raccoon,MS#114_sorted,1,13.197,1.5030381944444444,True,unknown
+sa_fari_007951,four-eyed opossum,DIAMANTE_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010202,great tinamou,MS#93_sorted,1,13.292,24.506510416666668,False,unknown
+sa_fari_002900,jaguar,MLC_14_Terrestrial,1,12.38888888888889,1.3324652777777777,True,terrestrial
+sa_fari_007356,kinkajou,ROMERO_12_Arboreal,1,12.555555555555555,1.3368055555555556,True,arboreal
+sa_fari_004455,night monkey,ROMERO_12_Arboreal,1,12.666666666666666,1.3224826388888888,True,arboreal
+sa_fari_005333,ninebanded armadillo,MS#72_sorted,1,13.3,0.3133680555555556,True,unknown
+sa_fari_011737,northern tamandua,MS#80_sorted,1,10.0,39.97309027777778,False,unknown
+sa_fari_008537,ocelot,MS#104_sorted,1,13.0,1.3020833333333333,True,unknown
+sa_fari_003953,paca,MLC_20_Terrestrial,1,12.555555555555555,1.5967881944444444,True,terrestrial
+sa_fari_006912,porcupine,colpa_004,1,20.35,0.16666666666666666,True,unknown
+sa_fari_002190,puma,ROMERO_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004826,red brocket deer,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004817,red-billed currasow,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011560,squirrel,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001675,squirrel monkey,arb_068,1,20.2,41.864583333333336,False,arboreal
+sa_fari_002533,trumpeter,ROMERO_15_Terrestrial,1,12.666666666666666,1.3368055555555556,True,terrestrial
+sa_fari_006676,white-nosed coati,MS#143_sorted,1,13.766666666666667,11.675347222222221,False,unknown
+sa_fari_001397,agouti,MS#3_sorted,1,13.192,16.6328125,False,unknown
+sa_fari_001092,baird's tapir,MS#13_sorted,1,13.197,1.5013020833333333,True,unknown
+sa_fari_002751,capuchin monkey,arb_001,1,15.190999999999999,23.149739583333332,False,arboreal
+sa_fari_006842,collared peccary,MS#112_sorted,1,13.0,1.2938368055555556,True,unknown
+sa_fari_007481,common opossum,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3515625,True,terrestrial
+sa_fari_003500,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4314236111111112,True,unknown
+sa_fari_006062,four-eyed opossum,MS#141_sorted,1,13.366666666666667,0.3172743055555556,True,unknown
+sa_fari_009080,great tinamou,MS#101_sorted,1,13.0,83.69965277777777,False,unknown
+sa_fari_006330,jaguar,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_001278,kinkajou,DIAMANTE_16_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_006440,night monkey,DIAMANTE_1_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_004765,ninebanded armadillo,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_009769,northern tamandua,MS#118_sorted,1,13.555555555555555,1.4522569444444444,True,unknown
+sa_fari_010136,ocelot,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_005416,paca,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_001793,porcupine,colpa_009,1,20.0,0.15538194444444445,True,unknown
+sa_fari_011399,puma,SALED#2_B_sorted,1,4.066666666666666,1.3116319444444444,True,unknown
+sa_fari_004442,red brocket deer,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011098,red-billed currasow,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010973,squirrel,ROMERO_12_Arboreal,1,12.5,15.54861111111111,False,arboreal
+sa_fari_003937,squirrel monkey,arb_024,1,20.2,59.865451388888886,False,arboreal
+sa_fari_009826,trumpeter,SHINTUYA_14_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_007510,white-nosed coati,MS#93_sorted,1,13.157894736842106,23.553819444444443,False,unknown
+sa_fari_001837,agouti,MS#73_sorted,1,13.366666666666667,0.3190104166666667,True,unknown
+sa_fari_003671,baird's tapir,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002151,capuchin monkey,ROMERO_7_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_011627,collared peccary,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006534,common opossum,SHINTUYA_7_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004431,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4657118055555556,True,unknown
+sa_fari_002430,four-eyed opossum,MS#138_sorted,1,13.0,0.7560763888888888,True,unknown
+sa_fari_008932,great tinamou,MS#110_sorted,1,10.05,61.48133680555556,False,unknown
+sa_fari_001865,jaguar,ROMERO_15_Terrestrial,1,12.555555555555555,1.4904513888888888,True,terrestrial
+sa_fari_005586,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_010296,night monkey,ROMERO_12_Arboreal,1,12.666666666666666,1.3263888888888888,True,arboreal
+sa_fari_009570,ninebanded armadillo,MS#92_sorted,1,13.197,1.4817708333333333,True,unknown
+sa_fari_004148,northern tamandua,ROMERO_13_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_007914,ocelot,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_004928,paca,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001114,porcupine,colpa_011,1,20.0,0.1644965277777778,True,unknown
+sa_fari_002580,puma,MS#80_sorted,1,10.0,0.3402777777777778,True,unknown
+sa_fari_003458,red brocket deer,MS#13_sorted,1,13.192,27.789930555555557,False,unknown
+sa_fari_009922,red-billed currasow,MLC_4_Terrestrial,1,12.555555555555555,1.3246527777777777,True,terrestrial
+sa_fari_007988,squirrel,colpa008,1,20.5,60.73914930555556,False,unknown
+sa_fari_007776,squirrel monkey,arb_007,1,20.2,59.80946180555556,False,arboreal
+sa_fari_011726,trumpeter,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006868,white-nosed coati,MS#122_sorted,1,13.6,25.21831597222222,False,unknown
+sa_fari_001949,agouti,MS#12_sorted,1,13.157894736842106,27.536024305555557,False,unknown
+sa_fari_010233,baird's tapir,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_007254,capuchin monkey,arb_34,1,10.0,71.64887152777777,False,arboreal
+sa_fari_010595,collared peccary,MS#131_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_008350,common opossum,MS#5_sorted,1,13.0,1.3250868055555556,True,unknown
+sa_fari_001552,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.5360243055555556,True,unknown
+sa_fari_007430,four-eyed opossum,SHINTUYA_7_Arboreal,1,12.555555555555555,1.3819444444444444,True,arboreal
+sa_fari_002047,great tinamou,MS#154_sorted,1,13.766666666666667,49.74131944444444,False,unknown
+sa_fari_003718,jaguar,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_007018,kinkajou,SHINTUYA_6_Arboreal,1,12.555555555555555,1.4461805555555556,True,arboreal
+sa_fari_001365,night monkey,MLC_17_Arboreal,1,12.555555555555555,1.4379340277777777,True,arboreal
+sa_fari_004166,ninebanded armadillo,MS#96_sorted,1,13.366666666666667,0.3203125,True,unknown
+sa_fari_005428,northern tamandua,MS#72_sorted,1,13.3,0.3142361111111111,True,unknown
+sa_fari_003946,ocelot,ROMERO_20_Terrestrial,1,12.5,1.4622395833333333,True,terrestrial
+sa_fari_001271,paca,ROMERO_13_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004531,porcupine,colpa_010,1,2.0,0.15711805555555555,True,unknown
+sa_fari_007405,puma,ROMERO_3_Terrestrial,1,12.4,15.832465277777779,False,terrestrial
+sa_fari_001585,red brocket deer,MS#16_sorted,1,13.0,0.0,True,unknown
+sa_fari_005856,red-billed currasow,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_009945,squirrel,MS#96_sorted,1,13.466666666666667,0.3185763888888889,True,unknown
+sa_fari_003603,squirrel monkey,arb_060,1,20.2,91.24045138888889,False,arboreal
+sa_fari_010089,trumpeter,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001033,white-nosed coati,MS#7_sorted,1,13.192,30.399739583333332,False,unknown
+sa_fari_008734,agouti,MS#84_sorted,1,13.366666666666667,0.3211805555555556,True,unknown
+sa_fari_006044,baird's tapir,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_006917,capuchin monkey,arb_010,1,15.0,29.381944444444443,False,arboreal
+sa_fari_004828,collared peccary,MS#82_sorted,1,9.45,48.306857638888886,False,unknown
+sa_fari_004643,common opossum,MS#5_sorted,1,13.0,1.3046875,True,unknown
+sa_fari_007207,crab-eating raccoon,MS#154_sorted,1,13.777777777777779,1.8259548611111112,True,unknown
+sa_fari_006290,four-eyed opossum,MS#152_sorted,1,13.777777777777779,1.82421875,True,unknown
+sa_fari_006886,great tinamou,MS#6_sorted,1,13.192,15.38498263888889,False,unknown
+sa_fari_008732,jaguar,ROMERO_16_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002572,kinkajou,ROMERO_10_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_001735,night monkey,SHINTUYA_11_Arboreal,1,12.777777777777779,1.4661458333333333,True,arboreal
+sa_fari_001908,ninebanded armadillo,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010641,northern tamandua,MS#69_sorted,1,13.2,0.3224826388888889,True,unknown
+sa_fari_009747,ocelot,ROMERO_16_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_011358,paca,MS#104_sorted,1,13.0,1.5638020833333333,True,unknown
+sa_fari_003931,porcupine,colpa_009,1,20.0,0.1545138888888889,True,unknown
+sa_fari_011117,puma,DIAMANTE_13_Terrestrial,1,12.5,22.333333333333332,False,terrestrial
+sa_fari_005420,red brocket deer,MLC_20_Terrestrial,1,12.5,1.3276909722222223,True,terrestrial
+sa_fari_011436,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3246527777777777,True,terrestrial
+sa_fari_009431,squirrel,MS#144_sorted,1,13.7,24.98828125,False,unknown
+sa_fari_008796,squirrel monkey,arb_007,1,20.2,41.704427083333336,False,arboreal
+sa_fari_003633,trumpeter,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_002587,white-nosed coati,MS#101_sorted,1,13.0,107.23307291666667,False,unknown
+sa_fari_009435,agouti,MS#177_sorted,1,13.466666666666667,40.7421875,False,unknown
+sa_fari_002983,baird's tapir,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001370,capuchin monkey,arb_014,1,15.0,21.067708333333332,False,arboreal
+sa_fari_004898,collared peccary,MS#2_revised,1,20.487133333333333,19.28081597222222,False,unknown
+sa_fari_009815,common opossum,MS#164_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_002406,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.3828125,True,unknown
+sa_fari_001587,four-eyed opossum,SHINTUYA_8_Arboreal,1,12.555555555555555,1.40625,True,arboreal
+sa_fari_010611,great tinamou,MS#119_sorted,1,13.666666666666666,19.84982638888889,False,unknown
+sa_fari_008160,jaguar,DIAMANTE_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004191,kinkajou,ROMERO_12_Arboreal,1,12.666666666666666,1.3159722222222223,True,arboreal
+sa_fari_005901,night monkey,MLC_12_Arboreal,1,12.38888888888889,1.5230034722222223,True,arboreal
+sa_fari_009698,ninebanded armadillo,MS#6_sorted,1,13.2,1.2287326388888888,True,unknown
+sa_fari_004405,northern tamandua,SHINTUYA_8_Arboreal,1,12.555555555555555,1.5008680555555556,True,arboreal
+sa_fari_005125,ocelot,MS#2_revised,1,20.453766666666667,0.7825520833333334,True,unknown
+sa_fari_009807,paca,MS#87_sorted,1,13.0,0.8025173611111112,True,unknown
+sa_fari_011462,porcupine,colpa_010,1,2.0,0.1540798611111111,True,unknown
+sa_fari_010584,puma,MLC_14_Terrestrial,1,12.555555555555555,1.51171875,True,terrestrial
+sa_fari_010384,red brocket deer,MS#16_sorted,1,13.0,0.0,True,unknown
+sa_fari_007490,red-billed currasow,MLC_4_Terrestrial,1,12.666666666666666,1.3342013888888888,True,terrestrial
+sa_fari_004004,squirrel,MS#113_sorted,1,11.166666666666666,16.40407986111111,False,unknown
+sa_fari_010692,squirrel monkey,arb_014,1,7.2,31.420572916666668,False,arboreal
+sa_fari_007862,trumpeter,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004832,white-nosed coati,MS#149_sorted,1,13.777777777777779,2.0694444444444446,True,unknown
+sa_fari_009141,agouti,MS#119_sorted,1,13.666666666666666,1.3155381944444444,True,unknown
+sa_fari_001922,baird's tapir,MS#15_sorted,1,13.0,16.938802083333332,False,unknown
+sa_fari_004460,capuchin monkey,arb_049,1,30.182000000000002,52.00390625,False,arboreal
+sa_fari_011422,collared peccary,DIAMANTE_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010775,common opossum,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003691,crab-eating raccoon,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_007527,four-eyed opossum,MS#138_sorted,1,13.0,0.7556423611111112,True,unknown
+sa_fari_010276,great tinamou,MS#10_sorted,1,13.041,0.7022569444444444,True,unknown
+sa_fari_007443,jaguar,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_004697,kinkajou,ROMERO_12_Arboreal,1,12.666666666666666,1.3220486111111112,True,arboreal
+sa_fari_011045,night monkey,DIAMANTE_1_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_002003,ninebanded armadillo,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002059,northern tamandua,MS#104_sorted,1,13.0,137.44878472222223,False,unknown
+sa_fari_003757,ocelot,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_008781,paca,MS#87_sorted,1,13.0,0.7608506944444444,True,unknown
+sa_fari_003409,porcupine,colpa_009,1,1.5,0.1484375,True,unknown
+sa_fari_008964,puma,SHINTUYA_17_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_004678,red brocket deer,MS#73_sorted,1,13.3,0.3190104166666667,True,unknown
+sa_fari_006848,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3302951388888888,True,terrestrial
+sa_fari_001591,squirrel,colpa008,1,20.0,73.35590277777777,False,unknown
+sa_fari_008313,squirrel monkey,arb_068,1,20.2,72.86675347222223,False,arboreal
+sa_fari_005874,trumpeter,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_002597,white-nosed coati,MS#103_sorted,1,13.0,1.3042534722222223,True,unknown
+sa_fari_009418,agouti,MS#108_sorted,1,13.192,26.512586805555557,False,unknown
+sa_fari_005767,baird's tapir,SHINTUYA_14_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_001285,capuchin monkey,arb_015,1,10.844166666666666,65.171875,False,arboreal
+sa_fari_001583,collared peccary,MS#87_sorted,1,13.0,27.35112847222222,False,unknown
+sa_fari_002328,common opossum,MS#151_sorted,1,13.88888888888889,1.8246527777777777,True,unknown
+sa_fari_008747,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.5902777777777778,True,unknown
+sa_fari_002849,four-eyed opossum,MS#155_sorted,1,13.777777777777779,1.8172743055555556,True,unknown
+sa_fari_009472,great tinamou,MS#103_sorted,1,13.0,1.3133680555555556,True,unknown
+sa_fari_004763,jaguar,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006168,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3511284722222223,True,arboreal
+sa_fari_001549,night monkey,MLC_16_Arboreal,1,12.555555555555555,1.5243055555555556,True,arboreal
+sa_fari_006358,ninebanded armadillo,MS#80_sorted,1,10.0,0.3372395833333333,True,unknown
+sa_fari_009983,northern tamandua,MS#72_sorted,1,13.2,0.3125,True,unknown
+sa_fari_009634,ocelot,MS#82_sorted,1,10.0,0.3415798611111111,True,unknown
+sa_fari_010422,paca,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.3836805555555556,True,terrestrial
+sa_fari_007454,porcupine,colpa_004,1,20.4,0.1657986111111111,True,unknown
+sa_fari_011008,puma,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004267,red brocket deer,MLC_20_Terrestrial,1,12.555555555555555,1.2847222222222223,True,terrestrial
+sa_fari_004732,red-billed currasow,ROMERO_15_Terrestrial,1,12.666666666666666,1.3368055555555556,True,terrestrial
+sa_fari_007484,squirrel,NL#1_revised,1,13.0,111.59244791666667,False,unknown
+sa_fari_008188,squirrel monkey,ROMERO_12_Arboreal,1,12.666666666666666,1.3159722222222223,True,arboreal
+sa_fari_007459,trumpeter,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003547,white-nosed coati,MS#10_sorted,1,13.095634788403865,17.93359375,False,unknown
+sa_fari_011736,agouti,MS#5_sorted,1,13.0,1.3038194444444444,True,unknown
+sa_fari_008676,baird's tapir,MS#13_sorted,1,13.197,1.5026041666666667,True,unknown
+sa_fari_005553,capuchin monkey,arb_031,1,15.0,1.1462673611111112,True,arboreal
+sa_fari_007262,collared peccary,MS#104_sorted,1,13.0,1.34375,True,unknown
+sa_fari_010900,common opossum,MS#164_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_000908,crab-eating raccoon,MS#116_sorted,1,10.7,0.4756944444444444,True,unknown
+sa_fari_011146,four-eyed opossum,MS#155_sorted,1,13.777777777777779,1.8151041666666667,True,unknown
+sa_fari_008305,great tinamou,MS#133_sorted,1,13.0,0.7513020833333334,True,unknown
+sa_fari_004154,jaguar,ROMERO_15_Terrestrial,1,12.5,1.4049479166666667,True,terrestrial
+sa_fari_003987,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_005086,night monkey,MLC_11_Arboreal,1,14.555555555555555,1.3407118055555556,True,arboreal
+sa_fari_011615,ninebanded armadillo,MS#135_sorted,1,13.0,0.8359375,True,unknown
+sa_fari_004595,northern tamandua,MS#87_sorted,1,13.0,0.75,True,unknown
+sa_fari_010788,ocelot,MS#118_sorted,1,13.555555555555555,1.3815104166666667,True,unknown
+sa_fari_008594,paca,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007425,porcupine,colpa_011,1,20.0,0.16666666666666666,True,unknown
+sa_fari_003771,puma,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010660,red brocket deer,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002928,red-billed currasow,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001833,squirrel,MS#155_sorted,1,13.88888888888889,1.828125,True,unknown
+sa_fari_006000,squirrel monkey,arb_041,1,15.0,97.609375,False,arboreal
+sa_fari_002763,trumpeter,MLC_14_Terrestrial,1,12.555555555555555,1.33203125,True,terrestrial
+sa_fari_011505,white-nosed coati,MS#8_sorted,1,13.0,1.3103298611111112,True,unknown
+sa_fari_009813,agouti,DIAMANTE_10_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_008085,baird's tapir,MLC_14_Terrestrial,1,12.5,1.5190972222222223,True,terrestrial
+sa_fari_008176,capuchin monkey,MLC_2_Arboreal,1,12.666666666666666,1.328125,True,arboreal
+sa_fari_005391,collared peccary,MS#135_sorted,1,13.0,0.9032118055555556,True,unknown
+sa_fari_002551,common opossum,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_004269,crab-eating raccoon,MS#144_sorted,1,13.777777777777779,1.8224826388888888,True,unknown
+sa_fari_011585,four-eyed opossum,MS#143_sorted,1,13.666666666666666,0.0026041666666666665,True,unknown
+sa_fari_006544,great tinamou,MS#18_first_collection_sorted,1,13.0,18.16015625,False,unknown
+sa_fari_007270,jaguar,SHINTUYA_14_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001864,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3428819444444444,True,arboreal
+sa_fari_003800,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.4765625,True,arboreal
+sa_fari_010035,ninebanded armadillo,MS#74_sorted,1,13.466666666666667,0.3194444444444444,True,unknown
+sa_fari_001761,northern tamandua,MS#104_sorted,1,13.0,78.20399305555556,False,unknown
+sa_fari_011496,ocelot,ROMERO_7_Terrestrial,1,12.555555555555555,1.6106770833333333,True,terrestrial
+sa_fari_010347,paca,MS#111_sorted,1,13.0,1.4422743055555556,True,unknown
+sa_fari_009944,porcupine,colpa_010,1,1.0,0.06684027777777778,True,unknown
+sa_fari_006915,puma,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003649,red brocket deer,ROMERO_15_Terrestrial,1,12.555555555555555,1.50390625,True,terrestrial
+sa_fari_009616,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3315972222222223,True,terrestrial
+sa_fari_007827,squirrel,MS#18_first_collection_sorted,1,13.0,40.559895833333336,False,unknown
+sa_fari_006131,squirrel monkey,arb_003,1,20.0,43.43446180555556,False,arboreal
+sa_fari_010567,trumpeter,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_000897,white-nosed coati,MS#175_sorted,1,13.777777777777779,1.3402777777777777,True,unknown
+sa_fari_005972,agouti,MS#72_sorted,1,13.366666666666667,0.3155381944444444,True,unknown
+sa_fari_011423,baird's tapir,ROMERO_15_Terrestrial,1,12.5,1.5529513888888888,True,terrestrial
+sa_fari_003174,capuchin monkey,arb_002,1,15.0,1.1519097222222223,True,arboreal
+sa_fari_008212,collared peccary,MS#108_sorted,1,13.192,26.871961805555557,False,unknown
+sa_fari_005070,common opossum,MS#123_sorted,1,13.466666666666667,0.3159722222222222,True,unknown
+sa_fari_011365,crab-eating raccoon,MS#84_sorted,1,13.366666666666667,0.3194444444444444,True,unknown
+sa_fari_001242,four-eyed opossum,MS#154_sorted,1,13.777777777777779,1.8229166666666667,True,unknown
+sa_fari_010339,great tinamou,MS#13_sorted,1,13.157894736842106,25.852864583333332,False,unknown
+sa_fari_008854,jaguar,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005087,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3888888888888888,True,arboreal
+sa_fari_006014,night monkey,SHINTUYA_11_Arboreal,1,12.5,1.4444444444444444,True,arboreal
+sa_fari_010754,ninebanded armadillo,MS#164_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_007084,northern tamandua,MS#6_sorted,1,13.157894736842106,16.85894097222222,False,unknown
+sa_fari_006441,ocelot,MS#144_sorted,1,13.777777777777779,1.8094618055555556,True,unknown
+sa_fari_004214,paca,MS#7_sorted,1,13.197,1.5043402777777777,True,unknown
+sa_fari_007196,porcupine,colpa_010,1,2.0,0.15711805555555555,True,unknown
+sa_fari_005827,puma,MS#3_sorted,1,13.197,1.48828125,True,unknown
+sa_fari_006746,red brocket deer,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007144,red-billed currasow,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001384,squirrel,MS#144_sorted,1,13.7,24.647135416666668,False,unknown
+sa_fari_011656,squirrel monkey,arb_006,1,20.0,21.77907986111111,False,arboreal
+sa_fari_006201,trumpeter,DIAMANTE_18_Terrestrial,1,12.466666666666667,14.682725694444445,False,terrestrial
+sa_fari_003492,white-nosed coati,MS#131_sorted,1,13.666666666666666,25.506944444444443,False,unknown
+sa_fari_002486,agouti,MS#87_sorted,1,13.0,0.75390625,True,unknown
+sa_fari_004833,baird's tapir,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3671875,True,terrestrial
+sa_fari_011606,capuchin monkey,ROMERO_1_Terrestrial,1,12.5,16.6953125,False,terrestrial
+sa_fari_008124,collared peccary,MS#7_sorted,1,13.157894736842106,36.40928819444444,False,unknown
+sa_fari_006560,common opossum,MS#144_sorted,1,13.777777777777779,1.8094618055555556,True,unknown
+sa_fari_005294,crab-eating raccoon,MS#114_sorted,1,13.197,1.5030381944444444,True,unknown
+sa_fari_005033,four-eyed opossum,MS#155_sorted,1,13.777777777777779,1.8016493055555556,True,unknown
+sa_fari_006863,great tinamou,MS#80_sorted,1,10.0,15.442708333333334,False,unknown
+sa_fari_004283,jaguar,MLC_14_Terrestrial,1,12.38888888888889,1.5881076388888888,True,terrestrial
+sa_fari_007575,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_009707,night monkey,MLC_11_Arboreal,1,14.555555555555555,1.3407118055555556,True,arboreal
+sa_fari_004478,ninebanded armadillo,MLC_20_Terrestrial,1,12.277777777777779,0.0,True,terrestrial
+sa_fari_005697,northern tamandua,MS#144_sorted,1,13.777777777777779,1.8177083333333333,True,unknown
+sa_fari_001785,ocelot,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.4652777777777777,True,terrestrial
+sa_fari_010906,paca,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3389756944444444,True,terrestrial
+sa_fari_000907,porcupine,colpa_004,1,20.0,0.1644965277777778,True,unknown
+sa_fari_010636,puma,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010030,red brocket deer,DIAMANTE_5_Terrestrial,1,12.5,1.3059895833333333,True,terrestrial
+sa_fari_001594,red-billed currasow,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001716,squirrel,MS#96_sorted,1,13.2,5.448350694444445,False,unknown
+sa_fari_007224,squirrel monkey,arb_002,1,15.190999999999999,31.198350694444443,False,arboreal
+sa_fari_011091,trumpeter,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001498,white-nosed coati,NL#1_revised,1,13.033333333333333,97.86588541666667,False,unknown
+sa_fari_001688,agouti,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010028,baird's tapir,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001781,capuchin monkey,arb_018,1,15.190999999999999,79.43402777777777,False,arboreal
+sa_fari_005486,collared peccary,MS#93_sorted,1,13.192,26.918836805555557,False,unknown
+sa_fari_008682,common opossum,MS#118_sorted,1,13.555555555555555,1.3589409722222223,True,unknown
+sa_fari_007448,crab-eating raccoon,MS#155_sorted,1,13.777777777777779,1.8198784722222223,True,unknown
+sa_fari_006920,four-eyed opossum,MS#156_sorted,1,13.466666666666667,0.6831597222222222,True,unknown
+sa_fari_003166,great tinamou,MS#7_sorted,1,13.197,1.5026041666666667,True,unknown
+sa_fari_005568,jaguar,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001017,kinkajou,MLC_4_Arboreal,1,12.555555555555555,1.4887152777777777,True,arboreal
+sa_fari_003468,night monkey,MLC_11_Arboreal,1,14.555555555555555,1.3172743055555556,True,arboreal
+sa_fari_008853,ninebanded armadillo,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_009784,northern tamandua,MS#6_sorted,1,13.157894736842106,16.94357638888889,False,unknown
+sa_fari_005278,ocelot,ROMERO_16_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_010499,paca,MS#84_sorted,1,13.366666666666667,0.3207465277777778,True,unknown
+sa_fari_006512,porcupine,colpa_011,1,20.0,0.1640625,True,unknown
+sa_fari_004540,puma,ROMERO_16_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001444,red brocket deer,ROMERO_20_Terrestrial,1,11.766666666666667,21.59939236111111,False,terrestrial
+sa_fari_010813,red-billed currasow,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009872,squirrel,MS#118_sorted,1,13.6,19.46440972222222,False,unknown
+sa_fari_004344,squirrel monkey,arb_001,1,15.0,15.321180555555555,False,arboreal
+sa_fari_010198,trumpeter,DIAMANTE_5_Terrestrial,1,12.5,1.3181423611111112,True,terrestrial
+sa_fari_000861,white-nosed coati,MS#96_sorted,1,13.466666666666667,29.94921875,False,unknown
+sa_fari_001240,agouti,MS#8_sorted,1,13.0,60.0078125,False,unknown
+sa_fari_001601,baird's tapir,ROMERO_7_Terrestrial,1,12.566666666666666,15.11154513888889,False,terrestrial
+sa_fari_002144,capuchin monkey,arb_003,1,20.0,28.973524305555557,False,arboreal
+sa_fari_010255,collared peccary,ROMERO_18_Terrestrial,1,12.3,13.559461805555555,False,terrestrial
+sa_fari_008972,common opossum,ROMERO_12_Arboreal,1,12.666666666666666,1.3359375,True,arboreal
+sa_fari_002315,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.3736979166666667,True,unknown
+sa_fari_002360,four-eyed opossum,MS#116_sorted,1,10.666666666666666,0.4565972222222222,True,unknown
+sa_fari_008228,great tinamou,MS#72_sorted,1,13.2,0.3216145833333333,True,unknown
+sa_fari_004673,jaguar,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_005247,kinkajou,MLC_4_Arboreal,1,12.555555555555555,1.48828125,True,arboreal
+sa_fari_004925,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.49609375,True,arboreal
+sa_fari_002632,ninebanded armadillo,MS#164_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_002699,northern tamandua,MS#6_sorted,1,13.157894736842106,18.6796875,False,unknown
+sa_fari_002747,ocelot,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004126,paca,MS#74_sorted,1,13.466666666666667,0.3203125,True,unknown
+sa_fari_010861,porcupine,colpa_004,1,20.35,0.16666666666666666,True,unknown
+sa_fari_009716,puma,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_005256,red brocket deer,DIAMANTE_20_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004666,red-billed currasow,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_004031,squirrel,colpa008,1,20.5,67.97439236111111,False,unknown
+sa_fari_008521,squirrel monkey,arb_048,1,20.2,31.03472222222222,False,arboreal
+sa_fari_002098,trumpeter,MLC_14_Terrestrial,1,12.38888888888889,1.3307291666666667,True,terrestrial
+sa_fari_010277,white-nosed coati,MS#3_sorted,1,13.157894736842106,13.813802083333334,False,unknown
+sa_fari_006147,agouti,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3090277777777777,True,terrestrial
+sa_fari_002036,baird's tapir,SHINTUYA_17_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011152,capuchin monkey,arb_024,1,20.5,47.3671875,False,arboreal
+sa_fari_005186,collared peccary,MS#112_sorted,1,13.0,1.3059895833333333,True,unknown
+sa_fari_008104,common opossum,MS#148_sorted,1,13.777777777777779,1.8194444444444444,True,unknown
+sa_fari_004038,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.4557291666666667,True,unknown
+sa_fari_001807,four-eyed opossum,MS#116_sorted,1,10.666666666666666,0.4270833333333333,True,unknown
+sa_fari_011443,great tinamou,MS#90_sorted,1,13.466666666666667,0.6861979166666666,True,unknown
+sa_fari_008954,jaguar,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009010,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5972222222222223,True,arboreal
+sa_fari_007991,night monkey,ROMERO_1_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_006469,ninebanded armadillo,MS#135_sorted,1,13.0,0.8294270833333334,True,unknown
+sa_fari_010021,northern tamandua,MS#6_sorted,1,13.192,17.787760416666668,False,unknown
+sa_fari_005244,ocelot,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006016,paca,MS#131_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_002864,porcupine,colpa_004,1,20.35,0.16536458333333334,True,unknown
+sa_fari_007199,puma,MS#110_sorted,1,10.0,44.209635416666664,False,unknown
+sa_fari_005380,red brocket deer,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3211805555555556,True,terrestrial
+sa_fari_003739,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3355034722222223,True,terrestrial
+sa_fari_009057,squirrel,MS#152_sorted,1,13.88888888888889,1.8138020833333333,True,unknown
+sa_fari_006374,squirrel monkey,arb_009,1,20.2,66.29123263888889,False,arboreal
+sa_fari_007838,trumpeter,ROMERO_3_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_009465,white-nosed coati,MS#135_sorted,1,13.0,24.828125,False,unknown
+sa_fari_003842,agouti,DIAMANTE_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010484,baird's tapir,MS#3_sorted,1,13.2,1.35546875,True,unknown
+sa_fari_003877,capuchin monkey,arb_022,1,25.6,20.28472222222222,False,arboreal
+sa_fari_004044,collared peccary,ROMERO_20_Terrestrial,1,12.5,1.5173611111111112,True,terrestrial
+sa_fari_003796,common opossum,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.4748263888888888,True,terrestrial
+sa_fari_007712,crab-eating raccoon,MS#175_sorted,1,13.666666666666666,1.3346354166666667,True,unknown
+sa_fari_005167,four-eyed opossum,MS#151_sorted,1,13.777777777777779,1.8224826388888888,True,unknown
+sa_fari_005601,great tinamou,MS#18_first_collection_sorted,1,13.0,37.59809027777778,False,unknown
+sa_fari_006745,jaguar,MS#7_sorted,1,13.2,1.3563368055555556,True,unknown
+sa_fari_009876,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3372395833333333,True,arboreal
+sa_fari_001977,night monkey,ROMERO_7_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_002005,ninebanded armadillo,SHINTUYA_17_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008484,northern tamandua,MS#72_sorted,1,13.2,46.845486111111114,False,unknown
+sa_fari_010964,ocelot,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009880,paca,SHINTUYA_7_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004872,porcupine,colpa_004,1,20.4,0.1662326388888889,True,unknown
+sa_fari_003617,puma,MLC_14_Terrestrial,1,12.277777777777779,1.4891493055555556,True,terrestrial
+sa_fari_010043,red brocket deer,ROMERO_16_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_008222,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3333333333333333,True,terrestrial
+sa_fari_000996,squirrel,MS#6_sorted,1,13.192,25.059895833333332,False,unknown
+sa_fari_008755,squirrel monkey,arb_014,1,4.2,25.090711805555557,False,arboreal
+sa_fari_005915,trumpeter,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.3285590277777777,True,terrestrial
+sa_fari_003374,white-nosed coati,MS#110_sorted,1,10.0,53.584201388888886,False,unknown
+sa_fari_002062,agouti,AGJ#1_sorted,1,13.0,22.862413194444443,False,unknown
+sa_fari_005484,baird's tapir,MS#13_sorted,1,13.2,1.3606770833333333,True,unknown
+sa_fari_007349,capuchin monkey,ROMERO_14_Arboreal,1,12.6,22.00954861111111,False,arboreal
+sa_fari_001104,collared peccary,MS#87_sorted,1,13.0,0.7521701388888888,True,unknown
+sa_fari_007864,common opossum,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_008271,crab-eating raccoon,MS#101_sorted,1,13.0,1.2647569444444444,True,unknown
+sa_fari_007219,four-eyed opossum,ROMERO_3_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_007060,great tinamou,MLC_20_Terrestrial,1,12.666666666666666,1.2994791666666667,True,terrestrial
+sa_fari_007826,jaguar,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003147,kinkajou,ROMERO_12_Arboreal,1,12.555555555555555,1.3298611111111112,True,arboreal
+sa_fari_009848,night monkey,MLC_17_Arboreal,1,12.5,1.5303819444444444,True,arboreal
+sa_fari_005637,ninebanded armadillo,MS#118_sorted,1,13.555555555555555,1.3997395833333333,True,unknown
+sa_fari_005559,northern tamandua,MS#6_sorted,1,13.192,17.26388888888889,False,unknown
+sa_fari_005518,ocelot,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3498263888888888,True,terrestrial
+sa_fari_007757,paca,ROMERO_15_Terrestrial,1,12.5,1.3854166666666667,True,terrestrial
+sa_fari_009475,porcupine,colpa_011,1,20.0,0.16145833333333334,True,unknown
+sa_fari_010099,puma,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010229,red brocket deer,MS#73_sorted,1,13.2,0.3198784722222222,True,unknown
+sa_fari_010749,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3346354166666667,True,terrestrial
+sa_fari_002518,squirrel,MS#96_sorted,1,13.366666666666667,0.3220486111111111,True,unknown
+sa_fari_007095,squirrel monkey,arb_064,1,20.2,78.58420138888889,False,arboreal
+sa_fari_007568,trumpeter,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007141,white-nosed coati,SALED#2_B_sorted,1,15.0,121.90538194444444,False,unknown
+sa_fari_002827,agouti,MS#112_sorted,1,13.0,134.16015625,False,unknown
+sa_fari_002622,baird's tapir,DIAMANTE_20_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001022,capuchin monkey,arb_009,1,20.2,49.13715277777778,False,arboreal
+sa_fari_009383,collared peccary,MS#88_sorted,1,13.6,21.952256944444443,False,unknown
+sa_fari_005417,common opossum,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_006828,crab-eating raccoon,MS#113_sorted,1,11.1,0.8098958333333334,True,unknown
+sa_fari_000943,four-eyed opossum,MLC_2_Arboreal,1,12.555555555555555,1.5555555555555556,True,arboreal
+sa_fari_003466,great tinamou,MS#152_sorted,1,13.866666666666667,23.413194444444443,False,unknown
+sa_fari_007646,jaguar,MLC_14_Terrestrial,1,12.5,1.4066840277777777,True,terrestrial
+sa_fari_011253,kinkajou,ROMERO_14_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_001108,night monkey,ROMERO_14_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_010459,ninebanded armadillo,MS#175_sorted,1,13.555555555555555,1.3333333333333333,True,unknown
+sa_fari_000941,northern tamandua,MS#6_sorted,1,13.2,1.3441840277777777,True,unknown
+sa_fari_007172,ocelot,SALED#2_B_sorted,1,15.0,109.71918402777777,False,unknown
+sa_fari_011525,paca,MLC_14_Terrestrial,1,12.555555555555555,1.41796875,True,terrestrial
+sa_fari_005360,porcupine,colpa_004,1,20.0,0.1640625,True,unknown
+sa_fari_007828,puma,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002882,red brocket deer,MLC_4_Terrestrial,1,12.666666666666666,1.3298611111111112,True,terrestrial
+sa_fari_001356,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3346354166666667,True,terrestrial
+sa_fari_007557,squirrel,MS#6_sorted,1,13.2,1.3415798611111112,True,unknown
+sa_fari_002028,squirrel monkey,arb_051,1,20.2,78.03559027777777,False,arboreal
+sa_fari_009622,trumpeter,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_007888,white-nosed coati,MS#111_sorted,1,13.0,98.42751736111111,False,unknown
+sa_fari_007664,agouti,ROMERO_20_Terrestrial,1,12.555555555555555,1.3302951388888888,True,terrestrial
+sa_fari_005515,baird's tapir,ROMERO_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_005724,capuchin monkey,arb_041,1,15.0,82.41579861111111,False,arboreal
+sa_fari_008198,collared peccary,MS#80_sorted,1,10.0,39.85199652777778,False,unknown
+sa_fari_006101,common opossum,MS#130_sorted,1,13.566666666666666,0.6831597222222222,True,unknown
+sa_fari_011428,crab-eating raccoon,MLC_14_Terrestrial,1,12.38888888888889,1.3936631944444444,True,terrestrial
+sa_fari_003430,four-eyed opossum,ROMERO_3_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_009296,great tinamou,MS#92_sorted,1,13.192,27.575520833333332,False,unknown
+sa_fari_004557,jaguar,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006755,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.3927951388888888,True,arboreal
+sa_fari_003119,night monkey,MLC_12_Arboreal,1,12.555555555555555,1.3980034722222223,True,arboreal
+sa_fari_009229,ninebanded armadillo,MS#118_sorted,1,13.555555555555555,1.3376736111111112,True,unknown
+sa_fari_005591,northern tamandua,MS#13_sorted,1,13.157894736842106,39.44184027777778,False,unknown
+sa_fari_009905,ocelot,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010686,paca,ROMERO_7_Terrestrial,1,12.38888888888889,1.5334201388888888,True,terrestrial
+sa_fari_005289,porcupine,MLC_10_Arboreal,1,12.555555555555555,1.4861111111111112,True,arboreal
+sa_fari_010954,puma,MS#101_sorted,1,13.0,88.52821180555556,False,unknown
+sa_fari_011655,red brocket deer,MS#16_sorted,1,6.0,0.0,True,unknown
+sa_fari_006990,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3342013888888888,True,terrestrial
+sa_fari_001680,squirrel,MS#131_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_009135,squirrel monkey,arb_041,1,15.0,68.91623263888889,False,arboreal
+sa_fari_008208,trumpeter,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.33203125,True,terrestrial
+sa_fari_003824,white-nosed coati,MS#15_sorted,1,13.0,18.87934027777778,False,unknown
+sa_fari_008087,agouti,DIAMANTE_20_Terrestrial,1,12.5,13.424913194444445,False,terrestrial
+sa_fari_002988,baird's tapir,SHINTUYA_7_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010102,capuchin monkey,arb_030,1,15.190999999999999,28.151041666666668,False,arboreal
+sa_fari_002817,collared peccary,MS#84_sorted,1,13.366666666666667,0.3159722222222222,True,unknown
+sa_fari_007955,common opossum,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_002568,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.3628472222222223,True,unknown
+sa_fari_006034,four-eyed opossum,SHINTUYA_7_Arboreal,1,12.555555555555555,1.3732638888888888,True,arboreal
+sa_fari_008218,great tinamou,MS#155_sorted,1,13.777777777777779,1.8237847222222223,True,unknown
+sa_fari_001780,jaguar,DIAMANTE_5_Terrestrial,1,12.5,1.3324652777777777,True,terrestrial
+sa_fari_006569,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_001856,night monkey,ROMERO_3_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_001903,ninebanded armadillo,MLC_20_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001850,northern tamandua,MS#118_sorted,1,13.555555555555555,1.3541666666666667,True,unknown
+sa_fari_009263,ocelot,MS#90_sorted,1,13.366666666666667,0.6840277777777778,True,unknown
+sa_fari_003097,paca,MS#6_sorted,1,13.197,1.4852430555555556,True,unknown
+sa_fari_010418,porcupine,colpa_011,1,20.0,0.1640625,True,unknown
+sa_fari_010205,puma,MS#131_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_010104,red brocket deer,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010308,red-billed currasow,MLC_14_Terrestrial,1,12.555555555555555,1.3103298611111112,True,terrestrial
+sa_fari_009694,squirrel,MS#18_first_collection_sorted,1,13.0,59.498263888888886,False,unknown
+sa_fari_004650,squirrel monkey,arb_019,1,10.193999999999999,21.885850694444443,False,arboreal
+sa_fari_004792,trumpeter,SHINTUYA_7_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003079,white-nosed coati,MS#130_sorted,1,13.466666666666667,34.193142361111114,False,unknown
+sa_fari_002058,agouti,ROMERO_18_Terrestrial,1,11.766666666666667,14.500868055555555,False,terrestrial
+sa_fari_001817,baird's tapir,DIAMANTE_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002193,capuchin monkey,arb_042,1,30.0,17.057291666666668,False,arboreal
+sa_fari_001359,collared peccary,ROMERO_10_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001634,common opossum,MLC_2_Arboreal,1,12.5,1.5360243055555556,True,arboreal
+sa_fari_006238,crab-eating raccoon,MLC_20_Terrestrial,1,12.555555555555555,1.2756076388888888,True,terrestrial
+sa_fari_007710,four-eyed opossum,MS#155_sorted,1,13.777777777777779,1.8111979166666667,True,unknown
+sa_fari_001713,great tinamou,MS#88_sorted,1,13.6,23.921006944444443,False,unknown
+sa_fari_010434,jaguar,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_009193,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4105902777777777,True,arboreal
+sa_fari_007562,night monkey,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007718,ninebanded armadillo,MS#143_sorted,1,13.666666666666666,0.003472222222222222,True,unknown
+sa_fari_003523,northern tamandua,MS#101_sorted,1,13.0,87.57682291666667,False,unknown
+sa_fari_009832,ocelot,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_004767,paca,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3519965277777777,True,terrestrial
+sa_fari_009464,porcupine,colpa_004,1,20.0,0.1636284722222222,True,unknown
+sa_fari_003543,puma,ROMERO_20_Terrestrial,1,12.5,1.4144965277777777,True,terrestrial
+sa_fari_001914,red brocket deer,DIAMANTE_5_Terrestrial,1,12.5,1.3745659722222223,True,terrestrial
+sa_fari_004953,red-billed currasow,SHINTUYA_17_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_004576,squirrel,MS#96_sorted,1,13.466666666666667,0.3190104166666667,True,unknown
+sa_fari_010180,squirrel monkey,arb_049,1,10.193999999999999,53.892795138888886,False,arboreal
+sa_fari_011065,trumpeter,MLC_14_Terrestrial,1,12.38888888888889,1.3355034722222223,True,terrestrial
+sa_fari_006817,white-nosed coati,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_010572,agouti,MS#80_sorted,1,10.0,43.05034722222222,False,unknown
+sa_fari_002244,baird's tapir,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004216,capuchin monkey,arb_005,1,15.190999999999999,31.40234375,False,arboreal
+sa_fari_006559,collared peccary,MS#80_sorted,1,10.0,37.03949652777778,False,unknown
+sa_fari_005083,common opossum,MS#175_sorted,1,13.555555555555555,1.2738715277777777,True,unknown
+sa_fari_008654,crab-eating raccoon,MS#155_sorted,1,13.777777777777779,1.8142361111111112,True,unknown
+sa_fari_010577,four-eyed opossum,SHINTUYA_8_Arboreal,1,12.555555555555555,1.4240451388888888,True,arboreal
+sa_fari_003248,great tinamou,MS#96_sorted,1,13.366666666666667,39.51128472222222,False,unknown
+sa_fari_011105,jaguar,ROMERO_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_009811,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4639756944444444,True,arboreal
+sa_fari_001404,night monkey,DIAMANTE_1_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_006185,ninebanded armadillo,MS#149_sorted,1,13.88888888888889,2.0633680555555554,True,unknown
+sa_fari_010552,northern tamandua,MS#108_sorted,1,13.197,1.4856770833333333,True,unknown
+sa_fari_004403,ocelot,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_010787,paca,MS#72_sorted,1,13.2,0.3129340277777778,True,unknown
+sa_fari_010979,porcupine,colpa_009,1,20.0,0.15755208333333334,True,unknown
+sa_fari_002998,puma,SALED#2_B_sorted,1,15.033333333333333,103.43880208333333,False,unknown
+sa_fari_009191,red brocket deer,MLC_14_Terrestrial,1,12.277777777777779,1.3394097222222223,True,terrestrial
+sa_fari_006109,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3302951388888888,True,terrestrial
+sa_fari_009589,squirrel,MS#96_sorted,1,13.466666666666667,0.3198784722222222,True,unknown
+sa_fari_007570,squirrel monkey,arb_021,1,20.0,34.34852430555556,False,arboreal
+sa_fari_007326,trumpeter,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003860,white-nosed coati,MS#148_sorted,1,13.88888888888889,1.8294270833333333,True,unknown
+sa_fari_010111,agouti,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002774,baird's tapir,ROMERO_15_Terrestrial,1,12.5,1.5026041666666667,True,terrestrial
+sa_fari_011640,capuchin monkey,arb_36,1,15.0,28.37717013888889,False,arboreal
+sa_fari_002574,collared peccary,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008544,common opossum,MS#108_sorted,1,13.197,1.4856770833333333,True,unknown
+sa_fari_001038,crab-eating raccoon,MS#175_sorted,1,13.666666666666666,1.3302951388888888,True,unknown
+sa_fari_004422,four-eyed opossum,MS#175_sorted,1,13.555555555555555,1.3294270833333333,True,unknown
+sa_fari_003799,great tinamou,MS#3_sorted,1,13.191205862758162,14.662760416666666,False,unknown
+sa_fari_010669,jaguar,SHINTUYA_14_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004873,kinkajou,MLC_2_Arboreal,1,12.555555555555555,1.5217013888888888,True,arboreal
+sa_fari_007362,night monkey,DIAMANTE_15_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_005302,ninebanded armadillo,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_005493,northern tamandua,MS#118_sorted,1,13.555555555555555,1.40234375,True,unknown
+sa_fari_007309,ocelot,SALED#2_B_sorted,1,15.0,1.4309895833333333,True,unknown
+sa_fari_007004,paca,MS#122_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_002255,porcupine,colpa_010,1,1.0,0.0646701388888889,True,unknown
+sa_fari_007082,puma,ROMERO_18_Terrestrial,1,12.166666666666666,0.0,True,terrestrial
+sa_fari_003276,red brocket deer,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010820,red-billed currasow,MLC_4_Terrestrial,1,12.666666666666666,1.3311631944444444,True,terrestrial
+sa_fari_010802,squirrel,MS#149_sorted,1,13.7,55.05512152777778,False,unknown
+sa_fari_006029,squirrel monkey,arb_026,1,15.0,48.50824652777778,False,arboreal
+sa_fari_003938,trumpeter,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009326,white-nosed coati,MS#131_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_010144,agouti,MS#110_sorted,1,10.0,24.662760416666668,False,unknown
+sa_fari_004022,baird's tapir,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004375,capuchin monkey,arb_047,1,15.0,20.061631944444443,False,arboreal
+sa_fari_009863,collared peccary,ROMERO_7_Terrestrial,1,12.666666666666666,1.3328993055555556,True,terrestrial
+sa_fari_008939,common opossum,MS#103_sorted,1,13.0,1.3090277777777777,True,unknown
+sa_fari_002545,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4092881944444444,True,unknown
+sa_fari_008099,four-eyed opossum,ROMERO_14_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_008323,great tinamou,MS#3_sorted,1,13.257828114590273,11.55685763888889,False,unknown
+sa_fari_009119,jaguar,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3337673611111112,True,terrestrial
+sa_fari_010009,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_001419,night monkey,DIAMANTE_1_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_008187,ninebanded armadillo,MS#154_sorted,1,13.777777777777779,1.8172743055555556,True,unknown
+sa_fari_007777,northern tamandua,MS#104_sorted,1,13.0,1.3068576388888888,True,unknown
+sa_fari_011588,ocelot,MS#103_sorted,1,13.0,1.3259548611111112,True,unknown
+sa_fari_006996,paca,MS#3_sorted,1,13.197,1.4869791666666667,True,unknown
+sa_fari_008423,porcupine,colpa_004,1,20.0,0.1644965277777778,True,unknown
+sa_fari_007770,puma,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004901,red brocket deer,MLC_20_Terrestrial,1,12.555555555555555,1.3302951388888888,True,terrestrial
+sa_fari_011420,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3276909722222223,True,terrestrial
+sa_fari_007632,squirrel,MS#96_sorted,1,13.566666666666666,0.3194444444444444,True,unknown
+sa_fari_006584,squirrel monkey,arb_060,1,20.2,96.546875,False,arboreal
+sa_fari_003378,trumpeter,MLC_4_Terrestrial,1,12.7,32.62109375,False,terrestrial
+sa_fari_007741,white-nosed coati,MS#90_sorted,1,13.466666666666667,0.6840277777777778,True,unknown
+sa_fari_003130,agouti,MS#122_sorted,1,13.666666666666666,27.65842013888889,False,unknown
+sa_fari_008998,baird's tapir,MS#73_sorted,1,13.3,0.3220486111111111,True,unknown
+sa_fari_011222,capuchin monkey,arb_011,1,15.0,36.57508680555556,False,arboreal
+sa_fari_008647,collared peccary,MS#130_sorted,1,13.466666666666667,0.6840277777777778,True,unknown
+sa_fari_011623,common opossum,MS#118_sorted,1,13.555555555555555,1.3875868055555556,True,unknown
+sa_fari_004881,crab-eating raccoon,AGJ#3_sorted,1,13.0,0.0,True,unknown
+sa_fari_004462,four-eyed opossum,ROMERO_12_Arboreal,1,12.555555555555555,1.3311631944444444,True,arboreal
+sa_fari_005476,great tinamou,MS#104_sorted,1,13.0,1.3051215277777777,True,unknown
+sa_fari_006617,jaguar,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_011654,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_005478,night monkey,ROMERO_12_Arboreal,1,12.555555555555555,1.3298611111111112,True,arboreal
+sa_fari_007258,ninebanded armadillo,MLC_20_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002422,northern tamandua,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_011151,ocelot,MS#148_sorted,1,13.777777777777779,1.8190104166666667,True,unknown
+sa_fari_011668,paca,MS#74_sorted,1,13.466666666666667,0.3159722222222222,True,unknown
+sa_fari_009333,porcupine,colpa_009,1,20.0,0.15234375,True,unknown
+sa_fari_008080,puma,MS#2_revised,1,20.42042042042042,0.7352430555555556,True,unknown
+sa_fari_001187,red brocket deer,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_005271,red-billed currasow,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_002209,squirrel,MS#96_sorted,1,13.366666666666667,0.3216145833333333,True,unknown
+sa_fari_005116,squirrel monkey,arb_061,1,15.190999999999999,40.955729166666664,False,arboreal
+sa_fari_002936,trumpeter,DIAMANTE_18_Terrestrial,1,12.4,19.799479166666668,False,terrestrial
+sa_fari_002586,white-nosed coati,AGJ#3_sorted,1,13.0,0.0,True,unknown
+sa_fari_011521,agouti,MS#92_sorted,1,13.292,23.388020833333332,False,unknown
+sa_fari_000902,baird's tapir,AGJ#3_sorted,1,13.0,0.0,True,unknown
+sa_fari_002759,capuchin monkey,arb_033,1,10.05,35.443142361111114,False,arboreal
+sa_fari_005996,collared peccary,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_006301,common opossum,ROMERO_15_Terrestrial,1,12.5,1.6119791666666667,True,terrestrial
+sa_fari_001946,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4370659722222223,True,unknown
+sa_fari_010360,four-eyed opossum,MS#152_sorted,1,13.777777777777779,1.8151041666666667,True,unknown
+sa_fari_008618,great tinamou,MS#108_sorted,1,13.157894736842106,24.58810763888889,False,unknown
+sa_fari_011192,jaguar,DIAMANTE_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001516,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3450520833333333,True,arboreal
+sa_fari_009134,night monkey,DIAMANTE_1_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_009574,ninebanded armadillo,MS#104_sorted,1,13.0,1.4444444444444444,True,unknown
+sa_fari_003396,northern tamandua,MS#149_sorted,1,13.777777777777779,2.0703125,True,unknown
+sa_fari_011575,ocelot,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009029,paca,MS#3_sorted,1,13.197,1.4891493055555556,True,unknown
+sa_fari_005532,porcupine,colpa_011,1,20.0,0.1657986111111111,True,unknown
+sa_fari_007883,puma,DIAMANTE_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_007603,red brocket deer,ROMERO_20_Terrestrial,1,12.5,23.35546875,False,terrestrial
+sa_fari_011063,red-billed currasow,ROMERO_16_Terrestrial,1,12.5,13.445746527777779,False,terrestrial
+sa_fari_008748,squirrel,MS#18_first_collection_sorted,1,13.0,38.09809027777778,False,unknown
+sa_fari_004751,squirrel monkey,arb_003,1,20.0,35.923177083333336,False,arboreal
+sa_fari_009722,trumpeter,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002537,white-nosed coati,MS#110_sorted,1,10.0,46.923177083333336,False,unknown
+sa_fari_009451,agouti,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005322,baird's tapir,AGJ#3_sorted,1,13.0,0.0,True,unknown
+sa_fari_008120,capuchin monkey,MS#151_sorted,1,14.0,1.8229166666666667,True,unknown
+sa_fari_008792,collared peccary,MS#6_sorted,1,13.191205862758162,16.866319444444443,False,unknown
+sa_fari_006900,common opossum,MS#130_sorted,1,13.566666666666666,0.6818576388888888,True,unknown
+sa_fari_006978,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.3611111111111112,True,unknown
+sa_fari_009895,four-eyed opossum,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5130208333333333,True,arboreal
+sa_fari_003532,great tinamou,MS#72_sorted,1,13.366666666666667,68.56944444444444,False,unknown
+sa_fari_011364,jaguar,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006161,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5490451388888888,True,arboreal
+sa_fari_008364,night monkey,MLC_17_Arboreal,1,12.5,1.53515625,True,arboreal
+sa_fari_003323,ninebanded armadillo,MS#104_sorted,1,13.0,1.3606770833333333,True,unknown
+sa_fari_007990,northern tamandua,MS#92_sorted,1,13.191205862758162,28.578125,False,unknown
+sa_fari_005529,ocelot,ROMERO_18_Terrestrial,1,12.277777777777779,0.0,True,terrestrial
+sa_fari_008735,paca,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_007639,porcupine,colpa_009,1,5.5,0.15494791666666666,True,unknown
+sa_fari_004457,puma,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002838,red brocket deer,colpa_001,1,10.25,0.2361111111111111,True,unknown
+sa_fari_005539,red-billed currasow,SHINTUYA_18_Terrestrial,1,12.777777777777779,0.0,True,terrestrial
+sa_fari_011517,squirrel,MS#6_sorted,1,13.192,19.09375,False,unknown
+sa_fari_006251,squirrel monkey,arb_023,1,15.190999999999999,26.950520833333332,False,arboreal
+sa_fari_010734,trumpeter,MLC_4_Terrestrial,1,12.7,44.239583333333336,False,terrestrial
+sa_fari_009882,white-nosed coati,MS#123_sorted,1,13.466666666666667,0.3194444444444444,True,unknown
+sa_fari_007235,agouti,AGJ#3_sorted,1,13.0,16.39236111111111,False,unknown
+sa_fari_009974,baird's tapir,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.31640625,True,terrestrial
+sa_fari_006482,capuchin monkey,arb_012,1,10.0,51.243489583333336,False,arboreal
+sa_fari_004114,collared peccary,MS#103_sorted,1,13.0,82.859375,False,unknown
+sa_fari_009291,common opossum,MS#3_sorted,1,13.197,1.4878472222222223,True,unknown
+sa_fari_002879,crab-eating raccoon,MS#121_sorted,1,13.666666666666666,1.3376736111111112,True,unknown
+sa_fari_004927,four-eyed opossum,ROMERO_7_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_007302,great tinamou,MS#12_sorted,1,13.192,28.263020833333332,False,unknown
+sa_fari_000982,jaguar,SHINTUYA_14_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002370,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3289930555555556,True,arboreal
+sa_fari_002096,night monkey,ROMERO_7_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_006276,ninebanded armadillo,MS#144_sorted,1,13.777777777777779,1.8125,True,unknown
+sa_fari_007151,northern tamandua,MS#137_sorted,1,13.366666666666667,0.3198784722222222,True,unknown
+sa_fari_006477,ocelot,MS#110_sorted,1,10.0,0.3498263888888889,True,unknown
+sa_fari_003609,paca,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004717,porcupine,colpa_004,1,20.0,0.16276041666666666,True,unknown
+sa_fari_006105,puma,SHINTUYA_17_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001722,red brocket deer,MS#72_sorted,1,13.3,66.14670138888889,False,unknown
+sa_fari_003143,red-billed currasow,DIAMANTE_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_000855,squirrel,MS#155_sorted,1,13.777777777777779,1.8185763888888888,True,unknown
+sa_fari_010038,squirrel monkey,arb_062,1,20.2,62.05555555555556,False,arboreal
+sa_fari_002643,trumpeter,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_002426,white-nosed coati,MS#111_sorted,1,13.0,123.73480902777777,False,unknown
+sa_fari_011539,agouti,MS#108_sorted,1,13.192,28.956163194444443,False,unknown
+sa_fari_002772,baird's tapir,MLC_20_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_005000,capuchin monkey,arb_008,1,15.0,26.858072916666668,False,arboreal
+sa_fari_005994,collared peccary,MLC_14_Terrestrial,1,12.666666666666666,1.3255208333333333,True,terrestrial
+sa_fari_002837,common opossum,MS#155_sorted,1,13.777777777777779,1.8177083333333333,True,unknown
+sa_fari_008107,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.4205729166666667,True,unknown
+sa_fari_006916,four-eyed opossum,MS#152_sorted,1,13.777777777777779,1.8237847222222223,True,unknown
+sa_fari_002654,great tinamou,MS#103_sorted,1,13.0,1.3637152777777777,True,unknown
+sa_fari_010646,jaguar,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006639,kinkajou,ROMERO_12_Arboreal,1,12.555555555555555,1.3285590277777777,True,arboreal
+sa_fari_007701,night monkey,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_010937,ninebanded armadillo,MS#138_sorted,1,13.0,0.75390625,True,unknown
+sa_fari_005131,northern tamandua,MS#114_sorted,1,13.197,1.5026041666666667,True,unknown
+sa_fari_010809,ocelot,MS#90_sorted,1,13.466666666666667,0.6848958333333334,True,unknown
+sa_fari_007451,paca,DIAMANTE_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002965,porcupine,colpa_004,1,20.35,0.1657986111111111,True,unknown
+sa_fari_001180,puma,MLC_20_Terrestrial,1,12.555555555555555,1.2994791666666667,True,terrestrial
+sa_fari_007390,red brocket deer,MS#73_sorted,1,13.366666666666667,0.3177083333333333,True,unknown
+sa_fari_008275,red-billed currasow,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010327,squirrel,SALED#2_B_sorted,1,15.033333333333333,99.81119791666667,False,unknown
+sa_fari_004321,squirrel monkey,arb_022,1,25.7,21.64105902777778,False,arboreal
+sa_fari_001135,trumpeter,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_004985,white-nosed coati,MS#119_sorted,1,13.6,21.09201388888889,False,unknown
+sa_fari_010222,agouti,MS#101_sorted,1,13.0,85.32508680555556,False,unknown
+sa_fari_004689,baird's tapir,MS#3_sorted,1,13.197,1.48828125,True,unknown
+sa_fari_002403,capuchin monkey,arb_013,1,15.0,104.53428819444444,False,arboreal
+sa_fari_005226,collared peccary,MLC_20_Terrestrial,1,12.666666666666666,1.3263888888888888,True,terrestrial
+sa_fari_007983,common opossum,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005625,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3333333333333333,True,unknown
+sa_fari_000916,four-eyed opossum,MS#151_sorted,1,13.777777777777779,1.8250868055555556,True,unknown
+sa_fari_004187,great tinamou,MS#154_sorted,1,13.777777777777779,1.8133680555555556,True,unknown
+sa_fari_010403,jaguar,ROMERO_18_Terrestrial,1,12.3,28.317708333333332,False,terrestrial
+sa_fari_008659,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5264756944444444,True,arboreal
+sa_fari_002268,night monkey,DIAMANTE_15_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_009478,ninebanded armadillo,SHINTUYA_17_Terrestrial,1,12.277777777777779,0.0,True,terrestrial
+sa_fari_011685,northern tamandua,MS#80_sorted,1,10.0,0.3385416666666667,True,unknown
+sa_fari_006170,ocelot,ROMERO_15_Terrestrial,1,12.5,1.5863715277777777,True,terrestrial
+sa_fari_009800,paca,DIAMANTE_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_000838,porcupine,colpa_009,1,1.5,0.1480034722222222,True,unknown
+sa_fari_006307,puma,MS#110_sorted,1,10.0,43.670572916666664,False,unknown
+sa_fari_004169,red brocket deer,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3003472222222223,True,terrestrial
+sa_fari_006612,red-billed currasow,ROMERO_18_Terrestrial,1,11.8,17.96875,False,terrestrial
+sa_fari_005864,squirrel,MS#96_sorted,1,13.466666666666667,0.3203125,True,unknown
+sa_fari_010034,squirrel monkey,arb_075,1,15.0,120.80295138888889,False,arboreal
+sa_fari_003601,trumpeter,MLC_4_Terrestrial,1,12.7,46.84331597222222,False,terrestrial
+sa_fari_005990,white-nosed coati,MS#114_sorted,1,13.192,20.766493055555557,False,unknown
+sa_fari_002225,agouti,MS#10_sorted,1,13.02746148693905,23.451822916666668,False,unknown
+sa_fari_004812,baird's tapir,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010638,capuchin monkey,arb_013,1,15.0,89.33376736111111,False,arboreal
+sa_fari_002826,collared peccary,colpa_006,1,15.3,12.633680555555555,False,unknown
+sa_fari_007301,common opossum,MS#155_sorted,1,13.777777777777779,1.8190104166666667,True,unknown
+sa_fari_009320,crab-eating raccoon,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_002521,four-eyed opossum,MS#156_sorted,1,13.466666666666667,0.6840277777777778,True,unknown
+sa_fari_010353,great tinamou,MS#108_sorted,1,13.192,21.739149305555557,False,unknown
+sa_fari_011090,jaguar,DIAMANTE_20_Terrestrial,1,12.6,13.430121527777779,False,terrestrial
+sa_fari_008293,kinkajou,ROMERO_12_Arboreal,1,12.555555555555555,1.3233506944444444,True,arboreal
+sa_fari_008156,night monkey,MLC_7_Arboreal,1,12.555555555555555,1.5316840277777777,True,arboreal
+sa_fari_006779,ninebanded armadillo,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_009940,northern tamandua,MS#80_sorted,1,10.0,0.3376736111111111,True,unknown
+sa_fari_005618,ocelot,MS#119_sorted,1,13.666666666666666,1.3302951388888888,True,unknown
+sa_fari_007768,paca,MS#108_sorted,1,13.2,1.3511284722222223,True,unknown
+sa_fari_004293,porcupine,colpa_009,1,20.0,0.1566840277777778,True,unknown
+sa_fari_007009,puma,DIAMANTE_3_Terrestrial,1,12.566666666666666,9.852430555555555,False,terrestrial
+sa_fari_006122,red brocket deer,ROMERO_15_Terrestrial,1,12.666666666666666,1.3389756944444444,True,terrestrial
+sa_fari_000884,red-billed currasow,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_002308,squirrel,MS#144_sorted,1,13.766666666666667,25.47612847222222,False,unknown
+sa_fari_002616,squirrel monkey,arb_062,1,20.2,56.18272569444444,False,arboreal
+sa_fari_011018,trumpeter,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002624,white-nosed coati,MS#118_sorted,1,13.555555555555555,1.328125,True,unknown
+sa_fari_006819,agouti,MS#103_sorted,1,13.0,1.3020833333333333,True,unknown
+sa_fari_005141,baird's tapir,ROMERO_7_Terrestrial,1,12.5,1.4544270833333333,True,terrestrial
+sa_fari_007995,capuchin monkey,arb_004,1,20.2,56.98003472222222,False,arboreal
+sa_fari_002705,collared peccary,MS#82_sorted,1,10.0,20.50390625,False,unknown
+sa_fari_002449,common opossum,MLC_11_Arboreal,1,14.555555555555555,1.3532986111111112,True,arboreal
+sa_fari_006284,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3203125,True,unknown
+sa_fari_011311,four-eyed opossum,SHINTUYA_8_Arboreal,1,12.555555555555555,1.4552951388888888,True,arboreal
+sa_fari_004129,great tinamou,MS#108_sorted,1,13.192,25.0546875,False,unknown
+sa_fari_011696,jaguar,ROMERO_3_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_008249,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007739,night monkey,DIAMANTE_2_Arboreal,1,12.5,1.4752604166666667,True,arboreal
+sa_fari_004690,ninebanded armadillo,MS#96_sorted,1,13.366666666666667,0.31640625,True,unknown
+sa_fari_006338,northern tamandua,MS#87_sorted,1,13.0,0.7795138888888888,True,unknown
+sa_fari_001495,ocelot,MS#137_sorted,1,13.366666666666667,0.3190104166666667,True,unknown
+sa_fari_001816,paca,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_008973,porcupine,colpa_010,0,0.5,0.0646701388888889,True,unknown
+sa_fari_009823,puma,SALED#2_B_sorted,1,15.0,1.3064236111111112,True,unknown
+sa_fari_005924,red brocket deer,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004930,red-billed currasow,MLC_20_Terrestrial,1,12.666666666666666,1.3103298611111112,True,terrestrial
+sa_fari_006527,squirrel,ROMERO_12_Arboreal,1,12.6,16.967881944444443,False,arboreal
+sa_fari_005970,squirrel monkey,MS#6_sorted,1,13.191205862758162,15.75564236111111,False,unknown
+sa_fari_002113,trumpeter,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006939,white-nosed coati,MS#128_sorted,1,13.566666666666666,107.17057291666667,False,unknown
+sa_fari_008312,agouti,ROMERO_7_Terrestrial,1,12.666666666666666,1.3342013888888888,True,terrestrial
+sa_fari_007673,baird's tapir,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007399,capuchin monkey,arb_002,1,15.0,1.15625,True,arboreal
+sa_fari_011305,collared peccary,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010436,common opossum,MS#7_sorted,1,13.197,1.5030381944444444,True,unknown
+sa_fari_003438,crab-eating raccoon,MS#121_sorted,1,13.555555555555555,1.4223090277777777,True,unknown
+sa_fari_008310,four-eyed opossum,MS#156_sorted,1,13.466666666666667,0.6857638888888888,True,unknown
+sa_fari_001205,great tinamou,MS#93_sorted,1,13.157894736842106,26.987413194444443,False,unknown
+sa_fari_009667,jaguar,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3411458333333333,True,terrestrial
+sa_fari_007748,kinkajou,ROMERO_3_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_009588,night monkey,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5416666666666667,True,arboreal
+sa_fari_007622,ninebanded armadillo,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_007667,northern tamandua,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_008520,ocelot,MS#113_sorted,1,11.166666666666666,15.27126736111111,False,unknown
+sa_fari_010744,paca,DIAMANTE_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_008760,porcupine,colpa_005,1,20.0,0.1662326388888889,True,unknown
+sa_fari_005205,puma,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004869,red brocket deer,MLC_14_Terrestrial,1,12.5,1.48046875,True,terrestrial
+sa_fari_011021,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3298611111111112,True,terrestrial
+sa_fari_008862,squirrel,MS#154_sorted,1,13.777777777777779,1.80859375,True,unknown
+sa_fari_002137,squirrel monkey,arb_025,1,20.25,34.95789930555556,False,arboreal
+sa_fari_006721,trumpeter,DIAMANTE_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009269,white-nosed coati,MS#12_sorted,1,13.192,25.661458333333332,False,unknown
+sa_fari_004488,agouti,AGJ#5_sorted,1,13.0,24.567708333333332,False,unknown
+sa_fari_010194,baird's tapir,MS#7_sorted,1,13.192,28.65017361111111,False,unknown
+sa_fari_011265,capuchin monkey,arb_039,1,15.0,23.796006944444443,False,arboreal
+sa_fari_003343,collared peccary,MS#3_sorted,1,13.2,1.3480902777777777,True,unknown
+sa_fari_011389,common opossum,MS#154_sorted,1,13.777777777777779,1.8255208333333333,True,unknown
+sa_fari_011670,crab-eating raccoon,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_000845,four-eyed opossum,MS#154_sorted,1,13.777777777777779,1.8250868055555556,True,unknown
+sa_fari_003776,great tinamou,MS#87_sorted,1,13.0,0.7547743055555556,True,unknown
+sa_fari_005792,jaguar,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006151,kinkajou,ROMERO_14_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_000992,night monkey,ROMERO_7_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_004719,ninebanded armadillo,MS#116_sorted,1,11.166666666666666,0.69140625,True,unknown
+sa_fari_002253,northern tamandua,MS#12_sorted,1,13.157894736842106,31.09939236111111,False,unknown
+sa_fari_003596,ocelot,colpa_017,1,15.35,18.575086805555557,False,unknown
+sa_fari_003306,paca,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_010888,porcupine,colpa_004,1,20.0,0.16493055555555555,True,unknown
+sa_fari_007978,puma,ROMERO_20_Terrestrial,1,12.5,1.4518229166666667,True,terrestrial
+sa_fari_006342,red brocket deer,ROMERO_20_Terrestrial,1,12.6,26.727430555555557,False,terrestrial
+sa_fari_009873,red-billed currasow,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004522,squirrel,MS#152_sorted,1,13.7,23.489583333333332,False,unknown
+sa_fari_002547,squirrel monkey,arb_002,1,15.190999999999999,36.446614583333336,False,arboreal
+sa_fari_002187,trumpeter,MLC_4_Terrestrial,1,12.7,27.96657986111111,False,terrestrial
+sa_fari_010812,white-nosed coati,MS#103_sorted,1,13.0,135.97178819444446,False,unknown
+sa_fari_006193,agouti,MS#15_sorted,1,13.0,17.57769097222222,False,unknown
+sa_fari_004164,baird's tapir,MS#2_revised,1,20.453766666666667,0.78515625,True,unknown
+sa_fari_004631,capuchin monkey,arb_010,1,15.0,31.399305555555557,False,arboreal
+sa_fari_008182,collared peccary,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_005488,common opossum,MS#110_sorted,1,10.0,0.3489583333333333,True,unknown
+sa_fari_002755,crab-eating raccoon,MS#154_sorted,1,13.777777777777779,1.8220486111111112,True,unknown
+sa_fari_008325,four-eyed opossum,ROMERO_12_Arboreal,1,12.666666666666666,1.31640625,True,arboreal
+sa_fari_001059,great tinamou,MS#12_sorted,1,13.292,27.294270833333332,False,unknown
+sa_fari_001042,jaguar,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006054,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3498263888888888,True,arboreal
+sa_fari_004768,night monkey,DIAMANTE_16_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_011094,ninebanded armadillo,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004651,northern tamandua,MS#80_sorted,1,9.7,32.407552083333336,False,unknown
+sa_fari_008936,ocelot,NL#1_revised,1,13.033333333333333,1.3107638888888888,True,unknown
+sa_fari_006533,paca,DIAMANTE_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_009304,porcupine,colpa_010,1,17.0,0.1579861111111111,True,unknown
+sa_fari_006775,puma,ROMERO_16_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001916,red brocket deer,DIAMANTE_8_Terrestrial,1,12.666666666666666,1.3307291666666667,True,terrestrial
+sa_fari_003795,red-billed currasow,MLC_20_Terrestrial,1,12.666666666666666,1.3328993055555556,True,terrestrial
+sa_fari_007666,squirrel,MS#114_sorted,1,13.192,18.417100694444443,False,unknown
+sa_fari_006080,squirrel monkey,arb_049,1,30.182000000000002,36.13671875,False,arboreal
+sa_fari_007822,trumpeter,MLC_4_Terrestrial,1,12.8,45.404947916666664,False,terrestrial
+sa_fari_007179,white-nosed coati,MS#92_sorted,1,13.157894736842106,26.86501736111111,False,unknown
+sa_fari_003454,agouti,MS#6_sorted,1,13.191205862758162,23.048177083333332,False,unknown
+sa_fari_004103,baird's tapir,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3394097222222223,True,terrestrial
+sa_fari_000949,capuchin monkey,ROMERO_14_Arboreal,1,12.6,21.37326388888889,False,arboreal
+sa_fari_003418,collared peccary,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_008475,common opossum,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_006214,crab-eating raccoon,MLC_14_Terrestrial,1,12.5,1.3602430555555556,True,terrestrial
+sa_fari_002283,four-eyed opossum,MS#143_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_006432,great tinamou,MS#74_sorted,1,13.466666666666667,0.3220486111111111,True,unknown
+sa_fari_008692,jaguar,ROMERO_15_Terrestrial,1,12.555555555555555,1.3294270833333333,True,terrestrial
+sa_fari_009573,kinkajou,ROMERO_2_Arboreal,1,12.666666666666666,0.0,True,arboreal
+sa_fari_003619,night monkey,MLC_12_Arboreal,1,12.5,1.40234375,True,arboreal
+sa_fari_002845,ninebanded armadillo,MS#128_sorted,1,13.366666666666667,0.3177083333333333,True,unknown
+sa_fari_010463,northern tamandua,MS#104_sorted,1,13.0,1.3051215277777777,True,unknown
+sa_fari_008402,ocelot,NL#1_revised,1,13.0,1.3368055555555556,True,unknown
+sa_fari_011007,paca,ROMERO_18_Terrestrial,1,12.277777777777779,0.0,True,terrestrial
+sa_fari_010379,porcupine,colpa_009,1,5.5,0.15711805555555555,True,unknown
+sa_fari_010232,puma,DIAMANTE_10_Terrestrial,1,12.566666666666666,14.043836805555555,False,terrestrial
+sa_fari_010804,red brocket deer,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001442,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3328993055555556,True,terrestrial
+sa_fari_009593,squirrel,MS#96_sorted,1,13.366666666666667,0.3216145833333333,True,unknown
+sa_fari_008906,squirrel monkey,arb_014,1,7.2,32.974826388888886,False,arboreal
+sa_fari_007183,trumpeter,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010855,white-nosed coati,MS#118_sorted,1,13.7,18.457899305555557,False,unknown
+sa_fari_001090,agouti,MS#112_sorted,1,13.0,147.97265625,False,unknown
+sa_fari_001288,baird's tapir,MLC_4_Terrestrial,1,12.5,1.3298611111111112,True,terrestrial
+sa_fari_011687,capuchin monkey,arb_019,1,10.193999999999999,25.25217013888889,False,arboreal
+sa_fari_011708,collared peccary,MS#116_sorted,1,10.666666666666666,32.89887152777778,False,unknown
+sa_fari_002332,common opossum,MS#103_sorted,1,13.0,1.4518229166666667,True,unknown
+sa_fari_005521,crab-eating raccoon,MS#114_sorted,1,13.197,1.5034722222222223,True,unknown
+sa_fari_009381,four-eyed opossum,MS#155_sorted,1,13.777777777777779,1.8003472222222223,True,unknown
+sa_fari_009213,great tinamou,MS#154_sorted,1,13.766666666666667,50.533420138888886,False,unknown
+sa_fari_003441,jaguar,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002757,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007894,night monkey,ROMERO_14_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007116,ninebanded armadillo,MS#108_sorted,1,13.2,1.3428819444444444,True,unknown
+sa_fari_008855,northern tamandua,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001105,ocelot,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005330,paca,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005566,puma,MS#110_sorted,1,10.0,43.271701388888886,False,unknown
+sa_fari_006445,red brocket deer,MS#73_sorted,1,13.3,0.3203125,True,unknown
+sa_fari_008017,red-billed currasow,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_008203,squirrel,MS#16_sorted,1,13.0,0.0,True,unknown
+sa_fari_006442,squirrel monkey,arb_030,1,15.0,1.1380208333333333,True,arboreal
+sa_fari_002411,trumpeter,ROMERO_15_Terrestrial,1,12.555555555555555,1.3220486111111112,True,terrestrial
+sa_fari_002687,white-nosed coati,MS#16_sorted,1,13.0,28.385850694444443,False,unknown
+sa_fari_008826,agouti,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006505,baird's tapir,ROMERO_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002220,capuchin monkey,arb_009,1,20.2,43.943576388888886,False,arboreal
+sa_fari_003899,collared peccary,MLC_20_Terrestrial,1,12.666666666666666,1.3276909722222223,True,terrestrial
+sa_fari_007582,common opossum,MS#108_sorted,1,13.197,1.4826388888888888,True,unknown
+sa_fari_006776,crab-eating raccoon,MLC_20_Terrestrial,1,12.666666666666666,1.3016493055555556,True,terrestrial
+sa_fari_009841,four-eyed opossum,MS#133_sorted,1,13.0,0.7565104166666666,True,unknown
+sa_fari_011491,great tinamou,AGJ#2_sorted,1,13.0,15.046875,False,unknown
+sa_fari_003269,jaguar,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001572,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4678819444444444,True,arboreal
+sa_fari_009871,night monkey,ROMERO_7_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_010539,ninebanded armadillo,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001364,northern tamandua,MS#6_sorted,1,13.197,1.4865451388888888,True,unknown
+sa_fari_005283,ocelot,ROMERO_20_Terrestrial,1,12.5,1.3411458333333333,True,terrestrial
+sa_fari_008811,paca,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003167,puma,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001400,red brocket deer,DIAMANTE_8_Terrestrial,1,12.555555555555555,1.3368055555555556,True,terrestrial
+sa_fari_010598,red-billed currasow,MLC_14_Terrestrial,1,12.555555555555555,1.31640625,True,terrestrial
+sa_fari_004262,squirrel,MS#144_sorted,1,13.766666666666667,23.772135416666668,False,unknown
+sa_fari_006606,squirrel monkey,ROMERO_7_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_004581,trumpeter,ROMERO_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_005880,white-nosed coati,MS#133_sorted,1,13.0,39.963107638888886,False,unknown
+sa_fari_009517,agouti,ROMERO_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006372,baird's tapir,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008409,capuchin monkey,arb_006,1,15.0,23.6015625,False,arboreal
+sa_fari_002575,collared peccary,MS#73_sorted,1,13.366666666666667,67.18923611111111,False,unknown
+sa_fari_003006,common opossum,MS#152_sorted,1,13.777777777777779,1.8250868055555556,True,unknown
+sa_fari_002416,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4683159722222223,True,unknown
+sa_fari_003647,four-eyed opossum,ROMERO_12_Arboreal,1,12.666666666666666,1.3133680555555556,True,arboreal
+sa_fari_002820,great tinamou,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009758,jaguar,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011275,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_011369,night monkey,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007721,ninebanded armadillo,MS#123_sorted,1,13.466666666666667,0.3190104166666667,True,unknown
+sa_fari_004314,northern tamandua,MS#80_sorted,1,10.05,40.71875,False,unknown
+sa_fari_009339,ocelot,MS#3_sorted,1,13.397,1.4878472222222223,True,unknown
+sa_fari_004133,paca,MS#13_sorted,1,13.197,1.5004340277777777,True,unknown
+sa_fari_009039,puma,SHINTUYA_17_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001673,red brocket deer,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004328,red-billed currasow,ROMERO_12_Arboreal,1,12.666666666666666,1.32421875,True,arboreal
+sa_fari_006943,squirrel,MS#152_sorted,1,13.766666666666667,23.286458333333332,False,unknown
+sa_fari_005706,squirrel monkey,arb_001,1,15.190999999999999,28.75,False,arboreal
+sa_fari_011315,trumpeter,MLC_14_Terrestrial,1,12.666666666666666,1.3346354166666667,True,terrestrial
+sa_fari_007581,white-nosed coati,MS#122_sorted,1,13.666666666666666,0.0,True,unknown
+sa_fari_005893,agouti,MS#90_sorted,1,13.466666666666667,0.68359375,True,unknown
+sa_fari_010637,baird's tapir,MLC_20_Terrestrial,1,12.555555555555555,1.3211805555555556,True,terrestrial
+sa_fari_001794,capuchin monkey,ROMERO_7_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_001472,collared peccary,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_011409,common opossum,MS#123_sorted,1,13.466666666666667,0.31640625,True,unknown
+sa_fari_011658,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.4275173611111111,True,unknown
+sa_fari_004841,four-eyed opossum,ROMERO_12_Arboreal,1,12.666666666666666,1.3224826388888888,True,arboreal
+sa_fari_007839,great tinamou,MS#7_sorted,1,13.192,31.17361111111111,False,unknown
+sa_fari_002189,jaguar,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010107,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_009072,night monkey,ROMERO_14_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_009975,ninebanded armadillo,MS#148_sorted,1,13.777777777777779,1.8155381944444444,True,unknown
+sa_fari_002715,northern tamandua,MS#7_sorted,1,13.157894736842106,31.957899305555557,False,unknown
+sa_fari_005200,ocelot,MS#101_sorted,1,13.0,69.2734375,False,unknown
+sa_fari_002652,paca,SHINTUYA_7_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_009073,puma,MS#93_sorted,1,13.197,1.4856770833333333,True,unknown
+sa_fari_005162,red brocket deer,MS#13_sorted,1,13.2,1.3689236111111112,True,unknown
+sa_fari_008649,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3198784722222223,True,terrestrial
+sa_fari_007312,squirrel,MS#149_sorted,1,13.866666666666667,82.88498263888889,False,unknown
+sa_fari_005045,squirrel monkey,arb_069,1,20.2,26.37543402777778,False,arboreal
+sa_fari_009097,trumpeter,DIAMANTE_3_Terrestrial,1,12.6,18.279947916666668,False,terrestrial
+sa_fari_005349,white-nosed coati,MS#73_sorted,1,13.466666666666667,0.3203125,True,unknown
+sa_fari_007307,agouti,MS#12_sorted,1,13.192,26.41059027777778,False,unknown
+sa_fari_001723,baird's tapir,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001798,capuchin monkey,MS#80_sorted,1,10.0,39.787326388888886,False,unknown
+sa_fari_007101,collared peccary,MS#12_sorted,1,13.157894736842106,32.286892361111114,False,unknown
+sa_fari_006642,common opossum,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006478,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.4361979166666667,True,unknown
+sa_fari_001845,four-eyed opossum,SHINTUYA_16_Arboreal,1,12.555555555555555,1.5403645833333333,True,arboreal
+sa_fari_001011,great tinamou,MS#119_sorted,1,13.777777777777779,1.3324652777777777,True,unknown
+sa_fari_005841,jaguar,ROMERO_15_Terrestrial,1,12.666666666666666,1.3315972222222223,True,terrestrial
+sa_fari_002210,kinkajou,MLC_2_Arboreal,1,12.555555555555555,1.3493923611111112,True,arboreal
+sa_fari_006774,night monkey,ROMERO_12_Arboreal,1,12.555555555555555,1.3394097222222223,True,arboreal
+sa_fari_004295,ninebanded armadillo,MS#152_sorted,1,13.777777777777779,1.8216145833333333,True,unknown
+sa_fari_002555,northern tamandua,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_005342,ocelot,ROMERO_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_009218,paca,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_005130,puma,ROMERO_20_Terrestrial,1,12.555555555555555,1.4921875,True,terrestrial
+sa_fari_002892,red brocket deer,colpa_001,1,10.25,0.23524305555555555,True,unknown
+sa_fari_002070,red-billed currasow,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_006024,squirrel,MS#149_sorted,1,13.777777777777779,2.0638020833333335,True,unknown
+sa_fari_003975,squirrel monkey,arb_067,1,20.2,86.71397569444444,False,arboreal
+sa_fari_006815,trumpeter,ROMERO_18_Terrestrial,1,11.9,17.05251736111111,False,terrestrial
+sa_fari_005157,white-nosed coati,MS#6_sorted,1,13.192,16.75737847222222,False,unknown
+sa_fari_005375,agouti,ROMERO_16_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_004039,baird's tapir,DIAMANTE_5_Terrestrial,1,12.555555555555555,1.3628472222222223,True,terrestrial
+sa_fari_004734,capuchin monkey,SHINTUYA_2_Arboreal,1,12.555555555555555,1.3489583333333333,True,arboreal
+sa_fari_007627,collared peccary,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001127,common opossum,MS#3_sorted,1,13.197,1.4891493055555556,True,unknown
+sa_fari_002513,crab-eating raccoon,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_002590,four-eyed opossum,MS#151_sorted,1,13.777777777777779,1.8298611111111112,True,unknown
+sa_fari_006517,great tinamou,MS#10_sorted,1,13.096,17.09201388888889,False,unknown
+sa_fari_002090,jaguar,MLC_4_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010843,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_002325,night monkey,MLC_13_Arboreal,1,14.555555555555555,1.5217013888888888,True,arboreal
+sa_fari_010502,ninebanded armadillo,MS#123_sorted,1,13.466666666666667,0.31640625,True,unknown
+sa_fari_001358,northern tamandua,MS#93_sorted,1,13.197,1.4874131944444444,True,unknown
+sa_fari_003644,ocelot,ROMERO_15_Terrestrial,1,12.555555555555555,1.4665798611111112,True,terrestrial
+sa_fari_005602,paca,MS#114_sorted,1,13.197,1.5013020833333333,True,unknown
+sa_fari_003427,puma,DIAMANTE_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004356,red brocket deer,MS#16_sorted,1,13.0,0.0,True,unknown
+sa_fari_009101,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.32421875,True,terrestrial
+sa_fari_007786,squirrel,ROMERO_12_Arboreal,1,12.666666666666666,1.3337673611111112,True,arboreal
+sa_fari_001791,squirrel monkey,arb_003,1,20.0,35.41319444444444,False,arboreal
+sa_fari_008817,trumpeter,MLC_14_Terrestrial,1,12.5,1.3333333333333333,True,terrestrial
+sa_fari_002650,white-nosed coati,MS#108_sorted,1,13.192,22.05902777777778,False,unknown
+sa_fari_011060,agouti,MS#74_sorted,1,13.466666666666667,14.990885416666666,False,unknown
+sa_fari_001690,baird's tapir,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008771,capuchin monkey,arb_004,1,20.2,62.787326388888886,False,arboreal
+sa_fari_001047,collared peccary,MS#6_sorted,1,13.192,16.75998263888889,False,unknown
+sa_fari_007208,common opossum,ROMERO_2_Arboreal,1,12.666666666666666,0.0,True,arboreal
+sa_fari_004072,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3129340277777777,True,unknown
+sa_fari_002529,four-eyed opossum,MS#175_sorted,1,13.555555555555555,1.3255208333333333,True,unknown
+sa_fari_002860,great tinamou,MS#103_sorted,1,13.0,1.3125,True,unknown
+sa_fari_005560,jaguar,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003883,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.34765625,True,arboreal
+sa_fari_010603,night monkey,DIAMANTE_2_Arboreal,1,12.5,1.4596354166666667,True,arboreal
+sa_fari_005035,ninebanded armadillo,MS#153_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_003555,northern tamandua,MS#104_sorted,1,13.0,1.3059895833333333,True,unknown
+sa_fari_004646,ocelot,colpa_016,1,10.25,0.3177083333333333,True,unknown
+sa_fari_006249,paca,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006075,puma,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006530,red brocket deer,ROMERO_10_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_005050,red-billed currasow,SHINTUYA_18_Terrestrial,1,12.777777777777779,0.0,True,terrestrial
+sa_fari_010656,squirrel,MS#164_sorted,1,13.777777777777779,0.0,True,unknown
+sa_fari_005907,squirrel monkey,arb_038,1,15.0,20.207899305555557,False,arboreal
+sa_fari_005701,trumpeter,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007724,white-nosed coati,MS#138_sorted,1,13.0,0.7612847222222222,True,unknown
+sa_fari_005862,agouti,MS#137_sorted,1,13.466666666666667,0.3207465277777778,True,unknown
+sa_fari_011465,baird's tapir,AGJ#3_sorted,1,13.0,29.836805555555557,False,unknown
+sa_fari_007900,capuchin monkey,SHINTUYA_2_Arboreal,1,12.555555555555555,1.3363715277777777,True,arboreal
+sa_fari_010540,collared peccary,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_002465,common opossum,MS#108_sorted,1,13.197,1.4869791666666667,True,unknown
+sa_fari_001654,crab-eating raccoon,MS#114_sorted,1,13.197,1.5017361111111112,True,unknown
+sa_fari_002013,four-eyed opossum,MS#154_sorted,1,13.777777777777779,1.8250868055555556,True,unknown
+sa_fari_007744,great tinamou,MS#12_sorted,1,13.192,30.833333333333332,False,unknown
+sa_fari_007241,jaguar,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007497,kinkajou,ROMERO_12_Arboreal,1,12.666666666666666,1.3355034722222223,True,arboreal
+sa_fari_010153,night monkey,MLC_12_Arboreal,1,12.38888888888889,1.4730902777777777,True,arboreal
+sa_fari_005764,ninebanded armadillo,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_008886,northern tamandua,MS#6_sorted,1,13.157894736842106,18.29644097222222,False,unknown
+sa_fari_011578,ocelot,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002157,paca,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011692,puma,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010105,red brocket deer,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_003180,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3441840277777777,True,terrestrial
+sa_fari_005979,squirrel,colpa008,1,20.0,74.40928819444444,False,unknown
+sa_fari_009894,squirrel monkey,arb_024,1,20.5,51.837239583333336,False,arboreal
+sa_fari_001065,trumpeter,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_003157,white-nosed coati,MS#154_sorted,1,13.766666666666667,33.756076388888886,False,unknown
+sa_fari_001318,agouti,DIAMANTE_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_009348,baird's tapir,MS#7_sorted,1,13.157894736842106,30.41970486111111,False,unknown
+sa_fari_002125,capuchin monkey,ROMERO_12_Arboreal,1,12.666666666666666,1.3368055555555556,True,arboreal
+sa_fari_002156,collared peccary,MS#103_sorted,1,13.0,1.3155381944444444,True,unknown
+sa_fari_011404,common opossum,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_001774,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3198784722222223,True,unknown
+sa_fari_009745,four-eyed opossum,MS#177_sorted,1,13.466666666666667,0.6822916666666666,True,unknown
+sa_fari_010189,great tinamou,NL#1_revised,1,13.033333333333333,1.3758680555555556,True,unknown
+sa_fari_005565,jaguar,ROMERO_15_Terrestrial,1,12.666666666666666,1.3302951388888888,True,terrestrial
+sa_fari_003105,kinkajou,MLC_2_Arboreal,1,12.5,1.4822048611111112,True,arboreal
+sa_fari_005248,night monkey,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4874131944444444,True,arboreal
+sa_fari_003094,ninebanded armadillo,SALED#2_B_sorted,1,1.0,1.4635416666666667,True,unknown
+sa_fari_005142,northern tamandua,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_006571,ocelot,colpa_016,1,10.25,0.2660590277777778,True,unknown
+sa_fari_005729,paca,MS#5_sorted,1,13.0,1.3159722222222223,True,unknown
+sa_fari_004357,puma,MS#10_sorted,1,13.096559378468369,0.58984375,True,unknown
+sa_fari_008534,red brocket deer,colpa_001,1,10.25,0.2886284722222222,True,unknown
+sa_fari_001299,red-billed currasow,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006773,squirrel,MS#144_sorted,1,13.7,25.725260416666668,False,unknown
+sa_fari_002237,squirrel monkey,arb_061,1,15.190999999999999,18.157118055555557,False,arboreal
+sa_fari_006002,trumpeter,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006880,white-nosed coati,MS#101_sorted,1,13.0,89.66840277777777,False,unknown
+sa_fari_000966,agouti,MS#113_sorted,1,11.166666666666666,17.92230902777778,False,unknown
+sa_fari_006404,baird's tapir,ROMERO_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002958,capuchin monkey,ROMERO_7_Terrestrial,1,12.566666666666666,16.625,False,terrestrial
+sa_fari_011372,collared peccary,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002490,common opossum,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_001983,crab-eating raccoon,MS#175_sorted,1,13.555555555555555,1.3311631944444444,True,unknown
+sa_fari_008759,four-eyed opossum,MS#152_sorted,1,13.777777777777779,1.8229166666666667,True,unknown
+sa_fari_002206,great tinamou,MS#74_sorted,1,13.466666666666667,0.3207465277777778,True,unknown
+sa_fari_003058,jaguar,ROMERO_15_Terrestrial,1,12.5,1.4292534722222223,True,terrestrial
+sa_fari_007093,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3263888888888888,True,arboreal
+sa_fari_001953,night monkey,DIAMANTE_16_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_002147,ninebanded armadillo,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011066,northern tamandua,MS#6_sorted,1,13.2,1.3454861111111112,True,unknown
+sa_fari_010971,ocelot,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_011661,paca,MS#92_sorted,1,13.2,1.3467881944444444,True,unknown
+sa_fari_009904,puma,DIAMANTE_20_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_005261,red brocket deer,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009144,red-billed currasow,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_007282,squirrel,MS#18_first_collection_sorted,1,13.0,54.430989583333336,False,unknown
+sa_fari_011254,squirrel monkey,arb_075,1,15.0,116.96744791666667,False,arboreal
+sa_fari_004417,trumpeter,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002455,white-nosed coati,MS#113_sorted,1,11.166666666666666,14.641059027777779,False,unknown
+sa_fari_006329,agouti,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_006761,baird's tapir,ROMERO_1_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_011224,capuchin monkey,arb_048,1,20.2,24.17144097222222,False,arboreal
+sa_fari_002940,collared peccary,MS#10_sorted,1,13.096,18.92404513888889,False,unknown
+sa_fari_008167,common opossum,MS#114_sorted,1,13.197,1.4995659722222223,True,unknown
+sa_fari_004211,crab-eating raccoon,MLC_20_Terrestrial,1,12.555555555555555,1.3059895833333333,True,terrestrial
+sa_fari_008830,four-eyed opossum,SHINTUYA_7_Arboreal,1,12.555555555555555,1.37890625,True,arboreal
+sa_fari_004587,great tinamou,MS#72_sorted,1,13.466666666666667,23.700520833333332,False,unknown
+sa_fari_008137,jaguar,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006457,kinkajou,ROMERO_15_Arboreal,1,12.5,1.5460069444444444,True,arboreal
+sa_fari_005594,night monkey,ROMERO_7_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_002997,ninebanded armadillo,MS#156_sorted,1,13.466666666666667,0.6853298611111112,True,unknown
+sa_fari_006395,northern tamandua,MS#6_sorted,1,13.157894736842106,18.249131944444443,False,unknown
+sa_fari_011572,ocelot,MS#135_sorted,1,13.0,0.8693576388888888,True,unknown
+sa_fari_008362,paca,MS#13_sorted,1,13.2,1.3576388888888888,True,unknown
+sa_fari_004555,puma,MS#101_sorted,1,13.0,106.51736111111111,False,unknown
+sa_fari_011478,red brocket deer,MS#72_sorted,1,13.2,57.423611111111114,False,unknown
+sa_fari_009853,red-billed currasow,MLC_4_Terrestrial,1,12.666666666666666,1.3363715277777777,True,terrestrial
+sa_fari_001206,squirrel,MS#18_first_collection_sorted,1,13.0,29.85503472222222,False,unknown
+sa_fari_007480,squirrel monkey,arb_067,1,20.2,95.22569444444444,False,arboreal
+sa_fari_004415,trumpeter,ROMERO_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007904,white-nosed coati,MS#13_sorted,1,13.157894736842106,29.594618055555557,False,unknown
+sa_fari_011064,agouti,MS#101_sorted,1,13.0,78.44140625,False,unknown
+sa_fari_002109,baird's tapir,MS#15_sorted,1,13.0,7.167100694444445,False,unknown
+sa_fari_004563,capuchin monkey,SHINTUYA_7_Arboreal,1,12.777777777777779,1.2829861111111112,True,arboreal
+sa_fari_009290,collared peccary,SALED#2_B_sorted,1,15.033333333333333,43.96006944444444,False,unknown
+sa_fari_003014,common opossum,MS#13_sorted,1,13.197,1.5017361111111112,True,unknown
+sa_fari_005361,crab-eating raccoon,AGJ#3_sorted,1,13.0,0.0,True,unknown
+sa_fari_002473,four-eyed opossum,MS#151_sorted,1,13.777777777777779,1.8229166666666667,True,unknown
+sa_fari_004782,great tinamou,MS#110_sorted,1,10.0,44.70703125,False,unknown
+sa_fari_002012,jaguar,MLC_4_Terrestrial,1,12.766666666666667,52.53428819444444,False,terrestrial
+sa_fari_003200,kinkajou,SHINTUYA_11_Arboreal,1,12.555555555555555,1.4483506944444444,True,arboreal
+sa_fari_006726,night monkey,MLC_11_Arboreal,1,14.555555555555555,1.3355034722222223,True,arboreal
+sa_fari_003572,ninebanded armadillo,MS#5_sorted,1,13.0,1.34375,True,unknown
+sa_fari_007723,northern tamandua,MS#80_sorted,1,10.0,43.858072916666664,False,unknown
+sa_fari_006706,ocelot,ROMERO_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002219,paca,MS#84_sorted,1,13.3,0.3220486111111111,True,unknown
+sa_fari_006254,puma,MS#12_sorted,1,13.192,30.69357638888889,False,unknown
+sa_fari_006248,red brocket deer,MLC_4_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_006212,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3328993055555556,True,terrestrial
+sa_fari_010435,squirrel,MS#144_sorted,1,13.766666666666667,25.295572916666668,False,unknown
+sa_fari_010323,squirrel monkey,arb_009,1,20.2,59.416666666666664,False,arboreal
+sa_fari_005276,trumpeter,DIAMANTE_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007389,white-nosed coati,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_006420,agouti,MS#144_sorted,1,13.777777777777779,1.8172743055555556,True,unknown
+sa_fari_009802,baird's tapir,ROMERO_15_Terrestrial,1,12.5,1.5290798611111112,True,terrestrial
+sa_fari_010930,capuchin monkey,arb_011,1,15.0,1.1553819444444444,True,arboreal
+sa_fari_010898,collared peccary,MS#101_sorted,1,13.0,57.618923611111114,False,unknown
+sa_fari_006384,common opossum,MLC_11_Arboreal,1,14.555555555555555,1.3454861111111112,True,arboreal
+sa_fari_005884,crab-eating raccoon,MS#155_sorted,1,13.777777777777779,1.8103298611111112,True,unknown
+sa_fari_007407,four-eyed opossum,ROMERO_14_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_005626,great tinamou,MS#16_sorted,1,13.0,23.9140625,False,unknown
+sa_fari_010942,jaguar,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_001220,kinkajou,ROMERO_3_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_005425,night monkey,ROMERO_12_Arboreal,1,12.555555555555555,1.3237847222222223,True,arboreal
+sa_fari_003088,ninebanded armadillo,MS#144_sorted,1,13.777777777777779,1.8190104166666667,True,unknown
+sa_fari_006967,northern tamandua,MS#103_sorted,1,13.0,1.4123263888888888,True,unknown
+sa_fari_001696,ocelot,ROMERO_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006135,paca,MS#6_sorted,1,13.197,1.4874131944444444,True,unknown
+sa_fari_007330,puma,MS#3_sorted,1,12.893,18.404947916666668,False,unknown
+sa_fari_010075,red brocket deer,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002665,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3311631944444444,True,terrestrial
+sa_fari_006228,squirrel,MS#16_sorted,1,13.0,0.0,True,unknown
+sa_fari_010795,squirrel monkey,arb_021,1,20.2,32.96440972222222,False,arboreal
+sa_fari_010388,trumpeter,SHINTUYA_7_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009160,white-nosed coati,MS#133_sorted,1,13.0,39.467013888888886,False,unknown
+sa_fari_005943,agouti,MS#111_sorted,1,13.0,138.13324652777777,False,unknown
+sa_fari_001340,baird's tapir,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_011164,capuchin monkey,MLC_2_Arboreal,1,12.666666666666666,1.3268229166666667,True,arboreal
+sa_fari_002378,collared peccary,MS#104_sorted,1,13.0,100.26302083333333,False,unknown
+sa_fari_010551,common opossum,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_000952,crab-eating raccoon,MS#121_sorted,1,13.6,19.2265625,False,unknown
+sa_fari_004172,four-eyed opossum,ROMERO_14_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_006882,great tinamou,MS#90_sorted,1,13.466666666666667,0.6822916666666666,True,unknown
+sa_fari_010783,jaguar,ROMERO_15_Terrestrial,1,12.5,1.5,True,terrestrial
+sa_fari_001597,kinkajou,MLC_2_Arboreal,1,12.38888888888889,1.3064236111111112,True,arboreal
+sa_fari_005287,night monkey,ROMERO_14_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_008875,ninebanded armadillo,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002701,northern tamandua,MS#7_sorted,1,13.192,26.09939236111111,False,unknown
+sa_fari_007526,ocelot,MLC_20_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004241,paca,DIAMANTE_20_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_002180,puma,MS#80_sorted,1,10.0,0.3415798611111111,True,unknown
+sa_fari_010002,red brocket deer,MLC_14_Terrestrial,1,12.38888888888889,1.4878472222222223,True,terrestrial
+sa_fari_005569,red-billed currasow,ROMERO_15_Terrestrial,1,12.666666666666666,1.3337673611111112,True,terrestrial
+sa_fari_009356,squirrel,MS#10_sorted,1,13.096,18.821614583333332,False,unknown
+sa_fari_008075,squirrel monkey,arb_030,1,15.0,1.1493055555555556,True,arboreal
+sa_fari_003557,trumpeter,ROMERO_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_006437,white-nosed coati,MS#104_sorted,1,13.0,119.70659722222223,False,unknown
+sa_fari_006788,agouti,MS#93_sorted,1,13.192,26.56814236111111,False,unknown
+sa_fari_007212,baird's tapir,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004273,capuchin monkey,DIAMANTE_15_Arboreal,1,12.5,18.50737847222222,False,arboreal
+sa_fari_011677,collared peccary,MS#101_sorted,1,13.0,54.236979166666664,False,unknown
+sa_fari_003577,common opossum,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002252,crab-eating raccoon,MS#116_sorted,1,10.7,0.4518229166666667,True,unknown
+sa_fari_011238,four-eyed opossum,ROMERO_12_Arboreal,1,12.666666666666666,1.3125,True,arboreal
+sa_fari_005921,great tinamou,MS#177_sorted,1,13.466666666666667,57.440104166666664,False,unknown
+sa_fari_008267,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_010959,night monkey,ROMERO_14_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_001241,ninebanded armadillo,MS#156_sorted,1,13.466666666666667,0.6853298611111112,True,unknown
+sa_fari_008147,northern tamandua,SALED#2_B_sorted,1,15.0,95.03255208333333,False,unknown
+sa_fari_006100,ocelot,MS#175_sorted,1,13.555555555555555,1.3315972222222223,True,unknown
+sa_fari_010868,paca,MS#10_sorted,1,13.152000000000001,7.450520833333333,False,unknown
+sa_fari_002136,puma,MS#2_revised,1,20.487133333333333,18.313802083333332,False,unknown
+sa_fari_006966,red brocket deer,MS#13_sorted,1,13.2,1.3528645833333333,True,unknown
+sa_fari_007339,red-billed currasow,ROMERO_7_Terrestrial,1,12.666666666666666,1.3333333333333333,True,terrestrial
+sa_fari_002199,squirrel,MS#154_sorted,1,13.777777777777779,1.8077256944444444,True,unknown
+sa_fari_003052,squirrel monkey,arb_030,1,15.0,1.1519097222222223,True,arboreal
+sa_fari_006538,trumpeter,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_010097,white-nosed coati,AGJ#2_sorted,1,13.0,19.81032986111111,False,unknown
+sa_fari_006896,agouti,MS#119_sorted,1,13.666666666666666,1.3198784722222223,True,unknown
+sa_fari_010605,baird's tapir,MS#82_sorted,1,10.0,0.3424479166666667,True,unknown
+sa_fari_001247,capuchin monkey,MS#111_sorted,1,13.0,100.99696180555556,False,unknown
+sa_fari_009704,collared peccary,MS#3_sorted,1,13.192,18.41579861111111,False,unknown
+sa_fari_003820,common opossum,MLC_2_Arboreal,1,12.666666666666666,1.5546875,True,arboreal
+sa_fari_005054,crab-eating raccoon,MS#114_sorted,1,13.197,1.5026041666666667,True,unknown
+sa_fari_004225,four-eyed opossum,ROMERO_3_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_002765,great tinamou,MS#6_sorted,1,13.192,22.811631944444443,False,unknown
+sa_fari_004825,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_003673,night monkey,ROMERO_14_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_002279,ninebanded armadillo,MS#118_sorted,1,13.555555555555555,1.3901909722222223,True,unknown
+sa_fari_003721,northern tamandua,MS#112_sorted,1,13.0,1.3072916666666667,True,unknown
+sa_fari_001839,ocelot,ROMERO_7_Terrestrial,1,12.555555555555555,1.52734375,True,terrestrial
+sa_fari_002016,paca,MLC_14_Terrestrial,1,12.38888888888889,1.3754340277777777,True,terrestrial
+sa_fari_001084,puma,MS#2_revised,1,20.42042042042042,0.7361111111111112,True,unknown
+sa_fari_003600,red brocket deer,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007634,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3524305555555556,True,terrestrial
+sa_fari_010894,squirrel,MS#155_sorted,1,13.777777777777779,1.8142361111111112,True,unknown
+sa_fari_006740,squirrel monkey,arb_026,1,15.0,34.59071180555556,False,arboreal
+sa_fari_004569,trumpeter,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001437,white-nosed coati,MS#2_revised,1,20.487133333333333,11.945746527777779,False,unknown
+sa_fari_002673,agouti,MS#18_first_collection_sorted,1,13.0,46.03602430555556,False,unknown
+sa_fari_004083,baird's tapir,SHINTUYA_7_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_008596,capuchin monkey,ROMERO_12_Arboreal,1,12.777777777777779,1.3381076388888888,True,arboreal
+sa_fari_001660,collared peccary,ROMERO_20_Terrestrial,1,12.666666666666666,1.3363715277777777,True,terrestrial
+sa_fari_009527,common opossum,MS#13_sorted,1,13.197,1.5043402777777777,True,unknown
+sa_fari_007409,crab-eating raccoon,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_005776,four-eyed opossum,SHINTUYA_7_Arboreal,1,12.555555555555555,1.34765625,True,arboreal
+sa_fari_009021,great tinamou,MS#7_sorted,1,13.192,26.35373263888889,False,unknown
+sa_fari_011122,kinkajou,ROMERO_12_Arboreal,1,12.555555555555555,1.3315972222222223,True,arboreal
+sa_fari_006318,night monkey,MLC_10_Arboreal,1,12.555555555555555,1.4895833333333333,True,arboreal
+sa_fari_004753,ninebanded armadillo,MS#108_sorted,1,13.197,1.4813368055555556,True,unknown
+sa_fari_004099,northern tamandua,MS#6_sorted,1,13.157894736842106,17.85546875,False,unknown
+sa_fari_004190,ocelot,MS#3_sorted,1,13.397,1.4822048611111112,True,unknown
+sa_fari_002371,paca,MS#111_sorted,1,13.0,1.3051215277777777,True,unknown
+sa_fari_003908,puma,SHINTUYA_14_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004080,red brocket deer,MS#13_sorted,1,13.157894736842106,25.63715277777778,False,unknown
+sa_fari_004351,red-billed currasow,ROMERO_7_Terrestrial,1,12.555555555555555,1.3337673611111112,True,terrestrial
+sa_fari_005396,squirrel,ROMERO_12_Arboreal,1,12.666666666666666,1.3337673611111112,True,arboreal
+sa_fari_010307,squirrel monkey,arb_009,1,15.0,1.1493055555555556,True,arboreal
+sa_fari_007222,trumpeter,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004776,white-nosed coati,MS#112_sorted,1,13.0,179.81206597222223,False,unknown
+sa_fari_002011,agouti,AGJ#1_sorted,1,13.0,21.243055555555557,False,unknown
+sa_fari_008832,baird's tapir,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_002129,capuchin monkey,arb_001,1,15.0,49.96137152777778,False,arboreal
+sa_fari_004006,collared peccary,ROMERO_7_Terrestrial,1,12.666666666666666,1.3337673611111112,True,terrestrial
+sa_fari_005989,common opossum,ROMERO_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004056,crab-eating raccoon,MS#175_sorted,1,13.666666666666666,1.3315972222222223,True,unknown
+sa_fari_010721,four-eyed opossum,MLC_2_Arboreal,1,12.555555555555555,1.4140625,True,arboreal
+sa_fari_003518,great tinamou,MS#13_sorted,1,13.192,31.04513888888889,False,unknown
+sa_fari_011738,kinkajou,ROMERO_3_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_010580,night monkey,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_001501,ninebanded armadillo,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_006840,northern tamandua,MS#108_sorted,1,13.2,1.3519965277777777,True,unknown
+sa_fari_006320,ocelot,MS#113_sorted,1,11.166666666666666,14.87890625,False,unknown
+sa_fari_007523,paca,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007566,puma,ROMERO_15_Terrestrial,1,12.555555555555555,1.4965277777777777,True,terrestrial
+sa_fari_001169,red brocket deer,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001482,red-billed currasow,MLC_14_Terrestrial,1,12.277777777777779,1.3372395833333333,True,terrestrial
+sa_fari_008683,squirrel,MS#18_first_collection_sorted,1,13.0,37.037760416666664,False,unknown
+sa_fari_001527,squirrel monkey,arb_019,1,10.193999999999999,61.84678819444444,False,arboreal
+sa_fari_005128,trumpeter,ROMERO_13_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003512,white-nosed coati,AGJ#1_sorted,1,13.0,18.713541666666668,False,unknown
+sa_fari_004259,agouti,MS#10_sorted,1,13.095634788403865,20.092881944444443,False,unknown
+sa_fari_010162,baird's tapir,MLC_20_Terrestrial,1,12.555555555555555,1.3485243055555556,True,terrestrial
+sa_fari_009978,capuchin monkey,MS#87_sorted,1,13.0,0.7582465277777778,True,unknown
+sa_fari_009028,collared peccary,ROMERO_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003356,common opossum,MS#151_sorted,1,13.777777777777779,1.8198784722222223,True,unknown
+sa_fari_009036,crab-eating raccoon,MS#116_sorted,1,10.666666666666666,0.4318576388888889,True,unknown
+sa_fari_009536,four-eyed opossum,MS#138_sorted,1,13.0,0.7547743055555556,True,unknown
+sa_fari_006293,great tinamou,SALED#2_B_sorted,1,15.033333333333333,136.31814236111111,False,unknown
+sa_fari_001712,kinkajou,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_004905,night monkey,MLC_11_Arboreal,1,14.666666666666666,1.3302951388888888,True,arboreal
+sa_fari_000849,ninebanded armadillo,MS#80_sorted,1,10.0,18.19574652777778,False,unknown
+sa_fari_010071,northern tamandua,SALED#2_B_sorted,1,14.5,1.3064236111111112,True,unknown
+sa_fari_004182,ocelot,MS#116_sorted,1,10.666666666666666,0.4388020833333333,True,unknown
+sa_fari_004193,paca,MS#7_sorted,1,13.197,1.5030381944444444,True,unknown
+sa_fari_001225,puma,MS#108_sorted,1,13.192,28.01519097222222,False,unknown
+sa_fari_003553,red brocket deer,ROMERO_15_Terrestrial,1,12.38888888888889,1.5368923611111112,True,terrestrial
+sa_fari_006581,red-billed currasow,SHINTUYA_7_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002065,squirrel,MS#96_sorted,1,13.366666666666667,0.3185763888888889,True,unknown
+sa_fari_010100,squirrel monkey,arb_021,1,20.0,36.94140625,False,arboreal
+sa_fari_003550,trumpeter,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_009806,white-nosed coati,MS#18_first_collection_sorted,1,13.0,47.39453125,False,unknown
+sa_fari_011368,agouti,MS#13_sorted,1,13.192,26.36328125,False,unknown
+sa_fari_008531,baird's tapir,SHINTUYA_18_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004450,capuchin monkey,arb_023,1,15.190999999999999,42.47612847222222,False,arboreal
+sa_fari_009220,collared peccary,MS#111_sorted,1,13.0,1.4032118055555556,True,unknown
+sa_fari_006209,common opossum,MS#119_sorted,1,13.555555555555555,1.3263888888888888,True,unknown
+sa_fari_009384,crab-eating raccoon,MS#155_sorted,1,13.777777777777779,1.8120659722222223,True,unknown
+sa_fari_008915,four-eyed opossum,MS#154_sorted,1,13.777777777777779,1.8259548611111112,True,unknown
+sa_fari_003798,great tinamou,MS#73_sorted,1,13.466666666666667,0.3211805555555556,True,unknown
+sa_fari_008127,kinkajou,ROMERO_15_Arboreal,1,12.5,1.5377604166666667,True,arboreal
+sa_fari_004566,night monkey,DIAMANTE_1_Arboreal,1,12.38888888888889,0.0,True,arboreal
+sa_fari_008460,ninebanded armadillo,MS#152_sorted,1,13.777777777777779,1.8172743055555556,True,unknown
+sa_fari_004221,northern tamandua,ROMERO_13_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001410,ocelot,MS#103_sorted,1,13.0,1.3793402777777777,True,unknown
+sa_fari_003331,paca,MS#119_sorted,1,13.555555555555555,1.3220486111111112,True,unknown
+sa_fari_006635,puma,ROMERO_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_009005,red brocket deer,MLC_20_Terrestrial,1,12.555555555555555,1.3289930555555556,True,terrestrial
+sa_fari_004374,squirrel,MS#114_sorted,1,13.157894736842106,19.34201388888889,False,unknown
+sa_fari_008661,squirrel monkey,arb_023,1,15.190999999999999,33.7734375,False,arboreal
+sa_fari_003142,trumpeter,ROMERO_3_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_001347,white-nosed coati,MS#119_sorted,1,13.6,26.5703125,False,unknown
+sa_fari_007533,agouti,AGJ#5_sorted,1,13.0,20.28168402777778,False,unknown
+sa_fari_001234,baird's tapir,MS#175_sorted,1,13.7,26.39800347222222,False,unknown
+sa_fari_005834,capuchin monkey,arb_025,1,20.25,31.994791666666668,False,arboreal
+sa_fari_007450,collared peccary,MLC_4_Terrestrial,1,12.7,48.12543402777778,False,terrestrial
+sa_fari_002933,common opossum,MS#16_sorted,1,13.0,0.0,True,unknown
+sa_fari_009805,crab-eating raccoon,MS#118_sorted,1,13.555555555555555,1.4088541666666667,True,unknown
+sa_fari_001700,four-eyed opossum,SHINTUYA_8_Arboreal,1,12.555555555555555,1.4748263888888888,True,arboreal
+sa_fari_004603,great tinamou,MS#13_sorted,1,13.192,30.936631944444443,False,unknown
+sa_fari_005812,kinkajou,ROMERO_14_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_003453,night monkey,SHINTUYA_6_Arboreal,1,12.555555555555555,1.4522569444444444,True,arboreal
+sa_fari_010423,ninebanded armadillo,AGJ#5_sorted,1,13.0,0.0,True,unknown
+sa_fari_004494,northern tamandua,AGJ#2_sorted,1,13.0,0.0,True,unknown
+sa_fari_004325,ocelot,MLC_20_Terrestrial,1,12.555555555555555,1.4244791666666667,True,terrestrial
+sa_fari_010544,paca,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010306,puma,MS#7_sorted,1,13.2,1.3619791666666667,True,unknown
+sa_fari_002358,red brocket deer,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_000961,squirrel,MS#18_first_collection_sorted,1,13.0,16.56206597222222,False,unknown
+sa_fari_008597,squirrel monkey,arb_028,1,15.466666666666667,31.43793402777778,False,arboreal
+sa_fari_000962,trumpeter,DIAMANTE_3_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001265,white-nosed coati,MS#113_sorted,1,10.7,15.986979166666666,False,unknown
+sa_fari_005940,agouti,DIAMANTE_18_Terrestrial,1,12.466666666666667,16.52734375,False,terrestrial
+sa_fari_006405,baird's tapir,DIAMANTE_3_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_007458,capuchin monkey,arb_051,1,20.2,72.33289930555556,False,arboreal
+sa_fari_002749,collared peccary,ROMERO_13_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_010060,common opossum,MLC_7_Arboreal,1,12.5,1.5151909722222223,True,arboreal
+sa_fari_007540,crab-eating raccoon,MS#116_sorted,1,10.7,0.4327256944444444,True,unknown
+sa_fari_007096,four-eyed opossum,MS#152_sorted,1,13.777777777777779,1.8259548611111112,True,unknown
+sa_fari_003625,great tinamou,AGJ#2_sorted,1,13.0,17.665364583333332,False,unknown
+sa_fari_005020,kinkajou,MLC_11_Arboreal,1,14.555555555555555,1.3328993055555556,True,arboreal
+sa_fari_003566,night monkey,ROMERO_3_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_004505,ninebanded armadillo,MS#6_sorted,1,13.197,1.4865451388888888,True,unknown
+sa_fari_008543,ocelot,MS#131_sorted,1,13.555555555555555,0.0,True,unknown
+sa_fari_005930,paca,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001659,puma,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_003473,red brocket deer,SHINTUYA_14_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_001602,squirrel,MS#144_sorted,1,13.7,23.765625,False,unknown
+sa_fari_010933,squirrel monkey,arb_025,1,20.25,40.666232638888886,False,arboreal
+sa_fari_011143,trumpeter,ROMERO_10_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_008464,white-nosed coati,MS#72_sorted,1,13.366666666666667,43.243923611111114,False,unknown
+sa_fari_003367,agouti,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_004065,baird's tapir,ROMERO_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_011314,capuchin monkey,MS#2_revised,1,20.487153820487155,35.803385416666664,False,unknown
+sa_fari_004146,collared peccary,MS#7_sorted,1,13.157894736842106,26.00347222222222,False,unknown
+sa_fari_008865,common opossum,DIAMANTE_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_009785,crab-eating raccoon,MS#114_sorted,1,13.197,1.5043402777777777,True,unknown
+sa_fari_011398,four-eyed opossum,MS#151_sorted,1,13.777777777777779,1.8263888888888888,True,unknown
+sa_fari_010875,great tinamou,MS#92_sorted,1,13.192,22.73828125,False,unknown
+sa_fari_004306,kinkajou,DIAMANTE_16_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_007155,night monkey,MLC_17_Arboreal,1,12.5,1.5546875,True,arboreal
+sa_fari_004570,ninebanded armadillo,MS#177_sorted,1,13.466666666666667,0.6822916666666666,True,unknown
+sa_fari_009661,ocelot,MS#93_sorted,1,13.2,1.3472222222222223,True,unknown
+sa_fari_005791,paca,ROMERO_1_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_009795,puma,MS#110_sorted,1,10.0,43.533420138888886,False,unknown
+sa_fari_011664,red brocket deer,MS#72_sorted,1,13.2,67.94184027777777,False,unknown
+sa_fari_007764,squirrel,MS#113_sorted,1,10.666666666666666,15.074652777777779,False,unknown
+sa_fari_010172,squirrel monkey,arb_024,1,20.5,50.388888888888886,False,arboreal
+sa_fari_003731,trumpeter,ROMERO_10_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_002300,white-nosed coati,MS#155_sorted,1,13.777777777777779,1.8155381944444444,True,unknown
+sa_fari_006461,agouti,AGJ#2_sorted,1,13.0,18.58029513888889,False,unknown
+sa_fari_001223,baird's tapir,DIAMANTE_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_007989,capuchin monkey,arb_038,1,15.0,16.06423611111111,False,arboreal
+sa_fari_011604,collared peccary,MS#119_sorted,1,13.777777777777779,1.3276909722222223,True,unknown
+sa_fari_004634,common opossum,MLC_11_Arboreal,1,14.555555555555555,1.3702256944444444,True,arboreal
+sa_fari_004724,crab-eating raccoon,MS#175_sorted,1,13.777777777777779,1.3342013888888888,True,unknown
+sa_fari_006022,four-eyed opossum,MS#154_sorted,1,13.777777777777779,1.8289930555555556,True,unknown
+sa_fari_008437,great tinamou,MS#152_sorted,1,13.766666666666667,30.21137152777778,False,unknown
+sa_fari_004256,kinkajou,ROMERO_12_Arboreal,1,12.666666666666666,1.3363715277777777,True,arboreal
+sa_fari_006795,night monkey,MLC_16_Arboreal,1,12.555555555555555,1.3359375,True,arboreal
+sa_fari_010860,ninebanded armadillo,MS#155_sorted,1,13.777777777777779,1.8098958333333333,True,unknown
+sa_fari_003177,ocelot,MS#15_sorted,1,13.0,0.0,True,unknown
+sa_fari_005158,paca,MS#114_sorted,1,13.197,1.5030381944444444,True,unknown
+sa_fari_009906,puma,MS#7_sorted,1,13.197,1.5030381944444444,True,unknown
+sa_fari_008527,red brocket deer,MS#80_sorted,1,9.85,43.119791666666664,False,unknown
+sa_fari_004234,squirrel,ROMERO_1_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_004935,squirrel monkey,arb_004,1,20.487133333333333,97.48567708333333,False,arboreal
+sa_fari_010916,trumpeter,SHINTUYA_7_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_009272,white-nosed coati,MS#116_sorted,1,10.666666666666666,43.681423611111114,False,unknown
+sa_fari_007495,agouti,DIAMANTE_8_Terrestrial,1,12.666666666666666,1.3276909722222223,True,terrestrial
+sa_fari_009786,baird's tapir,MLC_4_Terrestrial,1,12.555555555555555,1.3185763888888888,True,terrestrial
+sa_fari_006713,capuchin monkey,arb_005,1,15.291,35.900173611111114,False,arboreal
+sa_fari_003225,collared peccary,MS#12_sorted,1,13.192,27.096788194444443,False,unknown
+sa_fari_010215,common opossum,MS#123_sorted,1,13.466666666666667,0.3142361111111111,True,unknown
+sa_fari_007295,crab-eating raccoon,MS#114_sorted,1,13.197,1.5060763888888888,True,unknown
+sa_fari_002373,four-eyed opossum,SHINTUYA_7_Arboreal,1,12.555555555555555,1.3953993055555556,True,arboreal
+sa_fari_009453,great tinamou,MS#80_sorted,1,10.0,24.69357638888889,False,unknown
+sa_fari_007670,kinkajou,ROMERO_14_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_002213,night monkey,ROMERO_2_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_009781,ninebanded armadillo,MS#104_sorted,1,13.0,1.3572048611111112,True,unknown
+sa_fari_008502,ocelot,DIAMANTE_10_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_009734,paca,DIAMANTE_20_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_011187,puma,MLC_4_Terrestrial,1,12.555555555555555,1.3337673611111112,True,terrestrial
+sa_fari_009506,red brocket deer,DIAMANTE_18_Terrestrial,1,12.5,21.56640625,False,terrestrial
+sa_fari_011680,squirrel,MS#18_first_collection_sorted,1,13.0,17.00954861111111,False,unknown
+sa_fari_009066,squirrel monkey,arb_065,1,20.2,64.82508680555556,False,arboreal
+sa_fari_011487,trumpeter,SHINTUYA_14_Terrestrial,1,12.666666666666666,0.0,True,terrestrial
+sa_fari_002320,white-nosed coati,MS#121_sorted,1,13.6,22.524739583333332,False,unknown
+sa_fari_001160,agouti,MS#137_sorted,1,13.366666666666667,53.693142361111114,False,unknown
+sa_fari_006047,baird's tapir,MS#82_sorted,1,10.0,0.3485243055555556,True,unknown
+sa_fari_005013,capuchin monkey,arb_040,1,15.0,25.55295138888889,False,arboreal
+sa_fari_006909,collared peccary,MS#93_sorted,1,13.157894736842106,22.473524305555557,False,unknown
+sa_fari_005222,common opossum,DIAMANTE_18_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_004015,crab-eating raccoon,AGJ#1_sorted,1,13.0,0.0,True,unknown
+sa_fari_009883,four-eyed opossum,SHINTUYA_16_Arboreal,1,12.555555555555555,1.4322916666666667,True,arboreal
+sa_fari_001209,great tinamou,AGJ#1_sorted,1,13.0,19.505208333333332,False,unknown
+sa_fari_010460,kinkajou,MLC_2_Arboreal,1,12.5,1.4526909722222223,True,arboreal
+sa_fari_009761,night monkey,MLC_3_Arboreal,1,12.055555555555555,1.3932291666666667,True,arboreal
+sa_fari_011679,ninebanded armadillo,MS#72_sorted,1,13.3,0.3111979166666667,True,unknown
+sa_fari_010223,ocelot,DIAMANTE_20_Terrestrial,1,12.38888888888889,0.0,True,terrestrial
+sa_fari_008210,paca,ROMERO_15_Terrestrial,1,12.5,1.5134548611111112,True,terrestrial
+sa_fari_007375,puma,MLC_20_Terrestrial,1,12.6,21.86284722222222,False,terrestrial
+sa_fari_001778,red brocket deer,MS#8_sorted,1,13.0,1.5147569444444444,True,unknown
+sa_fari_006985,squirrel,MS#128_sorted,1,13.566666666666666,115.68229166666667,False,unknown
+sa_fari_005905,squirrel monkey,arb_065,1,20.2,73.03776041666667,False,arboreal
+sa_fari_004387,trumpeter,ROMERO_16_Terrestrial,1,12.555555555555555,0.0,True,terrestrial
+sa_fari_010439,white-nosed coati,MS#121_sorted,1,13.7,22.957899305555557,False,unknown
+sa_fari_009737,agouti,MS#138_sorted,1,13.0,23.55121527777778,False,unknown
+sa_fari_003802,baird's tapir,MS#82_sorted,1,10.0,50.34461805555556,False,unknown
+sa_fari_001921,capuchin monkey,arb_028,1,15.466666666666667,78.22786458333333,False,arboreal
+sa_fari_010709,collared peccary,ROMERO_16_Terrestrial,1,12.5,15.080729166666666,False,terrestrial
+sa_fari_011076,common opossum,ROMERO_7_Arboreal,1,12.555555555555555,0.0,True,arboreal
+sa_fari_001312,crab-eating raccoon,MS#114_sorted,1,13.197,1.5047743055555556,True,unknown
+sa_fari_003027,four-eyed opossum,MS#152_sorted,1,13.777777777777779,1.81640625,True,unknown
+sa_fari_003083,great tinamou,MS#92_sorted,1,13.257828114590273,24.21050347222222,False,unknown
+sa_fari_007046,kinkajou,SHINTUYA_16_Arboreal,1,12.555555555555555,1.41796875,True,arboreal
+sa_fari_003519,night monkey,ROMERO_7_Arboreal,1,12.5,0.0,True,arboreal
+sa_fari_003955,ninebanded armadillo,MS#155_sorted,1,13.777777777777779,1.8098958333333333,True,unknown
+sa_fari_009901,ocelot,MS#108_sorted,1,13.2,1.3415798611111112,True,unknown
+sa_fari_004228,paca,MS#12_sorted,1,13.197,1.4865451388888888,True,unknown
+sa_fari_004393,puma,ROMERO_18_Terrestrial,1,12.166666666666666,0.0,True,terrestrial
+sa_fari_008899,red brocket deer,MLC_14_Terrestrial,1,12.38888888888889,1.3628472222222223,True,terrestrial
+sa_fari_009529,squirrel,AGJ#5_sorted,1,13.0,16.93315972222222,False,unknown
+sa_fari_008612,squirrel monkey,arb_019,1,10.193999999999999,49.7578125,False,arboreal
+sa_fari_005837,trumpeter,ROMERO_18_Terrestrial,1,12.5,0.0,True,terrestrial
+sa_fari_001250,white-nosed coati,MS#135_sorted,1,13.0,0.91796875,True,unknown
