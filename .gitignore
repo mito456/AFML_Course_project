@@ -1,2 +1,21 @@
 # Local task instructions
 /member2/instruction.md
+
+# Large media: never commit. Download from source or the Hugging Face dataset.
+data/media/
+*.mp4
+*.wav
+*.flac
+*.tar
+*.zip
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# outdated uproaches
+outputs/taiwan/selector_outdated
+taiwan/context_selector.py

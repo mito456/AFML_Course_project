@@ -1,0 +1,11 @@
+source,target,policy,setting,pct_on,on_lo,on_hi,pct_caught,caught_lo,caught_hi,stations,owl_hours,owl_hours_caught,recorder_hours,station_hours
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),cutoff 0.107,59.12,56.13,64.61,81.91,77.04,89.14,5,702,575.0,2602.0,4401
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),threshold 0.25,32.29,15.08,49.5,56.32,23.27,65.37,5,702,395.4,1421.2,4401
+Zengwen-Yanshui,Kaoping,"adaptive, no camera tip-off",threshold 0.05,70.99,57.12,83.03,92.05,79.87,95.36,5,702,646.2,3124.4,4401
+Zengwen-Yanshui,Kaoping,"random hours, same budget as adaptive",expected value,32.29,15.08,49.5,32.29,,,5,702,226.69,1421.2,4401
+Zengwen-Yanshui,Kaoping,oracle,knows owl-hours,15.95,,,100.0,100.0,100.0,5,702,702.0,702.0,4401
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),cutoff 0.171,38.83,36.73,40.6,53.79,49.13,79.55,8,883,475.0,3057.0,7873
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),threshold 0.13,35.32,22.56,53.5,88.88,41.21,97.0,8,883,784.8,2780.4,7873
+Kaoping,Zengwen-Yanshui,"adaptive, no camera tip-off",threshold 0.07,56.84,47.5,68.28,94.34,66.5,97.9,8,883,833.0,4475.2,7873
+Kaoping,Zengwen-Yanshui,"random hours, same budget as adaptive",expected value,35.32,22.56,53.5,35.32,,,8,883,311.84,2780.4,7873
+Kaoping,Zengwen-Yanshui,oracle,knows owl-hours,11.22,,,100.0,100.0,100.0,8,883,883.0,883.0,7873
