@@ -1,0 +1,111 @@
+source,target,policy,threshold,pct_on,pct_caught
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.02,94.1,99.64
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.03,88.01,99.32
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.05,64.32,96.47
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.07,48.33,92.41
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.1,34.77,88.27
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.13,29.02,86.48
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.16,26.37,84.76
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.2,25.32,83.92
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.25,24.56,82.54
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.3,23.57,78.12
+Zengwen-Yanshui,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating) (tuning on source),0.4,22.19,71.39
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.02,92.93,99.89
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.03,88.05,98.69
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.05,71.77,91.71
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.07,62.29,87.75
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.1,50.36,77.66
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.13,43.54,71.54
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.16,40.35,68.55
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.2,36.43,63.79
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.25,32.29,56.32
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.3,29.42,49.89
+Zengwen-Yanshui,Kaoping,adaptive (borrowed prior + nightly updating),0.4,25.41,41.34
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.02,92.8,94.72
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.03,85.73,87.86
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.05,60.88,83.04
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.07,43.73,78.35
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.1,28.42,69.99
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.13,21.95,67.0
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.16,19.13,65.5
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.2,17.9,62.08
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.25,17.19,59.46
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.3,14.66,43.96
+Zengwen-Yanshui,Zengwen-Yanshui,"adaptive, no camera tip-off (tuning on source)",0.4,10.85,21.04
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.34,0.0,0.0
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.26,2.36,7.41
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.24,4.82,13.68
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.21,7.36,18.09
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.19,9.93,24.5
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.18,13.11,30.63
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.16,15.22,34.33
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.16,23.93,43.02
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.15,26.7,49.29
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.14,38.56,62.82
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.13,40.63,65.67
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.12,48.92,72.51
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.12,53.42,76.21
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.11,59.12,81.91
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.1,62.67,84.47
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.09,64.89,87.46
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.08,71.1,91.17
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.06,74.98,93.16
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.06,77.32,93.45
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.04,82.5,96.44
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.02,88.25,99.15
+Zengwen-Yanshui,Kaoping,fixed schedule (no adaptation),0.0,100.0,100.0
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.02,93.35,99.86
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.03,91.49,99.0
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.05,83.46,96.01
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.07,73.09,91.82
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.1,61.52,85.24
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.13,53.09,80.51
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.16,45.72,72.56
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.2,39.55,66.15
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.25,34.09,58.63
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.3,29.95,49.89
+Kaoping,Kaoping,adaptive (borrowed prior + nightly updating) (tuning on source),0.4,25.87,41.91
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.02,95.59,100.0
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.03,90.61,99.32
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.05,74.35,97.85
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.07,58.98,95.99
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.1,43.75,91.69
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.13,35.32,88.88
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.16,30.5,87.63
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.2,27.21,85.19
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.25,25.24,83.28
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.3,24.46,82.9
+Kaoping,Zengwen-Yanshui,adaptive (borrowed prior + nightly updating),0.4,22.67,74.2
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.02,92.52,99.89
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.03,90.69,99.69
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.05,80.9,93.42
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.07,68.94,87.21
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.1,53.32,73.82
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.13,41.79,63.36
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.16,33.17,52.51
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.2,24.23,40.68
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.25,18.81,32.62
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.3,15.24,25.16
+Kaoping,Kaoping,"adaptive, no camera tip-off (tuning on source)",0.4,10.66,14.76
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.68,0.0,0.0
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.5,4.56,8.95
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.45,9.35,16.08
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.42,11.25,19.14
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.38,14.47,25.25
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.32,17.95,30.58
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.29,20.01,32.96
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.26,23.07,36.01
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.24,25.44,38.73
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.23,28.07,41.56
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.21,32.97,47.11
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.19,35.09,49.6
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.18,36.76,51.19
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.16,40.07,55.49
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.13,44.2,60.14
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.11,47.64,63.99
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.08,56.51,73.39
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.07,58.24,74.97
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.04,63.04,80.18
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.04,77.75,89.01
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.03,79.11,90.37
+Kaoping,Zengwen-Yanshui,fixed schedule (no adaptation),0.0,100.0,100.0

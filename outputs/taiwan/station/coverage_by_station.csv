@@ -1,0 +1,14 @@
+river_system,station,breeding_station,both,rec_only,cam_only,neither,owl,recorder_only_share
+Kaoping,GR01,breeding,27,247,9,687,283,0.873
+Kaoping,GR02,breeding,13,225,9,735,247,0.911
+Kaoping,GR03,non-breeding,1,52,0,930,53,0.981
+Kaoping,JR,non-breeding,2,78,2,954,82,0.951
+Kaoping,LG,non-breeding,0,57,3,370,60,0.95
+Zengwen-Yanshui,YS01,non-breeding,2,44,4,991,50,0.88
+Zengwen-Yanshui,YS02,non-breeding,0,0,2,873,2,0.0
+Zengwen-Yanshui,ZW02,breeding,220,465,18,265,703,0.661
+Zengwen-Yanshui,ZW03,non-breeding,4,95,8,952,107,0.888
+Zengwen-Yanshui,ZW04,non-breeding,0,10,0,1049,10,1.0
+Zengwen-Yanshui,ZW05,non-breeding,1,3,6,912,10,0.3
+Zengwen-Yanshui,ZW06,non-breeding,0,11,0,1048,11,1.0
+Zengwen-Yanshui,ZW08,non-breeding,4,24,20,842,48,0.5

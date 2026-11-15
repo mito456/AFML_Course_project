@@ -1,0 +1,4 @@
+radius_m,sites,cameras,site_days,chimp_days,both,acoustic_only,camera_only,neither,acoustic_only_share,acoustic_only_share_lo,acoustic_only_share_hi,camera_only_share,camera_only_share_lo,camera_only_share_hi,both_share,both_share_lo,both_share_hi
+250,10,22,583,260,57,181,22,323,0.6962,0.5749,0.8325,0.0846,0.0397,0.1357,0.2192,0.1126,0.3173
+500,12,32,800,365,102,214,49,435,0.5863,0.4774,0.7107,0.1342,0.0882,0.178,0.2795,0.1837,0.3696
+1000,12,35,819,436,178,141,117,383,0.3234,0.2614,0.3995,0.2683,0.2106,0.3267,0.4083,0.3301,0.4833
