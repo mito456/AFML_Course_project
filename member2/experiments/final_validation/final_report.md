@@ -1,5 +1,7 @@
 # Final Member 2 validation
 
+> **Superseded for numerical reporting (2026-11-15).** This report describes an earlier output state (including a 1,000-resample statement). Use `../../../../SAFARI_MEMBER2_FINAL_REPORT.md` and the current `results/` CSVs instead. Preserved for traceability.
+
 ## Audit and provenance
 
 Validated 1785 source audio-eligible clips from 184 sites. Camera and audio posteriors were joined by `video_name`; every source row declares `prob_source=oof_site_cv`, and supplied outer folds have zero site overlap. Source audio posterior is used only to construct/evaluate the retrospective 95/5 fusion target. Selectors receive camera posterior/uncertainty, visual embedding, IR and placement only.
@@ -27,13 +29,11 @@ Paired site-bootstrap intervals (1,000 resamples) are in `results/paired_site_bo
 
 ## Frozen target evaluation
 
-The source-selected continuous ridge was fitted once on source and applied unchanged at the 30% budget. On adaptation (69 clips), log loss was 1.6690 versus 1.6933 camera-only, with 1.677 total benefit; on test (454 clips), it was 1.6299 versus 1.6412, with 5.159 total benefit. Macro-F1 was unchanged in both cohorts. See `results/target_transfer.csv`. Target labels were evaluation-only; these small, uncertain results do not establish domain generalization.
+`results/target_transfer.csv` applies the frozen source-selected continuous ridge separately to adaptation and test at 30%. Target labels are used only for these reported metrics, never fitting or selection. The adaptation cohort is especially small.
 
 ## Decision
 
-**Final recommendation:** retain camera uncertainty as the deployment reference. Continuous incremental value exceeds binary usefulness in total benefit (paired 95% interval 2.12 to 23.83), but it does not reliably beat camera uncertainty: the total-benefit interval is -6.04 to 18.40 and the log-loss-difference interval is -0.0099 to 0.0036. Macro-F1 is essentially unchanged. Treat continuous incremental value as suggestive only, not an established improvement or domain-generalization result.
-
-Use the tables and paired intervals—not point estimates alone—to decide whether a learned selector clears camera uncertainty. If its interval includes practically relevant harm or improvement is limited to log loss, retain camera uncertainty as the simpler reference. This report deliberately makes no domain-generalization claim: target labels were not used, but a fully frozen target evaluation requires compatible target posterior/provenance handling beyond this source validation.
+Continuous incremental value has the strongest 30% point estimate, but the paired intervals must decide whether it reliably clears camera uncertainty. If its interval includes practically relevant harm or improvement is limited to log loss, retain camera uncertainty as the simpler reference; do not infer domain generalization from the small target sets.
 
 ## Limitations
 

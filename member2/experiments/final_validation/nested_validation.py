@@ -27,8 +27,17 @@ def load():
     if len(names)!=len(set(names)) or set(names)!={r['video_name'] for r in events}: raise ValueError('video_name posterior join failed')
     cam=dict(zip(names,p['camera'])); aud=dict(zip(names,p['audio']))
     emb=np.load(DATA/'visual_emb.npy')
-    # Embedding file is aligned only after this explicit key assignment/check.
-    vis={r['video_name']:emb[i] for i,r in enumerate(events)}
+    # `visual_emb.npy` has no identifiers.  Its documented row manifest is
+    # feat_index, so do not silently substitute clip_events row order.
+    index=list(csv.DictReader(open(DATA/'feat_index.csv',encoding='utf8')))
+    index_names=[r['video_name'] for r in index]; event_names=[r['video_name'] for r in events]
+    if len(emb)!=len(index_names) or len(index_names)!=len(set(index_names)):
+        raise ValueError('visual embedding / feat_index cardinality failed')
+    if index_names != event_names:
+        raise ValueError('feat_index order does not verify clip_events alignment')
+    if set(index_names) != set(names):
+        raise ValueError('feat_index keys do not match posterior keys')
+    vis={name:emb[i] for i,name in enumerate(index_names)}
     src=[r for r in events if r['split']=='source' and r['has_audio']=='1']
     if any(r['prob_source']!='oof_site_cv' for r in src): raise ValueError('source expert predictions are not site OOF')
     fold=np.array([r['cv_fold'] for r in src]); group=np.array([r['location_id'] for r in src])
@@ -60,7 +69,9 @@ def fit_score(task, kind, X, target, tr, va, seed):
     return m.predict_proba(X[va])[:,1] if task=='classification' else m.predict(X[va])
 
 def inner_scores(task, candidates, feats, target, groups, train, seed):
-    ng=min(4,len(np.unique(groups[train]))); result={}
+    # Two grouped inner folds retain site-held-out selection while keeping this
+    # controlled confirmation pass within its fixed computational scope.
+    ng=min(2,len(np.unique(groups[train]))); result={}
     for ci,(fs,kind,tag) in enumerate(candidates):
         pred=np.zeros(len(train)); X=feats[fs]
         for j,(a,b) in enumerate(GroupKFold(ng).split(train,target[train],groups[train])):
@@ -88,9 +99,9 @@ def run_nested():
     chosen_rows=[]
     for fi,f in enumerate(FOLDS):
         tr=np.where(fold!=f)[0]; va=np.where(fold==f)[0]
-        # Formulation A and Shim are deliberately selected independently from identical permissible grids;
-        # Shim's cost interpretation differs only at policy thresholding.
-        for label,task,cands,target in [('binary_usefulness','classification',candidates_cls,useful),('shim_cost_sensitive','classification',candidates_cls,useful),('continuous_incremental','regression',candidates_reg,delta),('binary_incremental','classification',candidates_bin,None)]:
+        # Shim shares binary usefulness's target, grid, and ranked decision;
+        # fit it once and retain the alias only for backwards-compatible output.
+        for label,task,cands,target in [('binary_usefulness','classification',candidates_cls,useful),('continuous_incremental','regression',candidates_reg,delta),('binary_incremental','classification',candidates_bin,None)]:
             if label=='binary_incremental':
                 # Candidate-specific meaningful-benefit labels; select on inner realized delta.
                 best=None; trials=[]
@@ -102,6 +113,8 @@ def run_nested():
                 choice,trials=select_candidate(task,cands,feats,target,delta,groups,tr,names,SEED+fi)
             fs,kind,tag=choice; scores[label][va]=fit_score(task,kind,feats[fs],target,tr,va,SEED+fi+500)
             chosen_rows.append({'outer_fold':f,'method':label,'feature_set':fs,'model':kind,'target':tag,'inner_selection':'30pct inner OOF realized benefit (usefulness count for A/Shim)'})
+        scores['shim_cost_sensitive'][va]=scores['binary_usefulness'][va]
+        chosen_rows.append({'outer_fold':f,'method':'shim_cost_sensitive','feature_set':'same_as_binary_usefulness','model':'same_as_binary_usefulness','target':'same_as_binary_usefulness','inner_selection':'operationally equivalent alias'})
     out=[]
     for method,score in scores.items():
         out += [{'video_name':names[i],'outer_fold':fold[i],'site':groups[i],'method':method,'score':score[i],'delta_95_05':delta[i],'binary_usefulness':useful[i]} for i in range(len(rows))]
