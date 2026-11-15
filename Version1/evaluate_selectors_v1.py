@@ -120,7 +120,7 @@ if "ana_target_sound" in target_df.columns:
         target_df_valid = target_df[valid_mask].copy()
         target_df_valid["sound_quartile"] = pd.qcut(target_df_valid["ana_target_sound"], q=4, labels=["Q1 (Lowest)", "Q2", "Q3", "Q4 (Highest)"])
         print("\nAudio Accuracy across ana_target_sound Quartiles:")
-        for q_label, group in target_df_valid.groupby("sound_quartile"):
+        for q_label, group in target_df_valid.groupby("sound_quartile", observed=True):
             g_indices = group["npz_idx"].values
             g_true_indices = [np.where(indices == idx)[0][0] for idx in g_indices]
             g_true = y_true[g_true_indices]
