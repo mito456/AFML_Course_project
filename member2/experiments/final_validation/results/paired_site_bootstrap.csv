@@ -1,0 +1,16 @@
+bootstrap_replicates,budget,ci_high,ci_low,comparison,metric,n_clips,n_sites
+1000,0.3,0.0014401925876633968,0.0,continuous_incremental minus camera_uncertainty,macro_f1,1785,184
+1000,0.3,0.0035700451443097404,-0.0099057766141265,continuous_incremental minus camera_uncertainty,log_loss,1785,184
+1000,0.3,18.398567437770417,-6.036043278808438,continuous_incremental minus camera_uncertainty,total_incremental_benefit,1785,184
+1000,0.3,0.03252237408959323,-0.011765063402083515,continuous_incremental minus camera_uncertainty,mean_incremental_benefit_per_call,1785,184
+1000,0.3,0.03565558356897104,-0.032845214356929234,continuous_incremental minus camera_uncertainty,audio_acquisition_rate,1785,184
+1000,0.3,0.0011094122110443944,-0.001919594719253702,binary_incremental minus camera_uncertainty,macro_f1,1785,184
+1000,0.3,0.010540037453815428,-0.001885046127717116,binary_incremental minus camera_uncertainty,log_loss,1785,184
+1000,0.3,3.3233892590411607,-18.691936342106036,binary_incremental minus camera_uncertainty,total_incremental_benefit,1785,184
+1000,0.3,0.006903764337090414,-0.03495699836716435,binary_incremental minus camera_uncertainty,mean_incremental_benefit_per_call,1785,184
+1000,0.3,0.05391517776948693,-0.05192144617090728,binary_incremental minus camera_uncertainty,audio_acquisition_rate,1785,184
+1000,0.3,0.0021926742070886977,0.0,continuous_incremental minus binary_usefulness,macro_f1,1785,184
+1000,0.3,-0.0012011131955214029,-0.012909191531606284,continuous_incremental minus binary_usefulness,log_loss,1785,184
+1000,0.3,23.827479673322685,2.1216266684483442,continuous_incremental minus binary_usefulness,total_incremental_benefit,1785,184
+1000,0.3,0.04232867740799484,0.005747748248770015,continuous_incremental minus binary_usefulness,mean_incremental_benefit_per_call,1785,184
+1000,0.3,0.02456134067552744,-0.02694325742413589,continuous_incremental minus binary_usefulness,audio_acquisition_rate,1785,184

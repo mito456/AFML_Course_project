@@ -1,0 +1,3 @@
+# Member 2 handoff
+
+Research question: can pre-audio camera/visual/context information predict the value of acquiring audio? Formulations retained for comparison are top-1 usefulness, supervised cost-sensitive usefulness (Shim-inspired—not RL), and continuous/binary incremental log-benefit. Member 4 should consume only the selected frozen policy and its pre-audio feature transform; never audio features. Proven: keyed source OOF/site separation was checked. Suggestive: policy point estimates. Unresolved: reliable improvement over uncertainty and target transfer. See `final_report.md` and result CSVs.

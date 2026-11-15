@@ -1,0 +1,21 @@
+feature_set,inner_selection,method,model,outer_fold,target
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_usefulness,logistic,0,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),shim_cost_sensitive,logistic,0,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),continuous_incremental,ridge,0,delta
+context,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_incremental,logistic,0,delta_gt_0.002
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_usefulness,logistic,1,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),shim_cost_sensitive,logistic,1,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),continuous_incremental,ridge,1,delta
+context,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_incremental,logistic,1,delta_gt_0
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_usefulness,logistic,2,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),shim_cost_sensitive,logistic,2,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),continuous_incremental,ridge,2,delta
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_incremental,logistic,2,delta_gt_0.002
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_usefulness,logistic,3,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),shim_cost_sensitive,logistic,3,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),continuous_incremental,ridge,3,delta
+context,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_incremental,logistic,3,delta_gt_0.002
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_usefulness,logistic,4,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),shim_cost_sensitive,logistic,4,useful
+posterior_uncertainty,30pct inner OOF realized benefit (usefulness count for A/Shim),continuous_incremental,ridge,4,delta
+visual,30pct inner OOF realized benefit (usefulness count for A/Shim),binary_incremental,logistic,4,delta_gt_0.002

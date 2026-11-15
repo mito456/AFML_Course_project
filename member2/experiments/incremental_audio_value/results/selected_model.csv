@@ -1,0 +1,2 @@
+feature_set,model,ranking_ap_positive_delta,selection,source_oof_top30_mean_delta,source_oof_top30_total_delta,target
+C_visual,rf_clf,0.3102874338330265,highest source-OOF total incremental benefit at pre-specified 30% budget,0.08063395981277562,43.21980245964773,epsilon_0.01

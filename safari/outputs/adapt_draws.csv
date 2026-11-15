@@ -1,0 +1,461 @@
+seed,k,video_name,species,location_id
+0,1,sa_fari_000822,great tinamou,MS#147_sorted
+0,1,sa_fari_000783,red-billed currasow,MLC_1_Terrestrial
+0,1,sa_fari_000287,northern tamandua,MS#132_sorted
+0,1,sa_fari_000360,paca,MLC_1_Terrestrial
+0,1,sa_fari_000791,jaguar,MLC_18_Terrestrial
+0,1,sa_fari_000465,squirrel monkey,MLC_20_Arboreal
+0,1,sa_fari_000573,common opossum,MS#145_sorted
+0,1,sa_fari_000394,squirrel,MS#147_sorted
+0,1,sa_fari_000420,baird's tapir,MLC_16_Terrestrial
+0,1,sa_fari_000063,red brocket deer,MLC_12_Terrestrial
+0,1,sa_fari_000347,white-nosed coati,MS#100_sorted
+0,1,sa_fari_000182,kinkajou,DIAMANTE_5_Arboreal
+0,1,sa_fari_000461,puma,SHINTUYA_5_Terrestrial
+0,1,sa_fari_000777,night monkey,ROMERO_19_Arboreal
+0,1,sa_fari_000391,four-eyed opossum,ROMERO_19_Arboreal
+0,1,sa_fari_000612,ninebanded armadillo,MS#161_sorted
+0,1,sa_fari_000728,porcupine,SHINTUYA_10_Arboreal
+0,1,sa_fari_000436,capuchin monkey,ROMERO_19_Arboreal
+0,1,sa_fari_000257,collared peccary,MS#85_sorted
+0,1,sa_fari_000222,agouti,MS#62_sorted
+0,1,sa_fari_000079,trumpeter,MLC_1_Terrestrial
+0,1,sa_fari_000367,crab-eating raccoon,MLC_18_Terrestrial
+0,1,sa_fari_000271,ocelot,MS#100_sorted
+0,3,sa_fari_000488,agouti,MS#85_sorted
+0,3,sa_fari_000155,collared peccary,MS#100_sorted
+0,3,sa_fari_000822,great tinamou,MS#147_sorted
+0,3,sa_fari_000783,red-billed currasow,MLC_1_Terrestrial
+0,3,sa_fari_000810,squirrel,MS#132_sorted
+0,3,sa_fari_000199,agouti,MS#100_sorted
+0,3,sa_fari_000680,great tinamou,MS#1_sorted
+0,3,sa_fari_000645,jaguar,MS#70_sorted
+0,3,sa_fari_000607,kinkajou,MLC_1_Arboreal
+0,3,sa_fari_000287,northern tamandua,MS#132_sorted
+0,3,sa_fari_000360,paca,MLC_1_Terrestrial
+0,3,sa_fari_000318,porcupine,SHINTUYA_10_Arboreal
+0,3,sa_fari_000030,puma,DIAMANTE_17_Terrestrial
+0,3,sa_fari_000674,capuchin monkey,DIAMANTE_11_Arboreal
+0,3,sa_fari_000346,crab-eating raccoon,MLC_16_Terrestrial
+0,3,sa_fari_000734,great tinamou,MS#91_sorted
+0,3,sa_fari_000791,jaguar,MLC_18_Terrestrial
+0,3,sa_fari_000086,red brocket deer,MLC_12_Terrestrial
+0,3,sa_fari_000465,squirrel monkey,MLC_20_Arboreal
+0,3,sa_fari_000236,trumpeter,DIAMANTE_11_Arboreal
+0,3,sa_fari_000573,common opossum,MS#145_sorted
+0,3,sa_fari_000828,four-eyed opossum,MS#161_sorted
+0,3,sa_fari_000301,red brocket deer,SHINTUYA_20_Terrestrial
+0,3,sa_fari_000394,squirrel,MS#147_sorted
+0,3,sa_fari_000434,squirrel monkey,MLC_6_Arboreal
+0,3,sa_fari_000132,common opossum,MS#157_sorted
+0,3,sa_fari_000809,kinkajou,ROMERO_18_Arboreal
+0,3,sa_fari_000114,night monkey,ROMERO_13_Arboreal
+0,3,sa_fari_000144,northern tamandua,MS#94_sorted
+0,3,sa_fari_000117,paca,SHINTUYA_1_Terrestrial
+0,3,sa_fari_000536,red-billed currasow,MLC_1_Terrestrial
+0,3,sa_fari_000790,squirrel monkey,arb_045
+0,3,sa_fari_000756,northern tamandua,MS#91_sorted
+0,3,sa_fari_000420,baird's tapir,MLC_16_Terrestrial
+0,3,sa_fari_000063,red brocket deer,MLC_12_Terrestrial
+0,3,sa_fari_000755,red-billed currasow,ROMERO_9_Arboreal
+0,3,sa_fari_000347,white-nosed coati,MS#100_sorted
+0,3,sa_fari_000678,crab-eating raccoon,MLC_12_Terrestrial
+0,3,sa_fari_000596,four-eyed opossum,SHINTUYA_20_Terrestrial
+0,3,sa_fari_000215,jaguar,MS#70_sorted
+0,3,sa_fari_000182,kinkajou,DIAMANTE_5_Arboreal
+0,3,sa_fari_000510,porcupine,SHINTUYA_10_Arboreal
+0,3,sa_fari_000461,puma,SHINTUYA_5_Terrestrial
+0,3,sa_fari_000064,trumpeter,MLC_12_Terrestrial
+0,3,sa_fari_000148,baird's tapir,MLC_1_Terrestrial
+0,3,sa_fari_000210,capuchin monkey,ROMERO_19_Arboreal
+0,3,sa_fari_000777,night monkey,ROMERO_19_Arboreal
+0,3,sa_fari_000652,squirrel,MS#132_sorted
+0,3,sa_fari_000380,baird's tapir,MS#70_sorted
+0,3,sa_fari_000582,paca,SHINTUYA_5_Terrestrial
+0,3,sa_fari_000391,four-eyed opossum,ROMERO_19_Arboreal
+0,3,sa_fari_000612,ninebanded armadillo,MS#161_sorted
+0,3,sa_fari_000728,porcupine,SHINTUYA_10_Arboreal
+0,3,sa_fari_000710,collared peccary,MS#100_sorted
+0,3,sa_fari_000102,common opossum,MS#94_sorted
+0,3,sa_fari_000255,night monkey,SHINTUYA_17_Arboreal
+0,3,sa_fari_000436,capuchin monkey,ROMERO_19_Arboreal
+0,3,sa_fari_000257,collared peccary,MS#85_sorted
+0,3,sa_fari_000716,puma,DIAMANTE_17_Terrestrial
+0,3,sa_fari_000222,agouti,MS#62_sorted
+0,3,sa_fari_000079,trumpeter,MLC_1_Terrestrial
+0,3,sa_fari_000004,white-nosed coati,MS#100_sorted
+0,3,sa_fari_000367,crab-eating raccoon,MLC_18_Terrestrial
+0,3,sa_fari_000626,ocelot,MLC_18_Terrestrial
+0,3,sa_fari_000441,ninebanded armadillo,MLC_1_Terrestrial
+0,3,sa_fari_000616,ninebanded armadillo,MS#150_sorted
+0,3,sa_fari_000615,ocelot,DIAMANTE_17_Terrestrial
+0,3,sa_fari_000271,ocelot,MS#100_sorted
+0,3,sa_fari_000468,white-nosed coati,MS#100_sorted
+1,1,sa_fari_000675,red brocket deer,DIAMANTE_17_Terrestrial
+1,1,sa_fari_000020,squirrel monkey,arb_045
+1,1,sa_fari_000048,agouti,MS#65_sorted
+1,1,sa_fari_000731,jaguar,DIAMANTE_17_Terrestrial
+1,1,sa_fari_000530,squirrel,MS#132_sorted
+1,1,sa_fari_000346,crab-eating raccoon,MLC_16_Terrestrial
+1,1,sa_fari_000268,red-billed currasow,MLC_7_Terrestrial
+1,1,sa_fari_000144,northern tamandua,MS#94_sorted
+1,1,sa_fari_000283,ninebanded armadillo,MS#147_sorted
+1,1,sa_fari_000067,collared peccary,MS#1_sorted
+1,1,sa_fari_000127,great tinamou,MS#147_sorted
+1,1,sa_fari_000449,four-eyed opossum,ROMERO_19_Arboreal
+1,1,sa_fari_000028,porcupine,colpa_012
+1,1,sa_fari_000015,common opossum,MS#157_sorted
+1,1,sa_fari_000706,paca,MLC_16_Terrestrial
+1,1,sa_fari_000288,kinkajou,MLC_1_Arboreal
+1,1,sa_fari_000190,baird's tapir,MLC_7_Terrestrial
+1,1,sa_fari_000396,night monkey,MLC_5_Arboreal
+1,1,sa_fari_000780,puma,SHINTUYA_11_Terrestrial
+1,1,sa_fari_000065,trumpeter,MLC_16_Terrestrial
+1,1,sa_fari_000477,capuchin monkey,ROMERO_5_Arboreal
+1,1,sa_fari_000801,ocelot,MLC_10_Terrestrial
+1,1,sa_fari_000402,white-nosed coati,MS#120_sorted
+1,3,sa_fari_000499,capuchin monkey,MLC_20_Arboreal
+1,3,sa_fari_000134,crab-eating raccoon,MS#125_sorted
+1,3,sa_fari_000474,jaguar,DIAMANTE_17_Terrestrial
+1,3,sa_fari_000087,paca,DIAMANTE_15_Terrestrial
+1,3,sa_fari_000585,porcupine,SHINTUYA_10_Arboreal
+1,3,sa_fari_000675,red brocket deer,DIAMANTE_17_Terrestrial
+1,3,sa_fari_000810,squirrel,MS#132_sorted
+1,3,sa_fari_000207,squirrel monkey,DIAMANTE_10_Arboreal
+1,3,sa_fari_000020,squirrel monkey,arb_045
+1,3,sa_fari_000048,agouti,MS#65_sorted
+1,3,sa_fari_000731,jaguar,DIAMANTE_17_Terrestrial
+1,3,sa_fari_000082,night monkey,ROMERO_19_Arboreal
+1,3,sa_fari_000530,squirrel,MS#132_sorted
+1,3,sa_fari_000460,white-nosed coati,MS#126_sorted
+1,3,sa_fari_000346,crab-eating raccoon,MLC_16_Terrestrial
+1,3,sa_fari_000734,great tinamou,MS#91_sorted
+1,3,sa_fari_000179,kinkajou,MLC_1_Arboreal
+1,3,sa_fari_000110,northern tamandua,MS#94_sorted
+1,3,sa_fari_000268,red-billed currasow,MLC_7_Terrestrial
+1,3,sa_fari_000573,common opossum,MS#145_sorted
+1,3,sa_fari_000393,kinkajou,ROMERO_18_Arboreal
+1,3,sa_fari_000108,trumpeter,MLC_12_Terrestrial
+1,3,sa_fari_000767,baird's tapir,MLC_16_Terrestrial
+1,3,sa_fari_000132,common opossum,MS#157_sorted
+1,3,sa_fari_000144,northern tamandua,MS#94_sorted
+1,3,sa_fari_000536,red-billed currasow,MLC_1_Terrestrial
+1,3,sa_fari_000730,squirrel,MS#132_sorted
+1,3,sa_fari_000766,crab-eating raccoon,MLC_10_Terrestrial
+1,3,sa_fari_000639,ocelot,DIAMANTE_17_Terrestrial
+1,3,sa_fari_000579,red brocket deer,MLC_16_Terrestrial
+1,3,sa_fari_000328,squirrel monkey,ROMERO_9_Arboreal
+1,3,sa_fari_000283,ninebanded armadillo,MS#147_sorted
+1,3,sa_fari_000492,paca,SHINTUYA_5_Terrestrial
+1,3,sa_fari_000063,red brocket deer,MLC_12_Terrestrial
+1,3,sa_fari_000067,collared peccary,MS#1_sorted
+1,3,sa_fari_000127,great tinamou,MS#147_sorted
+1,3,sa_fari_000215,jaguar,MS#70_sorted
+1,3,sa_fari_000435,northern tamandua,ROMERO_13_Arboreal
+1,3,sa_fari_000461,puma,SHINTUYA_5_Terrestrial
+1,3,sa_fari_000269,red-billed currasow,SHINTUYA_1_Terrestrial
+1,3,sa_fari_000064,trumpeter,MLC_12_Terrestrial
+1,3,sa_fari_000449,four-eyed opossum,ROMERO_19_Arboreal
+1,3,sa_fari_000122,great tinamou,MS#94_sorted
+1,3,sa_fari_000758,collared peccary,MS#91_sorted
+1,3,sa_fari_000028,porcupine,colpa_012
+1,3,sa_fari_000015,common opossum,MS#157_sorted
+1,3,sa_fari_000391,four-eyed opossum,ROMERO_19_Arboreal
+1,3,sa_fari_000706,paca,MLC_16_Terrestrial
+1,3,sa_fari_000660,four-eyed opossum,MS#134_sorted
+1,3,sa_fari_000552,white-nosed coati,MS#100_sorted
+1,3,sa_fari_000529,baird's tapir,DIAMANTE_17_Terrestrial
+1,3,sa_fari_000288,kinkajou,MLC_1_Arboreal
+1,3,sa_fari_000399,puma,MS#1_sorted
+1,3,sa_fari_000750,ocelot,colpa_015
+1,3,sa_fari_000190,baird's tapir,MLC_7_Terrestrial
+1,3,sa_fari_000823,agouti,MS#65_sorted
+1,3,sa_fari_000257,collared peccary,MS#85_sorted
+1,3,sa_fari_000396,night monkey,MLC_5_Arboreal
+1,3,sa_fari_000450,porcupine,SHINTUYA_15_Arboreal
+1,3,sa_fari_000632,agouti,MS#100_sorted
+1,3,sa_fari_000159,ninebanded armadillo,MS#129_sorted
+1,3,sa_fari_000780,puma,SHINTUYA_11_Terrestrial
+1,3,sa_fari_000065,trumpeter,MLC_16_Terrestrial
+1,3,sa_fari_000477,capuchin monkey,ROMERO_5_Arboreal
+1,3,sa_fari_000407,capuchin monkey,ROMERO_5_Arboreal
+1,3,sa_fari_000187,night monkey,ROMERO_19_Arboreal
+1,3,sa_fari_000337,ninebanded armadillo,MS#161_sorted
+1,3,sa_fari_000801,ocelot,MLC_10_Terrestrial
+1,3,sa_fari_000402,white-nosed coati,MS#120_sorted
+2,1,sa_fari_000123,collared peccary,MS#91_sorted
+2,1,sa_fari_000062,common opossum,MS#147_sorted
+2,1,sa_fari_000299,jaguar,DIAMANTE_15_Terrestrial
+2,1,sa_fari_000437,agouti,DIAMANTE_15_Terrestrial
+2,1,sa_fari_000567,crab-eating raccoon,MLC_16_Terrestrial
+2,1,sa_fari_000017,four-eyed opossum,SHINTUYA_5_Arboreal
+2,1,sa_fari_000144,northern tamandua,MS#94_sorted
+2,1,sa_fari_000117,paca,SHINTUYA_1_Terrestrial
+2,1,sa_fari_000094,porcupine,colpa_012
+2,1,sa_fari_000162,red brocket deer,MLC_7_Terrestrial
+2,1,sa_fari_000536,red-billed currasow,MLC_1_Terrestrial
+2,1,sa_fari_000730,squirrel,MS#132_sorted
+2,1,sa_fari_000328,squirrel monkey,ROMERO_9_Arboreal
+2,1,sa_fari_000411,great tinamou,MS#91_sorted
+2,1,sa_fari_000623,baird's tapir,MLC_16_Terrestrial
+2,1,sa_fari_000570,capuchin monkey,SHINTUYA_3_Terrestrial
+2,1,sa_fari_000431,night monkey,DIAMANTE_12_Arboreal
+2,1,sa_fari_000032,puma,MLC_18_Terrestrial
+2,1,sa_fari_000120,kinkajou,MLC_1_Arboreal
+2,1,sa_fari_000413,ninebanded armadillo,MS#161_sorted
+2,1,sa_fari_000065,trumpeter,MLC_16_Terrestrial
+2,1,sa_fari_000263,ocelot,MLC_12_Terrestrial
+2,1,sa_fari_000757,white-nosed coati,MS#127_sorted
+2,3,sa_fari_000488,agouti,MS#85_sorted
+2,3,sa_fari_000155,collared peccary,MS#100_sorted
+2,3,sa_fari_000822,great tinamou,MS#147_sorted
+2,3,sa_fari_000010,kinkajou,DIAMANTE_5_Arboreal
+2,3,sa_fari_000526,northern tamandua,DIAMANTE_11_Arboreal
+2,3,sa_fari_000565,paca,MLC_18_Terrestrial
+2,3,sa_fari_000783,red-billed currasow,MLC_1_Terrestrial
+2,3,sa_fari_000207,squirrel monkey,DIAMANTE_10_Arboreal
+2,3,sa_fari_000123,collared peccary,MS#91_sorted
+2,3,sa_fari_000135,common opossum,MS#157_sorted
+2,3,sa_fari_000680,great tinamou,MS#1_sorted
+2,3,sa_fari_000607,kinkajou,MLC_1_Arboreal
+2,3,sa_fari_000082,night monkey,ROMERO_19_Arboreal
+2,3,sa_fari_000521,porcupine,SHINTUYA_10_Arboreal
+2,3,sa_fari_000798,squirrel,MS#132_sorted
+2,3,sa_fari_000550,trumpeter,MLC_12_Terrestrial
+2,3,sa_fari_000062,common opossum,MS#147_sorted
+2,3,sa_fari_000299,jaguar,DIAMANTE_15_Terrestrial
+2,3,sa_fari_000610,northern tamandua,MLC_8_Arboreal
+2,3,sa_fari_000086,red brocket deer,MLC_12_Terrestrial
+2,3,sa_fari_000743,red-billed currasow,MLC_1_Terrestrial
+2,3,sa_fari_000294,squirrel,MS#132_sorted
+2,3,sa_fari_000545,collared peccary,MLC_18_Terrestrial
+2,3,sa_fari_000007,jaguar,SHINTUYA_3_Terrestrial
+2,3,sa_fari_000301,red brocket deer,SHINTUYA_20_Terrestrial
+2,3,sa_fari_000437,agouti,DIAMANTE_15_Terrestrial
+2,3,sa_fari_000567,crab-eating raccoon,MLC_16_Terrestrial
+2,3,sa_fari_000017,four-eyed opossum,SHINTUYA_5_Arboreal
+2,3,sa_fari_000144,northern tamandua,MS#94_sorted
+2,3,sa_fari_000117,paca,SHINTUYA_1_Terrestrial
+2,3,sa_fari_000094,porcupine,colpa_012
+2,3,sa_fari_000162,red brocket deer,MLC_7_Terrestrial
+2,3,sa_fari_000536,red-billed currasow,MLC_1_Terrestrial
+2,3,sa_fari_000730,squirrel,MS#132_sorted
+2,3,sa_fari_000328,squirrel monkey,ROMERO_9_Arboreal
+2,3,sa_fari_000411,great tinamou,MS#91_sorted
+2,3,sa_fari_000560,jaguar,SHINTUYA_20_Terrestrial
+2,3,sa_fari_000483,porcupine,colpa_012
+2,3,sa_fari_000286,puma,MS#94_sorted
+2,3,sa_fari_000363,squirrel monkey,arb_066
+2,3,sa_fari_000793,trumpeter,MLC_12_Terrestrial
+2,3,sa_fari_000623,baird's tapir,MLC_16_Terrestrial
+2,3,sa_fari_000570,capuchin monkey,SHINTUYA_3_Terrestrial
+2,3,sa_fari_000596,four-eyed opossum,SHINTUYA_20_Terrestrial
+2,3,sa_fari_000431,night monkey,DIAMANTE_12_Arboreal
+2,3,sa_fari_000163,paca,SHINTUYA_3_Terrestrial
+2,3,sa_fari_000032,puma,MLC_18_Terrestrial
+2,3,sa_fari_000100,crab-eating raccoon,MLC_18_Terrestrial
+2,3,sa_fari_000321,four-eyed opossum,SHINTUYA_20_Terrestrial
+2,3,sa_fari_000575,night monkey,MLC_1_Arboreal
+2,3,sa_fari_000072,ninebanded armadillo,MS#161_sorted
+2,3,sa_fari_000709,ocelot,colpa_015
+2,3,sa_fari_000608,puma,MLC_18_Terrestrial
+2,3,sa_fari_000491,capuchin monkey,arb_046
+2,3,sa_fari_000102,common opossum,MS#94_sorted
+2,3,sa_fari_000753,crab-eating raccoon,MLC_18_Terrestrial
+2,3,sa_fari_000120,kinkajou,MLC_1_Arboreal
+2,3,sa_fari_000413,ninebanded armadillo,MS#161_sorted
+2,3,sa_fari_000638,agouti,DIAMANTE_15_Terrestrial
+2,3,sa_fari_000664,baird's tapir,MLC_16_Terrestrial
+2,3,sa_fari_000065,trumpeter,MLC_16_Terrestrial
+2,3,sa_fari_000125,baird's tapir,SHINTUYA_5_Terrestrial
+2,3,sa_fari_000377,capuchin monkey,ROMERO_5_Arboreal
+2,3,sa_fari_000527,white-nosed coati,MS#120_sorted
+2,3,sa_fari_000441,ninebanded armadillo,MLC_1_Terrestrial
+2,3,sa_fari_000263,ocelot,MLC_12_Terrestrial
+2,3,sa_fari_000757,white-nosed coati,MS#127_sorted
+2,3,sa_fari_000816,white-nosed coati,MS#136_sorted
+2,3,sa_fari_000732,ocelot,MLC_18_Terrestrial
+3,1,sa_fari_000151,crab-eating raccoon,MLC_12_Terrestrial
+3,1,sa_fari_000211,jaguar,DIAMANTE_15_Terrestrial
+3,1,sa_fari_000277,ocelot,MLC_16_Terrestrial
+3,1,sa_fari_000622,four-eyed opossum,MLC_15_Arboreal
+3,1,sa_fari_000198,great tinamou,MS#94_sorted
+3,1,sa_fari_000170,red brocket deer,DIAMANTE_17_Terrestrial
+3,1,sa_fari_000412,squirrel monkey,arb_066
+3,1,sa_fari_000773,common opossum,MS#157_sorted
+3,1,sa_fari_000610,northern tamandua,MLC_8_Arboreal
+3,1,sa_fari_000686,paca,SHINTUYA_20_Terrestrial
+3,1,sa_fari_000158,puma,MLC_10_Terrestrial
+3,1,sa_fari_000203,white-nosed coati,MS#100_sorted
+3,1,sa_fari_000002,collared peccary,MS#1_sorted
+3,1,sa_fari_000730,squirrel,MS#132_sorted
+3,1,sa_fari_000182,kinkajou,DIAMANTE_5_Arboreal
+3,1,sa_fari_000408,ninebanded armadillo,MS#161_sorted
+3,1,sa_fari_000269,red-billed currasow,SHINTUYA_1_Terrestrial
+3,1,sa_fari_000469,trumpeter,MLC_12_Terrestrial
+3,1,sa_fari_000451,agouti,DIAMANTE_15_Terrestrial
+3,1,sa_fari_000728,porcupine,SHINTUYA_10_Arboreal
+3,1,sa_fari_000507,baird's tapir,DIAMANTE_17_Terrestrial
+3,1,sa_fari_000187,night monkey,ROMERO_19_Arboreal
+3,1,sa_fari_000096,capuchin monkey,DIAMANTE_11_Arboreal
+3,3,sa_fari_000151,crab-eating raccoon,MLC_12_Terrestrial
+3,3,sa_fari_000057,great tinamou,MS#147_sorted
+3,3,sa_fari_000211,jaguar,DIAMANTE_15_Terrestrial
+3,3,sa_fari_000526,northern tamandua,DIAMANTE_11_Arboreal
+3,3,sa_fari_000277,ocelot,MLC_16_Terrestrial
+3,3,sa_fari_000783,red-billed currasow,MLC_1_Terrestrial
+3,3,sa_fari_000207,squirrel monkey,DIAMANTE_10_Arboreal
+3,3,sa_fari_000161,trumpeter,MLC_16_Terrestrial
+3,3,sa_fari_000135,common opossum,MS#157_sorted
+3,3,sa_fari_000622,four-eyed opossum,MLC_15_Arboreal
+3,3,sa_fari_000198,great tinamou,MS#94_sorted
+3,3,sa_fari_000295,red brocket deer,DIAMANTE_15_Terrestrial
+3,3,sa_fari_000170,red brocket deer,DIAMANTE_17_Terrestrial
+3,3,sa_fari_000412,squirrel monkey,arb_066
+3,3,sa_fari_000773,common opossum,MS#157_sorted
+3,3,sa_fari_000791,jaguar,MLC_18_Terrestrial
+3,3,sa_fari_000267,kinkajou,MLC_1_Arboreal
+3,3,sa_fari_000610,northern tamandua,MLC_8_Arboreal
+3,3,sa_fari_000686,paca,SHINTUYA_20_Terrestrial
+3,3,sa_fari_000158,puma,MLC_10_Terrestrial
+3,3,sa_fari_000743,red-billed currasow,MLC_1_Terrestrial
+3,3,sa_fari_000203,white-nosed coati,MS#100_sorted
+3,3,sa_fari_000828,four-eyed opossum,MS#161_sorted
+3,3,sa_fari_000007,jaguar,SHINTUYA_3_Terrestrial
+3,3,sa_fari_000454,porcupine,SHINTUYA_5_Arboreal
+3,3,sa_fari_000394,squirrel,MS#147_sorted
+3,3,sa_fari_000002,collared peccary,MS#1_sorted
+3,3,sa_fari_000567,crab-eating raccoon,MLC_16_Terrestrial
+3,3,sa_fari_000609,great tinamou,MS#66_sorted
+3,3,sa_fari_000117,paca,SHINTUYA_1_Terrestrial
+3,3,sa_fari_000540,puma,MLC_18_Terrestrial
+3,3,sa_fari_000730,squirrel,MS#132_sorted
+3,3,sa_fari_000778,baird's tapir,MLC_16_Terrestrial
+3,3,sa_fari_000272,capuchin monkey,DIAMANTE_11_Arboreal
+3,3,sa_fari_000768,four-eyed opossum,SHINTUYA_15_Arboreal
+3,3,sa_fari_000756,northern tamandua,MS#91_sorted
+3,3,sa_fari_000579,red brocket deer,MLC_16_Terrestrial
+3,3,sa_fari_000328,squirrel monkey,ROMERO_9_Arboreal
+3,3,sa_fari_000233,collared peccary,MS#100_sorted
+3,3,sa_fari_000109,common opossum,MS#94_sorted
+3,3,sa_fari_000635,agouti,MS#100_sorted
+3,3,sa_fari_000067,collared peccary,MS#1_sorted
+3,3,sa_fari_000182,kinkajou,DIAMANTE_5_Arboreal
+3,3,sa_fari_000408,ninebanded armadillo,MS#161_sorted
+3,3,sa_fari_000307,paca,MLC_1_Terrestrial
+3,3,sa_fari_000269,red-billed currasow,SHINTUYA_1_Terrestrial
+3,3,sa_fari_000458,squirrel,MS#132_sorted
+3,3,sa_fari_000777,night monkey,ROMERO_19_Arboreal
+3,3,sa_fari_000469,trumpeter,MLC_12_Terrestrial
+3,3,sa_fari_000414,white-nosed coati,MS#126_sorted
+3,3,sa_fari_000451,agouti,DIAMANTE_15_Terrestrial
+3,3,sa_fari_000687,ocelot,MLC_16_Terrestrial
+3,3,sa_fari_000728,porcupine,SHINTUYA_10_Arboreal
+3,3,sa_fari_000753,crab-eating raccoon,MLC_18_Terrestrial
+3,3,sa_fari_000288,kinkajou,MLC_1_Arboreal
+3,3,sa_fari_000698,puma,DIAMANTE_17_Terrestrial
+3,3,sa_fari_000275,baird's tapir,DIAMANTE_17_Terrestrial
+3,3,sa_fari_000450,porcupine,SHINTUYA_15_Arboreal
+3,3,sa_fari_000222,agouti,MS#62_sorted
+3,3,sa_fari_000356,night monkey,ROMERO_13_Arboreal
+3,3,sa_fari_000253,white-nosed coati,MS#120_sorted
+3,3,sa_fari_000507,baird's tapir,DIAMANTE_17_Terrestrial
+3,3,sa_fari_000803,capuchin monkey,MLC_6_Arboreal
+3,3,sa_fari_000676,trumpeter,MLC_16_Terrestrial
+3,3,sa_fari_000187,night monkey,ROMERO_19_Arboreal
+3,3,sa_fari_000096,capuchin monkey,DIAMANTE_11_Arboreal
+3,3,sa_fari_000489,ninebanded armadillo,MS#150_sorted
+3,3,sa_fari_000119,ocelot,MLC_18_Terrestrial
+3,3,sa_fari_000542,ninebanded armadillo,MLC_10_Terrestrial
+4,1,sa_fari_000226,common opossum,MS#145_sorted
+4,1,sa_fari_000134,crab-eating raccoon,MS#125_sorted
+4,1,sa_fari_000368,northern tamandua,MS#94_sorted
+4,1,sa_fari_000607,kinkajou,MLC_1_Arboreal
+4,1,sa_fari_000295,red brocket deer,DIAMANTE_15_Terrestrial
+4,1,sa_fari_000584,collared peccary,MS#1_sorted
+4,1,sa_fari_000158,puma,MLC_10_Terrestrial
+4,1,sa_fari_000717,squirrel monkey,MS#125_sorted
+4,1,sa_fari_000525,baird's tapir,DIAMANTE_17_Terrestrial
+4,1,sa_fari_000688,jaguar,MLC_6_Terrestrial
+4,1,sa_fari_000117,paca,SHINTUYA_1_Terrestrial
+4,1,sa_fari_000316,ninebanded armadillo,MS#134_sorted
+4,1,sa_fari_000411,great tinamou,MS#91_sorted
+4,1,sa_fari_000269,red-billed currasow,SHINTUYA_1_Terrestrial
+4,1,sa_fari_000238,agouti,MS#65_sorted
+4,1,sa_fari_000777,night monkey,ROMERO_19_Arboreal
+4,1,sa_fari_000317,porcupine,SHINTUYA_10_Arboreal
+4,1,sa_fari_000138,squirrel,DIAMANTE_11_Arboreal
+4,1,sa_fari_000391,four-eyed opossum,ROMERO_19_Arboreal
+4,1,sa_fari_000230,ocelot,MLC_18_Terrestrial
+4,1,sa_fari_000202,trumpeter,MLC_1_Terrestrial
+4,1,sa_fari_000097,capuchin monkey,ROMERO_5_Arboreal
+4,1,sa_fari_000727,white-nosed coati,MS#136_sorted
+4,3,sa_fari_000226,common opossum,MS#145_sorted
+4,3,sa_fari_000134,crab-eating raccoon,MS#125_sorted
+4,3,sa_fari_000140,four-eyed opossum,MS#66_sorted
+4,3,sa_fari_000057,great tinamou,MS#147_sorted
+4,3,sa_fari_000010,kinkajou,DIAMANTE_5_Arboreal
+4,3,sa_fari_000368,northern tamandua,MS#94_sorted
+4,3,sa_fari_000675,red brocket deer,DIAMANTE_17_Terrestrial
+4,3,sa_fari_000247,red brocket deer,MLC_1_Terrestrial
+4,3,sa_fari_000048,agouti,MS#65_sorted
+4,3,sa_fari_000731,jaguar,DIAMANTE_17_Terrestrial
+4,3,sa_fari_000376,kinkajou,DIAMANTE_12_Arboreal
+4,3,sa_fari_000607,kinkajou,MLC_1_Arboreal
+4,3,sa_fari_000184,northern tamandua,MS#100_sorted
+4,3,sa_fari_000295,red brocket deer,DIAMANTE_15_Terrestrial
+4,3,sa_fari_000412,squirrel monkey,arb_066
+4,3,sa_fari_000584,collared peccary,MS#1_sorted
+4,3,sa_fari_000325,crab-eating raccoon,MS#125_sorted
+4,3,sa_fari_000175,four-eyed opossum,MS#129_sorted
+4,3,sa_fari_000804,great tinamou,MS#66_sorted
+4,3,sa_fari_000110,northern tamandua,MS#94_sorted
+4,3,sa_fari_000085,paca,MLC_16_Terrestrial
+4,3,sa_fari_000281,porcupine,SHINTUYA_5_Arboreal
+4,3,sa_fari_000158,puma,MLC_10_Terrestrial
+4,3,sa_fari_000743,red-billed currasow,MLC_1_Terrestrial
+4,3,sa_fari_000717,squirrel monkey,MS#125_sorted
+4,3,sa_fari_000236,trumpeter,DIAMANTE_11_Arboreal
+4,3,sa_fari_000566,agouti,MS#65_sorted
+4,3,sa_fari_000525,baird's tapir,DIAMANTE_17_Terrestrial
+4,3,sa_fari_000285,puma,MLC_18_Terrestrial
+4,3,sa_fari_000394,squirrel,MS#147_sorted
+4,3,sa_fari_000688,jaguar,MLC_6_Terrestrial
+4,3,sa_fari_000117,paca,SHINTUYA_1_Terrestrial
+4,3,sa_fari_000316,ninebanded armadillo,MS#134_sorted
+4,3,sa_fari_000328,squirrel monkey,ROMERO_9_Arboreal
+4,3,sa_fari_000109,common opossum,MS#94_sorted
+4,3,sa_fari_000262,crab-eating raccoon,MLC_18_Terrestrial
+4,3,sa_fari_000411,great tinamou,MS#91_sorted
+4,3,sa_fari_000036,ocelot,MS#132_sorted
+4,3,sa_fari_000492,paca,SHINTUYA_5_Terrestrial
+4,3,sa_fari_000755,red-billed currasow,ROMERO_9_Arboreal
+4,3,sa_fari_000347,white-nosed coati,MS#100_sorted
+4,3,sa_fari_000215,jaguar,MS#70_sorted
+4,3,sa_fari_000269,red-billed currasow,SHINTUYA_1_Terrestrial
+4,3,sa_fari_000458,squirrel,MS#132_sorted
+4,3,sa_fari_000238,agouti,MS#65_sorted
+4,3,sa_fari_000777,night monkey,ROMERO_19_Arboreal
+4,3,sa_fari_000317,porcupine,SHINTUYA_10_Arboreal
+4,3,sa_fari_000758,collared peccary,MS#91_sorted
+4,3,sa_fari_000013,common opossum,MS#94_sorted
+4,3,sa_fari_000138,squirrel,DIAMANTE_11_Arboreal
+4,3,sa_fari_000014,baird's tapir,MLC_16_Terrestrial
+4,3,sa_fari_000391,four-eyed opossum,ROMERO_19_Arboreal
+4,3,sa_fari_000799,puma,DIAMANTE_17_Terrestrial
+4,3,sa_fari_000770,capuchin monkey,MS#85_sorted
+4,3,sa_fari_000255,night monkey,SHINTUYA_17_Arboreal
+4,3,sa_fari_000421,collared peccary,SHINTUYA_11_Terrestrial
+4,3,sa_fari_000230,ocelot,MLC_18_Terrestrial
+4,3,sa_fari_000450,porcupine,SHINTUYA_15_Arboreal
+4,3,sa_fari_000202,trumpeter,MLC_1_Terrestrial
+4,3,sa_fari_000477,capuchin monkey,ROMERO_5_Arboreal
+4,3,sa_fari_000671,night monkey,DIAMANTE_10_Arboreal
+4,3,sa_fari_000796,baird's tapir,MLC_1_Terrestrial
+4,3,sa_fari_000097,capuchin monkey,ROMERO_5_Arboreal
+4,3,sa_fari_000071,trumpeter,MLC_16_Terrestrial
+4,3,sa_fari_000587,ninebanded armadillo,MS#147_sorted
+4,3,sa_fari_000470,ninebanded armadillo,MS#161_sorted
+4,3,sa_fari_000370,ocelot,MLC_18_Terrestrial
+4,3,sa_fari_000705,white-nosed coati,MS#120_sorted
+4,3,sa_fari_000727,white-nosed coati,MS#136_sorted

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<style>text{font-family:Arial,sans-serif;fill:#202124}.small{font-size:12px}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}</style>
+<text x="78" y="28" font-size="18" font-weight="bold">Audio selection precision and correction yield (source OOF)</text>
+<text x="78.0" y="53" class="small">Precision among processed clips</text>
+<line x1="78.0" y1="454.0" x2="450.0" y2="454.0" class="grid"/><text x="69.0" y="458.0" text-anchor="end" class="small">0%</text>
+<line x1="78.0" y1="377.6" x2="450.0" y2="377.6" class="grid"/><text x="69.0" y="381.6" text-anchor="end" class="small">5%</text>
+<line x1="78.0" y1="301.2" x2="450.0" y2="301.2" class="grid"/><text x="69.0" y="305.2" text-anchor="end" class="small">10%</text>
+<line x1="78.0" y1="224.8" x2="450.0" y2="224.8" class="grid"/><text x="69.0" y="228.8" text-anchor="end" class="small">15%</text>
+<line x1="78.0" y1="148.4" x2="450.0" y2="148.4" class="grid"/><text x="69.0" y="152.4" text-anchor="end" class="small">20%</text>
+<line x1="78.0" y1="72.0" x2="450.0" y2="72.0" class="grid"/><text x="69.0" y="76.0" text-anchor="end" class="small">25%</text>
+<rect x="86.0" y="308.9" width="10" height="145.1" fill="#1769aa"/>
+<rect x="99.0" y="232.1" width="10" height="221.9" fill="#e67e22"/>
+<rect x="112.0" y="329.9" width="10" height="124.1" fill="#7f8c8d"/>
+<text x="104.0" y="472" text-anchor="middle" class="small">10%</text>
+<rect x="179.0" y="291.4" width="10" height="162.6" fill="#1769aa"/>
+<rect x="192.0" y="261.4" width="10" height="192.6" fill="#e67e22"/>
+<rect x="205.0" y="329.8" width="10" height="124.2" fill="#7f8c8d"/>
+<text x="197.0" y="472" text-anchor="middle" class="small">20%</text>
+<rect x="272.0" y="285.8" width="10" height="168.2" fill="#1769aa"/>
+<rect x="285.0" y="254.4" width="10" height="199.6" fill="#e67e22"/>
+<rect x="298.0" y="330.2" width="10" height="123.8" fill="#7f8c8d"/>
+<text x="290.0" y="472" text-anchor="middle" class="small">30%</text>
+<rect x="365.0" y="288.0" width="10" height="166.0" fill="#1769aa"/>
+<rect x="378.0" y="264.1" width="10" height="189.9" fill="#e67e22"/>
+<rect x="391.0" y="328.6" width="10" height="125.4" fill="#7f8c8d"/>
+<text x="383.0" y="472" text-anchor="middle" class="small">50%</text>
+<line x1="78.0" y1="72" x2="450.0" y2="72" class="axis"/>
+<text x="486.0" y="53" class="small">Corrections per eligible clip</text>
+<line x1="486.0" y1="454.0" x2="858.0" y2="454.0" class="grid"/><text x="477.0" y="458.0" text-anchor="end" class="small">0%</text>
+<line x1="486.0" y1="377.6" x2="858.0" y2="377.6" class="grid"/><text x="477.0" y="381.6" text-anchor="end" class="small">5%</text>
+<line x1="486.0" y1="301.2" x2="858.0" y2="301.2" class="grid"/><text x="477.0" y="305.2" text-anchor="end" class="small">10%</text>
+<line x1="486.0" y1="224.8" x2="858.0" y2="224.8" class="grid"/><text x="477.0" y="228.8" text-anchor="end" class="small">15%</text>
+<line x1="486.0" y1="148.4" x2="858.0" y2="148.4" class="grid"/><text x="477.0" y="152.4" text-anchor="end" class="small">20%</text>
+<line x1="486.0" y1="72.0" x2="858.0" y2="72.0" class="grid"/><text x="477.0" y="76.0" text-anchor="end" class="small">25%</text>
+<rect x="494.0" y="439.4" width="10" height="14.6" fill="#1769aa"/>
+<rect x="507.0" y="431.7" width="10" height="22.3" fill="#e67e22"/>
+<rect x="520.0" y="441.6" width="10" height="12.4" fill="#7f8c8d"/>
+<text x="512.0" y="472" text-anchor="middle" class="small">10%</text>
+<rect x="587.0" y="421.5" width="10" height="32.5" fill="#1769aa"/>
+<rect x="600.0" y="415.5" width="10" height="38.5" fill="#e67e22"/>
+<rect x="613.0" y="429.2" width="10" height="24.8" fill="#7f8c8d"/>
+<text x="605.0" y="472" text-anchor="middle" class="small">20%</text>
+<rect x="680.0" y="403.5" width="10" height="50.5" fill="#1769aa"/>
+<rect x="693.0" y="394.1" width="10" height="59.9" fill="#e67e22"/>
+<rect x="706.0" y="416.8" width="10" height="37.2" fill="#7f8c8d"/>
+<text x="698.0" y="472" text-anchor="middle" class="small">30%</text>
+<rect x="773.0" y="371.0" width="10" height="83.0" fill="#1769aa"/>
+<rect x="786.0" y="359.0" width="10" height="95.0" fill="#e67e22"/>
+<rect x="799.0" y="391.3" width="10" height="62.7" fill="#7f8c8d"/>
+<text x="791.0" y="472" text-anchor="middle" class="small">50%</text>
+<line x1="486.0" y1="72" x2="858.0" y2="72" class="axis"/>
+<rect x="78" y="478" width="10" height="10" fill="#1769aa"/><text x="92" y="488" class="small">Usefulness rank</text>
+<rect x="233" y="478" width="10" height="10" fill="#e67e22"/><text x="247" y="488" class="small">Camera uncertainty</text>
+<rect x="388" y="478" width="10" height="10" fill="#7f8c8d"/><text x="402" y="488" class="small">Random (mean)</text>
+</svg>

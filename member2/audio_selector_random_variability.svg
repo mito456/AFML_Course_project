@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="430" viewBox="0 0 700 430">
+<style>text{font-family:Arial,sans-serif;fill:#202124}.small{font-size:12px}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}</style>
+<text x="72" y="28" font-size="18" font-weight="bold">Random-selection variability across 100 seeds</text>
+<line x1="72" y1="378.0" x2="662" y2="378.0" class="grid"/><text x="63" y="382.0" text-anchor="end" class="small">0</text>
+<line x1="72" y1="344.6" x2="662" y2="344.6" class="grid"/><text x="63" y="348.6" text-anchor="end" class="small">10</text>
+<line x1="72" y1="311.2" x2="662" y2="311.2" class="grid"/><text x="63" y="315.2" text-anchor="end" class="small">20</text>
+<line x1="72" y1="277.8" x2="662" y2="277.8" class="grid"/><text x="63" y="281.8" text-anchor="end" class="small">30</text>
+<line x1="72" y1="244.4" x2="662" y2="244.4" class="grid"/><text x="63" y="248.4" text-anchor="end" class="small">40</text>
+<line x1="72" y1="211.0" x2="662" y2="211.0" class="grid"/><text x="63" y="215.0" text-anchor="end" class="small">50</text>
+<line x1="72" y1="177.6" x2="662" y2="177.6" class="grid"/><text x="63" y="181.6" text-anchor="end" class="small">60</text>
+<line x1="72" y1="144.2" x2="662" y2="144.2" class="grid"/><text x="63" y="148.2" text-anchor="end" class="small">70</text>
+<line x1="72" y1="110.8" x2="662" y2="110.8" class="grid"/><text x="63" y="114.8" text-anchor="end" class="small">80</text>
+<line x1="72" y1="77.4" x2="662" y2="77.4" class="grid"/><text x="63" y="81.4" text-anchor="end" class="small">90</text>
+<line x1="145.75" y1="358.0" x2="145.75" y2="301.2" stroke="#7f8c8d" stroke-width="3"/>
+<line x1="137.75" y1="358.0" x2="153.75" y2="358.0" stroke="#7f8c8d" stroke-width="2"/><line x1="137.75" y1="301.2" x2="153.75" y2="301.2" stroke="#7f8c8d" stroke-width="2"/>
+<circle cx="145.75" cy="329.4" r="5" fill="#1769aa"/><text x="145.75" y="397" text-anchor="middle" class="small">10%</text><text x="145.75" y="293.2" text-anchor="middle" class="small">mean 14.5</text>
+<line x1="293.25" y1="321.2" x2="293.25" y2="247.7" stroke="#7f8c8d" stroke-width="3"/>
+<line x1="285.25" y1="321.2" x2="301.25" y2="321.2" stroke="#7f8c8d" stroke-width="2"/><line x1="285.25" y1="247.7" x2="301.25" y2="247.7" stroke="#7f8c8d" stroke-width="2"/>
+<circle cx="293.25" cy="281.1" r="5" fill="#1769aa"/><text x="293.25" y="397" text-anchor="middle" class="small">20%</text><text x="293.25" y="239.7" text-anchor="middle" class="small">mean 29.0</text>
+<line x1="440.75" y1="274.4" x2="440.75" y2="190.9" stroke="#7f8c8d" stroke-width="3"/>
+<line x1="432.75" y1="274.4" x2="448.75" y2="274.4" stroke="#7f8c8d" stroke-width="2"/><line x1="432.75" y1="190.9" x2="448.75" y2="190.9" stroke="#7f8c8d" stroke-width="2"/>
+<circle cx="440.75" cy="233.0" r="5" fill="#1769aa"/><text x="440.75" y="397" text-anchor="middle" class="small">30%</text><text x="440.75" y="182.9" text-anchor="middle" class="small">mean 43.4</text>
+<line x1="588.25" y1="194.3" x2="588.25" y2="80.7" stroke="#7f8c8d" stroke-width="3"/>
+<line x1="580.25" y1="194.3" x2="596.25" y2="194.3" stroke="#7f8c8d" stroke-width="2"/><line x1="580.25" y1="80.7" x2="596.25" y2="80.7" stroke="#7f8c8d" stroke-width="2"/>
+<circle cx="588.25" cy="133.3" r="5" fill="#1769aa"/><text x="588.25" y="397" text-anchor="middle" class="small">50%</text><text x="588.25" y="72.7" text-anchor="middle" class="small">mean 73.3</text>
+<line x1="72" y1="64" x2="662" y2="64" class="axis"/><text x="72" y="418" class="small">Vertical bars: min-max useful clips captured; dots: mean. Budget is share of eligible source clips.</text></svg>
