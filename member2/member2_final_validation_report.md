@@ -1,7 +1,5 @@
 # Member 2 final validation report
 
-> **Superseded for numerical reporting (2026-11-15).** This earlier reconciliation report contains a policy table that differs from the authoritative final-validation CSV. Use `../../SAFARI_MEMBER2_FINAL_REPORT.md` and `experiments/final_validation/results/` instead. This file is preserved for traceability.
-
 ## Experimental protocol
 
 The decision unit is a camera-triggered clip with audio available. Policies process audio for an exact per-outer-fold `ceil(budget × eligible clips)` at 10%, 20%, 30%, or 50%; the common source cohort has 1785 clips from 184 sites. Source selector fitting/configuration uses source data only with five supplied site-disjoint outer folds and grouped inner folds. Target adaptation and test are frozen evaluations: their labels are read only to calculate metrics.

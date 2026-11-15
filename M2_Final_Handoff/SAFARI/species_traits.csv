@@ -1,0 +1,24 @@
+species,vocality,night_activity,tree_dwelling,source_reference,evidence_quality,evidence_status
+agouti,low,diurnal,no,Animal Diversity Web: Dasyprocta punctata https://animaldiversity.org/accounts/Dasyprocta_punctata/,documented,documented species-level evidence
+baird's tapir,low,nocturnal,no,IUCN Red List: Tapirus bairdii https://www.iucnredlist.org/species/21471/45173340,documented,documented species-level evidence
+capuchin monkey,high,diurnal,yes,Animal Diversity Web: Cebus capucinus https://animaldiversity.org/accounts/Cebus_capucinus/,documented,documented species-level evidence
+collared peccary,moderate,diurnal,no,Animal Diversity Web: Pecari tajacu https://animaldiversity.org/accounts/Pecari_tajacu/,documented,documented species-level evidence
+common opossum,moderate,nocturnal,yes,Animal Diversity Web: Didelphis marsupialis https://animaldiversity.org/accounts/Didelphis_marsupialis/,documented,documented species-level evidence
+crab-eating raccoon,moderate,nocturnal,partial,Animal Diversity Web: Procyon cancrivorus https://animaldiversity.org/accounts/Procyon_cancrivorus/,documented,documented species-level evidence
+four-eyed opossum,unknown,nocturnal,yes,IUCN Red List: Philander opossum https://www.iucnredlist.org/species/16711/22118667,documented,documented species-level evidence
+great tinamou,moderate,diurnal,no,Animal Diversity Web: Tinamus major https://animaldiversity.org/accounts/Tinamus_major/,documented,documented species-level evidence
+jaguar,moderate,nocturnal,no,Animal Diversity Web: Panthera onca https://animaldiversity.org/accounts/Panthera_onca/,documented,documented species-level evidence
+kinkajou,moderate,nocturnal,yes,Animal Diversity Web: Potos flavus https://animaldiversity.org/accounts/Potos_flavus/,documented,documented species-level evidence
+night monkey,moderate,nocturnal,yes,Animal Diversity Web: Aotus https://animaldiversity.org/accounts/Aotus/,documented,genus-level evidence; class is not species-resolved
+ninebanded armadillo,low,nocturnal,no,Animal Diversity Web: Dasypus novemcinctus https://animaldiversity.org/accounts/Dasypus_novemcinctus/,documented,documented species-level evidence
+northern tamandua,low,nocturnal,partial,Animal Diversity Web: Tamandua mexicana https://animaldiversity.org/accounts/Tamandua_mexicana/,documented,documented species-level evidence
+ocelot,moderate,nocturnal,partial,Animal Diversity Web: Leopardus pardalis https://animaldiversity.org/accounts/Leopardus_pardalis/,documented,documented species-level evidence
+paca,low,nocturnal,no,Animal Diversity Web: Cuniculus paca https://animaldiversity.org/accounts/Cuniculus_paca/,documented,documented species-level evidence
+porcupine,low,nocturnal,yes,Animal Diversity Web: Coendou https://animaldiversity.org/accounts/Coendou/,documented,genus-level evidence; class is not species-resolved
+puma,moderate,nocturnal,partial,Animal Diversity Web: Puma concolor https://animaldiversity.org/accounts/Puma_concolor/,documented,documented species-level evidence
+red brocket deer,low,cathemeral,no,IUCN Red List genus account: Mazama https://www.iucnredlist.org/search?query=Mazama&searchType=species,reasonable_assumption,broad class/genus evidence; conservative ecological assumption
+red-billed currasow,moderate,diurnal,partial,BirdLife DataZone: Crax blumenbachii https://datazone.birdlife.org/species/factsheet/red-billed-curassow-crax-blumenbachii,documented,documented species-level evidence
+squirrel,unknown,unknown,unknown,Class label is not species-resolved; no species-level trait source,unknown,unknown rather than inferred traits
+squirrel monkey,high,diurnal,yes,Animal Diversity Web: Saimiri https://animaldiversity.org/accounts/Saimiri/,documented,genus-level evidence; class is not species-resolved
+trumpeter,moderate,diurnal,no,Animal Diversity Web: Psophia https://animaldiversity.org/accounts/Psophia/,documented,genus-level evidence; class is not species-resolved
+white-nosed coati,moderate,diurnal,partial,Animal Diversity Web: Nasua narica https://animaldiversity.org/accounts/Nasua_narica/,documented,documented species-level evidence

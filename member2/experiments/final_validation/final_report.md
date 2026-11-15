@@ -1,7 +1,5 @@
 # Final Member 2 validation
 
-> **Superseded for numerical reporting (2026-11-15).** This report describes an earlier output state (including a 1,000-resample statement). Use `../../../../SAFARI_MEMBER2_FINAL_REPORT.md` and the current `results/` CSVs instead. Preserved for traceability.
-
 ## Audit and provenance
 
 Validated 1785 source audio-eligible clips from 184 sites. Camera and audio posteriors were joined by `video_name`; every source row declares `prob_source=oof_site_cv`, and supplied outer folds have zero site overlap. Source audio posterior is used only to construct/evaluate the retrospective 95/5 fusion target. Selectors receive camera posterior/uncertainty, visual embedding, IR and placement only.
